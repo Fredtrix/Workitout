@@ -51,7 +51,6 @@ overflow:hidden;
 }
 #navigasjonsbar li{
 display: inline;
-
 margin-left:3.4%;
 margin-right: 5%;
 list-style:none;
@@ -105,11 +104,11 @@ background-image: linear-gradient(to bottom left, #808080 0%, #070808 100%);
 
 font-family: tahoma;
 }
-
-
+/*Finn ditt treningssenter*/
 
 aside{
 
+float:left;
 	text-align:left;
 	width: 239px;
 	height: 400px;
