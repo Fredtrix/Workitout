@@ -12,7 +12,13 @@ border-radius:35px;
 margin-left:7%;
 margin-right:auto;
 }
-
+/*Logo*/
+#logo{
+text-align:center;
+font-size:60px;
+margin-top:-10px;
+color-gradient:white;
+}
 /*Navigasjon:*/
 
 #navigasjonsbar{
@@ -181,4 +187,10 @@ padding: 7px;
 border-top-left-radius: 2px;
 }
 /*TreningSide*/
+.hide{
+display:none;
+margin-left:20px;
+}
+
+/*Kontakt*/
 

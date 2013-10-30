@@ -32,6 +32,7 @@ include("webProsjektTopp.php");
 		  {
 		  	include("narmestTrening.php");
 		  }
+		  
 		}
 		else 
 		{
