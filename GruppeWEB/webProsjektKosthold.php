@@ -7,6 +7,4 @@
 <li><a href="#">Forum</a></li>
 <li><a href="#">Kontakt</a></li>
 </ul>
-
 </aside>
-
