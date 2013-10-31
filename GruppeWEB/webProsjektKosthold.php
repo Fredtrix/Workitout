@@ -31,7 +31,7 @@ $(document).ready(function linker(){
 		du har rundt dieter. Vi har noen tips på om du skal gå opp eller ned i vekt. 
 	</p>
 	
-	<img src="matpyramide.jpg" alt ="En kostholdspyramide">
+	<img src="mat.jpg" alt ="En kostholdspyramide">
 	
 	<figcaption>
 	Dette er en Kostholds pyramide, det er en pyramide som kan gi en indikasjon på hva du bør spise. det er ikke slik at du må forholde deg
