@@ -31,12 +31,12 @@
 
          <input type="submit" value="Send" name="sendMail"/><br>
         </form>
-		</article>
+		
 		<?php
 $dato= date("d-m-Y H:i");
 if (isset($_REQUEST["sendMail"]))
 {
-        mail("treningsprat@hotmail.com",$_REQUEST["emne"],$_REQUEST["melding"],"From:".$_REQUEST["email"]);
+        mail("treningsprat@hotmail.no",$_REQUEST["emne"],$_REQUEST["melding"],"From:".$_REQUEST["email"]);
         echo "Mail er sendt.<br>";
         echo "Tid for sendt mail er: $dato <br>";
        
@@ -47,3 +47,4 @@ if (isset($_REQUEST["sendMail"]))
 
 
 ?>
+</article>

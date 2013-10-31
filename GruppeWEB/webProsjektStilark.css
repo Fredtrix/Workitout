@@ -114,8 +114,7 @@ font-family: tahoma;
 /*Finn ditt treningssenter*/
 
 aside{
-
-float:left;
+    float:left;
 	text-align:left;
 	width: 239px;
 	height: 400px;
@@ -197,6 +196,7 @@ margin-left:20px;
 }
 #navigasjonsbarTrening 
 {
+
 list-style-image:url('icon_dumbbell.gif');
 }
 
