@@ -2,7 +2,7 @@
 $(document).ready(function linker(){
   
   $("#Kost").click(function(){
-    $(".hide").slideToggle(200);
+    $(".hide").show(200);
   });
 });
 </script>
@@ -19,6 +19,7 @@ $(document).ready(function linker(){
 </aside>
 
 <article>
+							<h2> IKKE velg disse diettene</h2>
  <h3>Ormdietten</h3>
 Å svelge et bendelormegg er en slankekur, tro det eller ei. Dietten går ut på å ha en bendelorm i magen, så den kan forsyne seg av all næringen du inntar.
 Denne dietten har blitt markedsført som en naturlig måte å bli kvitt fett, uten trening, sulting eller operasjon.

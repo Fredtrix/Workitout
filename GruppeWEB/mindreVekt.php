@@ -3,10 +3,12 @@
 $(document).ready(function linker(){
   
   $("#Kost").click(function(){
-    $(".hide").slideToggle(200);
+    $(".hide").show(200);
   });
 });
 </script>
+
+
 
 <aside>
 <ul id="navigasjonsbarTrening">
@@ -17,6 +19,8 @@ $(document).ready(function linker(){
 <li class="hide"><a href="webProsjektHoved.php?page=9">Dietter du IKKE skal velge </a></li>
 </ul>
 </aside>
+
+							<h2> Tips for å gå ned i vekt! </h2>
 
 <article>
 Å gå ned i vekt er ingen lett sak, å det gjør seg ikke bare på noen uker. det krever deidkasjon å hardt arbeid.
