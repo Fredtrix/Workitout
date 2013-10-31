@@ -198,3 +198,14 @@ margin-left:20px;
 
 /*Kontakt*/
 
+
+article{
+text-align:center;
+margin-left:30%;
+margin-right:10%;
+background-color:white;
+border: solid black 2px;
+border-radius: 10px;
+}
+
+

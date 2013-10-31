@@ -32,7 +32,18 @@ include("webProsjektTopp.php");
 		  {
 		  	include("narmestTrening.php");
 		  }
-		  
+		elseif($_GET["page"]==7)
+		  {
+		  	include("mindreVekt.php");
+		  }
+		  elseif($_GET["page"]==8)
+		  {
+		  	include("myeVekt.php");
+		  }
+		   elseif($_GET["page"]==9)
+		  {
+		  	include("ikkediett.php");
+		  }
 		}
 		else 
 		{
@@ -45,5 +56,7 @@ include("webProsjektTopp.php");
 include ("webProsjektFooter.php");
 ?>
 
+
+	
 
 			
