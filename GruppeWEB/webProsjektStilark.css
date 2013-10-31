@@ -195,6 +195,10 @@ border-top-left-radius: 2px;
 display:none;
 margin-left:20px;
 }
+#navigasjonsbarTrening 
+{
+list-style-image:url('icon_dumbbell.gif');
+}
 
 /*Kontakt*/
 
