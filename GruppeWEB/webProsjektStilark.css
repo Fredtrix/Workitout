@@ -17,8 +17,9 @@ margin-right:auto;
 text-align:center;
 font-size:60px;
 margin-top:-10px;
-color-gradient:white;
+
 }
+
 /*Navigasjon:*/
 
 #navigasjonsbar{
@@ -156,6 +157,9 @@ text-decoration:none;
 
 h2{
 	text-align: center;
+}
+article{
+margin-left:27%;
 }
 
 footer{

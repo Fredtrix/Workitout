@@ -8,6 +8,7 @@
 <li><a href="#">Kontakt</a></li>
 </ul>
 </aside>
+<article>
 <form action="" method="post">
          Fornavn:<br>
          <input type="text" name="fornavn" /><br>
@@ -35,6 +36,7 @@
 
          <input type="submit" value="Send" name="sendMail"/><br>
         </form>
+		</article>
 		<?php
 $dato= date("d-m-Y H:i");
 if (isset($_REQUEST["sendMail"]))

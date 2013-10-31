@@ -7,7 +7,6 @@ $(document).ready(function linker(){
 });
 </script>
 
-
 <aside>
 <ul id="navigasjonsbarTrening">
 <li><a href="#">Treningsprogram</a></li>
@@ -18,6 +17,7 @@ $(document).ready(function linker(){
 <li class="hide"><a href="#">Gå ned i vekt</a></li>
 </ul>
 </aside>
+
 <article id="trening">
 <h2></h2>
 <p></p>
