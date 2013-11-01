@@ -44,6 +44,18 @@ include("webProsjektTopp.php");
 		  {
 		  	include("ikkediett.php");
 		  }
+		   elseif($_GET["page"]==20)
+		  {
+		  	include("webProsjektTreningStyrke.php");
+		  }
+		   elseif($_GET["page"]==21)
+		  {
+		  	include("webProsjektTreningKondisjon.php");
+		  }
+		   elseif($_GET["page"]==22)
+		  {
+		  	include("webProsjektTreningIdrett.php");
+		  }
 		}
 		else 
 		{

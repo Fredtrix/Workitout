@@ -18,5 +18,5 @@ $(document).ready(function linker(){
 </ul>
 </aside>
 <article>
-<h2>Trening</h2>
-<article>
+<h2>Kondisjon</h2>
+</article>

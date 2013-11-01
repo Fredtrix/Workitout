@@ -3,7 +3,7 @@
 <li><a href="#">Kontakt</a></li>
 </ul>
 </aside>
-<article>
+<article id="kontakt">
 <form action="" method="post">
          Fornavn:<br>
          <input type="text" name="fornavn" /><br>
