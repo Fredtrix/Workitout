@@ -21,6 +21,7 @@ $(document).ready(function linker(){
 <article>
 						<h2>Tips for å gå opp i vekt! </h2>
 
+<p>
 For å gå opp i vekt må du ha et energioverskudd på 500–3000 kalorier per dag avhengig av hvor aktiv du er. Det viktigste er at du innarbeider rutiner som gir gradvis og sikker vektøkning.
 <br> <br>
 Unngå stress
@@ -59,4 +60,5 @@ Enda bedre er det å lage en ekstra middag dagen i forveien og varme den opp igj
 Kjøp inn noen gode kokebøker eller 
 abonner på nyhetsmailer med matoppskrifter. Du kan godt prøve å lage et
  kostholdsprogram ut fra de ovennevnte tipsene. Da skal du ha som mål å legge på deg 0,5–1 kilo i uka.
+ </p>
  </article>

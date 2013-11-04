@@ -20,6 +20,7 @@ $(document).ready(function linker(){
 
 <article>
 							<h2> IKKE velg disse diettene</h2>
+<p>
  <h3>Ormdietten</h3>
 Å svelge et bendelormegg er en slankekur, tro det eller ei. Dietten går ut på å ha en bendelorm i magen, så den kan forsyne seg av all næringen du inntar.
 Denne dietten har blitt markedsført som en naturlig måte å bli kvitt fett, uten trening, sulting eller operasjon.
@@ -54,4 +55,5 @@ Bananpose-dietten er en farlig trend modellene på catwalken har satt i gang for
 Den intravenøse blandingen inneholder flere vitaminer og mineraler, blant annet tiamin, folat og magnesium. Dette får kroppen til å fungere i det vanlige uten at du spiser ordentlig, og det holder sultfølelsen borte.
 Opprinnelig blir disse posene brukt som akutthjelp for alkoholikere med alvorlige undernæring.
 – Selvsagt er det bedre at de tar vitaminer enn ingenting, men det er ikke sunt, sier Cathrine Borchsenius.
+</p>
 </article>

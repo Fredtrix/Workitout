@@ -21,6 +21,7 @@ $(document).ready(function linker(){
 
 <article>
 							<h2> Tips for å gå ned i vekt! </h2>
+<p>
 Å gå ned i vekt er ingen lett sak, å det gjør seg ikke bare på noen uker. det krever deidkasjon å hardt arbeid.
 dette må være noe du virkelig vill å du må gå inn for det 100%. så denne artikkelen er laget for å hjelpe deg.
 <br>
@@ -69,4 +70,5 @@ Utnytt mulighetene i hverdagen. Ta trappen fremfor heisen, gå for å gi en besk
 <br><br>
 10. Bruk tid på å endre vaner
 Å endre vaner tar ofte lenger tid enn man tenker. Men det er viktig å jobbe målrettet med å innarbeide nye vaner, da vil det lettere for at det blir en naturlig del av  hverdagen din.
+</p>
 </article>
