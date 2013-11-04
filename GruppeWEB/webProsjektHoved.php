@@ -32,6 +32,18 @@ include("webProsjektTopp.php");
 		  {
 		  	include("narmestTrening.php");
 		  }
+		  elseif($_GET["page"]==10)
+		  {
+		  	include("proteinbutikk.php");
+		  }
+		  elseif($_GET["page"]==11)
+		  {
+		  	include("klesbutikk.php");
+		  }
+		  elseif($_GET["page"]==12) 
+		  {
+		  	include("handlekurv.php");
+		  }
 		}
 		else 
 		{
