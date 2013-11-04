@@ -19,7 +19,7 @@ $(document).ready(function linker(){
 </ul>
 </aside> 
 
-<article class="Ka">
+<article class="ka">
 							<h2> Tips for å gå ned i vekt! </h2>
 <p>
 Å gå ned i vekt er ingen lett sak, å det gjør seg ikke bare på noen uker. det krever deidkasjon å hardt arbeid.

@@ -21,7 +21,7 @@ $(document).ready(function linker(){
 </aside>
 
 
-<article class="Ka">
+<article class="ka">
 <h2> Generelt om kosthold </h2>
 	<p>
 		Man hører veldig mye om kosthold nå om dagen, at man skal spise mindre, spise mer, ikke spise på noen dager så
