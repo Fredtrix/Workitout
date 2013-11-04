@@ -1,11 +1,11 @@
  <script>
  $(document).ready(function linker(){
  
- $(".hide").hide(200);
+ $(".hide").hide;
    $("#Kost").click(function(){
      $(".hide").show(200);
  });
-
+});
 </script>
 
 <aside>

@@ -4,6 +4,7 @@
 $(".hide").hide(200);
  $("#Kost").click(function(){
   $(".hide").show(200);
+ });
 });
 </script>
 

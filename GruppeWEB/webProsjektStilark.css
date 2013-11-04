@@ -291,8 +291,8 @@ background-image: linear-gradient(to top, #000000 0%, #5C5A54 100%);
 }
 /*TreningSide*/
 .hide{
-
 margin-left:20px;
+display:none;
 }
 #navigasjonsbarTrening 
 {
