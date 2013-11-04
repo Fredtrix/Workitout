@@ -18,7 +18,7 @@ $(document).ready(function linker(){
 </ul>
 </aside>
 
-<article>
+<article class="Ka">
 							<h2> IKKE velg disse diettene</h2>
 <p>
  <h3>Ormdietten</h3>

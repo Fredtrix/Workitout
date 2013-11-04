@@ -221,6 +221,14 @@ margin-bottom:20px;
 }
 
 p{
-padding: 5px;
+padding: 4px;
 }
 
+.Ka{
+text-align:center;
+margin-left:30%;
+margin-right:10%;
+border-radius:10px;
+border: solid black 2px;
+margin-bottom: 1%;
+}

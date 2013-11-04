@@ -18,7 +18,7 @@ $(document).ready(function linker(){
 </ul>
 </aside>
 
-<article>
+<article class="Ka">
 						<h2>Tips for å gå opp i vekt! </h2>
 
 <p>
