@@ -1,27 +1,3 @@
-<script>
-$(document).ready(function linker(){
-  
-  $("#Kost").click(function(){
-    $(".hide").show(200);
-  });
-});
-</script>
-
-
-
-
-<aside>
-<ul id="navigasjonsbarTrening">
-<li><a href="webProsjektHoved.php?page=2">Generelt om kosthold</a></li>
-<li id="Kost"><a href="#">Kostholds planer</a></li>
-<li class="hide"><a href="webProsjektHoved.php?page=7">Tips for å gå ned i vekt </a></li>
-<li class="hide"><a href="webProsjektHoved.php?page=8">Tips for å gå opp i vekt </a></li>
-<li class="hide"><a href="webProsjektHoved.php?page=8">Dietter du IKKE skal velge </a></li>
-</ul>
-</aside>
-
-
-<article class="Ka">
 <h2> Generelt om kosthold </h2>
 	<p>
 		Man hører veldig mye om kosthold nå om dagen, at man skal spise mindre, spise mer, ikke spise på noen dager så
@@ -41,13 +17,13 @@ $(document).ready(function linker(){
 	
 	
 	<h5> Her har du to forksjellige sider med noen tips om hvordan du skal enten gå opp i vekt eller om du skal ned i vekt:</h5>
-<a href="webProsjektHoved.php?page=8"> Tips for deg som vil opp i vekt </a>
+<a href="myeVekt.php"> Tips for deg som vil opp i vekt </a>
 <br> <br>
 <a href="webProsjektHoved.php?page=7"> Tips til deg so vil gå ned i vekt </a>
 
 <h5> Her har du eksempel på 5 dietter du ikke skal prøve! </h5>
 
-<a href="webProsjektHoved.php?page=9"> IKKE velg disse diettene! </a>
+<a href="ikkediett.php"> IKKE velg disse diettene! </a>
 
 
 
@@ -65,5 +41,3 @@ http://www.greteroede.no/rdogtips/helse/1084640.o2.html
 Artikkelen om dietter du ikke skal velge er hentet fra:
 <br>
 http://www.klikk.no/helse/dinkost/vektkontroll/article405074.ece
-
-</article>

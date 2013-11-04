@@ -32,6 +32,7 @@ include("webProsjektTopp.php");
 		  {
 		  	include("narmestTrening.php");
 		  }
+<<<<<<< HEAD
 		  elseif($_GET["page"]==10)
 		  {
 		  	include("proteinbutikk.php");
@@ -43,6 +44,31 @@ include("webProsjektTopp.php");
 		  elseif($_GET["page"]==12) 
 		  {
 		  	include("handlekurv.php");
+=======
+		elseif($_GET["page"]==7)
+		  {
+		  	include("mindreVekt.php");
+		  }
+		  elseif($_GET["page"]==8)
+		  {
+		  	include("myeVekt.php");
+		  }
+		   elseif($_GET["page"]==9)
+		  {
+		  	include("ikkediett.php");
+		  }
+		   elseif($_GET["page"]==20)
+		  {
+		  	include("webProsjektTreningStyrke.php");
+		  }
+		   elseif($_GET["page"]==21)
+		  {
+		  	include("webProsjektTreningKondisjon.php");
+		  }
+		   elseif($_GET["page"]==22)
+		  {
+		  	include("webProsjektTreningIdrett.php");
+>>>>>>> 73a987db66ce117587252b8ceb8af0fd48a1a74a
 		  }
 		}
 		else 
@@ -56,5 +82,7 @@ include("webProsjektTopp.php");
 include ("webProsjektFooter.php");
 ?>
 
+
+	
 
 			

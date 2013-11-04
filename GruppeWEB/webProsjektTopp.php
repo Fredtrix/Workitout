@@ -12,7 +12,9 @@
 <!--topp-->
 <header>
 <div id="slide"><img src="styrke1.png" name="slide" alt="bilder"></div>
+<h1 id="logo">Treningsprat</h1>
 </header>
+
 <!--Navigasjon-->
 
 <ul id="navigasjonsbar">

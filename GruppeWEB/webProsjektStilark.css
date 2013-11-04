@@ -12,6 +12,13 @@ border-radius:35px;
 margin-left:7%;
 margin-right:auto;
 }
+/*Logo*/
+#logo{
+text-align:center;
+font-size:60px;
+margin-top:-10px;
+
+}
 
 /*Navigasjon:*/
 
@@ -51,7 +58,6 @@ overflow:hidden;
 }
 #navigasjonsbar li{
 display: inline;
-
 margin-left:3.4%;
 margin-right: 5%;
 list-style:none;
@@ -105,11 +111,10 @@ background-image: linear-gradient(to bottom left, #808080 0%, #070808 100%);
 
 font-family: tahoma;
 }
-
-
+/*Finn ditt treningssenter*/
 
 aside{
-
+    float:left;
 	text-align:left;
 	width: 239px;
 	height: 400px;
@@ -143,6 +148,7 @@ background-image: linear-gradient(to top, #000000 0%, #5C5A54 100%);
 	float: left;
 
 }
+
 aside li a{
 color:white;
 text-decoration:none;
@@ -150,6 +156,18 @@ text-decoration:none;
 
 h2{
 	text-align: center;
+}
+article{
+margin-left:27%;
+margin-right:17%;
+background: rgb(245,246,246); /* Old browsers */
+background: -moz-linear-gradient(45deg,  rgba(245,246,246,1) 0%, rgba(219,220,226,1) 54%, rgba(221,223,227,1) 57%, rgba(245,246,246,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,rgba(245,246,246,1)), color-stop(54%,rgba(219,220,226,1)), color-stop(57%,rgba(221,223,227,1)), color-stop(100%,rgba(245,246,246,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1) 54%,rgba(221,223,227,1) 57%,rgba(245,246,246,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1) 54%,rgba(221,223,227,1) 57%,rgba(245,246,246,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1) 54%,rgba(221,223,227,1) 57%,rgba(245,246,246,1) 100%); /* IE10+ */
+background: linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1) 54%,rgba(221,223,227,1) 57%,rgba(245,246,246,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5f6f6', endColorstr='#f5f6f6',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
 
 footer{
@@ -180,6 +198,7 @@ height: 30px;
 padding: 7px;
 width: 1155px;
 border-top-left-radius: 2px;
+<<<<<<< HEAD
 margin-left: 9.5%;
 display: none;
 
@@ -267,5 +286,40 @@ background-image: -webkit-linear-gradient(bottom, #000000 0%, #5C5A54 100%);
 
 /* W3C Markup, IE10 Release Preview */ 
 background-image: linear-gradient(to top, #000000 0%, #5C5A54 100%);
+=======
+}
+/*TreningSide*/
+.hide{
 
+margin-left:20px;
+}
+#navigasjonsbarTrening 
+{
+
+list-style-image:url('icon_dumbbell.gif');
+}
+
+/*Kontakt*/
+
+
+#kontakt{
+text-align:left;
+background-color:white;
+border: solid black 2px;
+border-radius: 10px;
+margin-bottom:20px;
+}
+
+p{
+padding: 4px;
+}
+>>>>>>> 73a987db66ce117587252b8ceb8af0fd48a1a74a
+
+.Ka{
+text-align:center;
+margin-left:30%;
+margin-right:10%;
+border-radius:10px;
+border: solid black 2px;
+margin-bottom: 1%;
 }
