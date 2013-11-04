@@ -29,7 +29,7 @@ $(document).ready(function linker(){
 		sakene som blir skrevet om kosthold kan du bruke en helt uke, med dieter med alt fra lavkarbo til å bare spise kjempe mye fett.
 		Vi veit hvor forvirrende alle disse sakene er så vi har bestemt oss for å gjøre det litt enkelere for deg og kanskje klarere opp i noen av tankene
 		du har rundt dieter. Vi har noen tips på om du skal gå opp eller ned i vekt. 
-	</p>
+	</p> 
 	
 	<img src="mat.jpg" alt ="En kostholdspyramide">
 	

@@ -17,7 +17,7 @@ $(document).ready(function linker(){
 <li class="hide"><a href="webProsjektHoved.php?page=8">Tips for å gå opp i vekt </a></li>
 <li class="hide"><a href="webProsjektHoved.php?page=9">Dietter du IKKE skal velge </a></li>
 </ul>
-</aside>
+</aside> 
 
 <article class="Ka">
 							<h2> Tips for å gå ned i vekt! </h2>
