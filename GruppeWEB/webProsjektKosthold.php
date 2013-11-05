@@ -1,3 +1,11 @@
+
+<script>
+$(document).ready(function linker(){
+  
+  $("#Kost").click(function(){
+    $(".hide").toggle(200);
+  });
+=======
  <script>
  $(document).ready(function linker(){
  
@@ -5,6 +13,7 @@
    $("#Kost").click(function(){
      $(".hide").show(200);
  });
+
 });
 </script>
 

@@ -20,6 +20,43 @@ margin-top:-10px;
 
 }
 
+#sideslide{
+	position: absolute;
+	margin-left: 7%;
+
+	margin-top: 28%;
+}
+
+#sideslide img{
+	width: 280px;
+	height: 600px;
+}
+
+#sidebilder{
+	position: absolute;
+	margin-top: 30%;
+	margin-left: 9%;
+
+}
+
+#sidebilder img{
+	margin-top: 110px;
+	width: 250px;
+	height: 400px;
+}
+
+#sidebilderhovedbutikk{
+	margin-top: 28%;
+	position: absolute;
+	margin-left: 9%;
+
+}
+
+#sidebilderhovedbutikk img{
+	height: 250px;
+	width: 250px;
+}
+
 /*Navigasjon:*/
 
 #navigasjonsbar{
@@ -156,12 +193,13 @@ text-decoration:none;
 
 h2{
 	text-align: center;
+	color: #800000;
 }
 article{
 margin-left:27%;
 margin-right:17%;
 background: rgb(245,246,246); /* Old browsers */
-background: -moz-linear-gradient(45deg,  rgba(245,246,246,1) 0%, rgba(219,220,226,1) 54%, rgba(221,223,227,1) 57%, rgba(245,246,246,1) 100%); /* FF3.6+ */
+background: -moz-linear-gradient(45deg,  80000045,246,246,1) 0%, rgba(219,220,226,1) 54%, rgba(221,223,227,1) 57%, rgba(245,246,246,1) 100%); /* FF3.6+ */
 background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,rgba(245,246,246,1)), color-stop(54%,rgba(219,220,226,1)), color-stop(57%,rgba(221,223,227,1)), color-stop(100%,rgba(245,246,246,1))); /* Chrome,Safari4+ */
 background: -webkit-linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1) 54%,rgba(221,223,227,1) 57%,rgba(245,246,246,1) 100%); /* Chrome10+,Safari5.1+ */
 background: -o-linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1) 54%,rgba(221,223,227,1) 57%,rgba(245,246,246,1) 100%); /* Opera 11.10+ */
@@ -200,7 +238,7 @@ width: 1155px;
 border-top-left-radius: 2px;
 <<<<<<< HEAD
 margin-left: 9.5%;
-display: none;
+
 
 
 }
@@ -292,7 +330,11 @@ background-image: linear-gradient(to top, #000000 0%, #5C5A54 100%);
 /*TreningSide*/
 .hide{
 margin-left:20px;
+<<<<<<< HEAD
+display: none;
+=======
 display:none;
+>>>>>>> 1c756eee2bacd43d05f26ba8c541fe1ea15547e8
 }
 #navigasjonsbarTrening 
 {
@@ -325,9 +367,18 @@ margin-bottom: 1%;
 padding: 20px;
 }
 
+<<<<<<< HEAD
+#bildelogo{
+	width: 250px;
+	margin-left: 5%;
+
+	position: absolute;
+}
+=======
 #syre{
 color:black;
 max-width: 200px;
 max-height: 200px;
 }
 
+>>>>>>> b4e11d5c1da8f744fc6135df88b45ae0e9de4c47
