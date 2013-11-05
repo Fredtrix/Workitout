@@ -16,7 +16,7 @@
 </header>
 
 <!--Navigasjon-->
-
+<nav>
 <ul id="navigasjonsbar">
 <li><a href="webProsjektHoved.php">Hjem</a></li>
 <li><a href="webProsjektHoved.php?page=1">Trening</a></li>

@@ -18,7 +18,7 @@ $(document).ready(function linker(){
 </ul>
 </aside>
 
-<article id="trening">
+<article id="omTrening">
 <h2>Styrkeprogram</h2>
 <h3>For deg som er ny</h3>
 <p>Det viktigste å ha i bakhodet når du skal starte å trene styrke er å utføre øvelsene/teknikkene riktig!<br> 
@@ -81,7 +81,7 @@ kan du ikke det, så prøv så godt det lar seg gjøre å putte en hviledag mell
 <td class="dag4">Beinpress widowaker</td>
 </tr>
 </table>
-<input type="submit" value="Last ned treningsprogram" id="volum" onClick="window.location.href='TreningsProgramVolum.docx'"></input>
+<input type="submit" value="Last ned treningsprogram" id="volumKnapp" onClick="window.location.href='TreningsProgramVolum.docx'"/>
 <p><u>Droppsett type 1</u>
 Droppsett benyttes på benkpress og markløft. Bruk 3-4 sett med 6 reps på og kjøre deg opp til et tungt toppsett på 5-6 reps til teknisk utmattelse. 
 Ta deretter av 20% vekt og kjør så mange repetisjoner som mulig på denne vekten frem til teknisk feil.
@@ -122,6 +122,7 @@ Gjør to øvelsere samtidig (supersett) uten hvile i mellom, for så å ta en pa
 </tr>
 <tr>
 <td class="dag1">Knestående skrå sit-up 3*8</td>
+<td class="dag2"></td>
 </tr>
 </table>
 </article>

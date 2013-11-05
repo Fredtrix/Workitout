@@ -52,7 +52,45 @@ Målet med disse programmene er ikke å få de største musklene, men å få ste
 <td class="dag2"></td>
 </tr>
 </table>
+
 <h3>Ishockey</h3>
+<table border="1" id="fotball">
+<tr>
+<th>Tidlig pre-season</th>
+<th>Sent pre-season</th>
+</tr>
+<tr>
+<td class="dag1">Knebøy 3*12 reps</td>
+<td class="dag2">Hack squat 5*5-6 reps</td>
+</tr>
+<tr>
+<td class="dag1">Skråbenk 3*13 reps</td>
+<td class="dag2">Benkpress 5*5-6 reps</td>
+</tr>
+<tr>
+<td class="dag1">Rumensk markløft 4*12 reps</td>
+<td class="dag2">Rumensk markløft 6*5-6 reps</td> 
+<tr>
+<td class="dag1">Biceps curl 3*14 reps</td>
+<td class="dag2">Nedtrekk 5*5-6 reps</td>
+</tr>
+<tr>
+<td class="dag1">Sittende triceps extension 4*12 reps</td>
+<td class="dag2">pullup 6*5-6 reps</td>
+</tr>
+<tr>
+<td class="dag1">Sittende roing 3*14</td>
+<td class="dag2">Upright row 5*5-6 reps</td>
+</tr>
+<tr>
+<td class="dag1">Skrå sit-up 4*12 reps</td>
+<td class="dag2">Skrå hammercurl 5*5-6 reps</td>
+</tr>
+<tr>
+<td class="dag1">Nedtrekk 3*12 reps</td>
+<td class="dag2">Shrug 5*5-6 reps</td>
+</tr>
+</table>
 
 <h3>Tennis</h3>
 
