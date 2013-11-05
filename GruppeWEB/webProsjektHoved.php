@@ -78,6 +78,11 @@ include("webProsjektTopp.php");
 		  {
 		  	include("creatin.php");
 		  }
+		  
+		   elseif($_GET["page"]==15)
+		  {
+		  	include("protein.php");
+		  }
 
 		  
 		}
