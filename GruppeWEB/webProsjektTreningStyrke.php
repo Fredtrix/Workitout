@@ -19,7 +19,7 @@ $(document).ready(function linker(){
 </aside>
 
 <article id="trening">
-<h2>Styrkeprogram</h2>
+<h2>Styrkeprogram</h2> 
 
 <p></p>
 

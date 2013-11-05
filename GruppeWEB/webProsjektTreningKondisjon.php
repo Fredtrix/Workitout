@@ -19,4 +19,4 @@ $(document).ready(function linker(){
 </aside>
 <article>
 <h2>Kondisjon</h2>
-</article>
+</article> 
