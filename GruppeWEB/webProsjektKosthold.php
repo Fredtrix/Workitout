@@ -2,7 +2,7 @@
 $(document).ready(function linker(){
   
   $("#Kost").click(function(){
-    $(".hide").show(200);
+    $(".hide").toggle(200);
   });
 });
 </script>

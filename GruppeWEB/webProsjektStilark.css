@@ -156,12 +156,13 @@ text-decoration:none;
 
 h2{
 	text-align: center;
+	color: #800000;
 }
 article{
 margin-left:27%;
 margin-right:17%;
 background: rgb(245,246,246); /* Old browsers */
-background: -moz-linear-gradient(45deg,  rgba(245,246,246,1) 0%, rgba(219,220,226,1) 54%, rgba(221,223,227,1) 57%, rgba(245,246,246,1) 100%); /* FF3.6+ */
+background: -moz-linear-gradient(45deg,  80000045,246,246,1) 0%, rgba(219,220,226,1) 54%, rgba(221,223,227,1) 57%, rgba(245,246,246,1) 100%); /* FF3.6+ */
 background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,rgba(245,246,246,1)), color-stop(54%,rgba(219,220,226,1)), color-stop(57%,rgba(221,223,227,1)), color-stop(100%,rgba(245,246,246,1))); /* Chrome,Safari4+ */
 background: -webkit-linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1) 54%,rgba(221,223,227,1) 57%,rgba(245,246,246,1) 100%); /* Chrome10+,Safari5.1+ */
 background: -o-linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1) 54%,rgba(221,223,227,1) 57%,rgba(245,246,246,1) 100%); /* Opera 11.10+ */
@@ -293,6 +294,7 @@ background-image: linear-gradient(to top, #000000 0%, #5C5A54 100%);
 .hide{
 
 margin-left:20px;
+display: none;
 }
 #navigasjonsbarTrening 
 {
@@ -322,4 +324,11 @@ margin-left:28%;
 margin-right:10%;
 border: solid black 4px;
 margin-bottom: 1%;
+}
+
+#bildelogo{
+	width: 250px;
+	margin-left: 5%;
+
+	position: absolute;
 }

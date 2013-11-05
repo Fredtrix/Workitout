@@ -6,7 +6,7 @@
 
 </ul>
 </aside>
-<section id="butikk"><h1 id="butikkh1">Butikk</h1>
+<section id="butikk"><h2 id="butikkh1">Butikk</h2>
 	<hr>
 <table border="1" id="tilbudtabell">
 	<tr>
