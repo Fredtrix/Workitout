@@ -17,6 +17,7 @@ $(document).ready(function linker(){
 <li><a href="webProsjektHoved.php?page=6">Finn ditt treningssenter</a></li>
 </ul>
 </aside>
+
 <article>
 <h2>Trening</h2>
-<article>
+</article>

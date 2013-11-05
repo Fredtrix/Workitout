@@ -20,6 +20,18 @@ margin-top:-10px;
 
 }
 
+#sideslide{
+	position: absolute;
+	margin-left: 7%;
+
+	margin-top: 28%;
+}
+
+#sideslide img{
+	width: 280px;
+	height: 600px;
+}
+
 /*Navigasjon:*/
 
 #navigasjonsbar{
@@ -292,9 +304,12 @@ background-image: linear-gradient(to top, #000000 0%, #5C5A54 100%);
 }
 /*TreningSide*/
 .hide{
-
 margin-left:20px;
+<<<<<<< HEAD
 display: none;
+=======
+display:none;
+>>>>>>> 1c756eee2bacd43d05f26ba8c541fe1ea15547e8
 }
 #navigasjonsbarTrening 
 {
@@ -314,7 +329,7 @@ margin-bottom:20px;
 }
 
 p{
-padding: 4px;
+padding: 20px;
 }
 
 
@@ -324,6 +339,7 @@ margin-left:28%;
 margin-right:10%;
 border: solid black 4px;
 margin-bottom: 1%;
+padding: 20px;
 }
 
 #bildelogo{

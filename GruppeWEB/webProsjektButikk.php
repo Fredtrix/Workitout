@@ -3,10 +3,12 @@
 <li><a href="webProsjektHoved.php?page=10">Kosttilskudd</a></li>
 <li><a href="webProsjektHoved.php?page=11">Treningsklær</a></li>
 <li><a href="#">Litteratur</a></li>
-
 </ul>
+
 </aside>
+<div id="sideslide"><img src="sideslider1.jpg" name="slide2" alt="bilder"></div>
 <section id="butikk"><h2 id="butikkh1">Butikk</h2>
+
 	<hr>
 <table border="1" id="tilbudtabell">
 	<tr>
