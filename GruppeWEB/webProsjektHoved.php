@@ -73,6 +73,11 @@ include("webProsjektTopp.php");
 		  {
 		  	include("BCAA.php");
 		  }
+		  
+		   elseif($_GET["page"]==14)
+		  {
+		  	include("creatin.php");
+		  }
 
 		  
 		}

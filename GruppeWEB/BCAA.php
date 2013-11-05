@@ -27,6 +27,7 @@ $(".hide2").hide(200);
 <li class="hide"><a href="webProsjektHoved.php?page=8">Dietter du IKKE skal velge </a></li>
 <li id="Kost2"><a href="#">Kostholds tilskudd</a></li>
 <li class="hide2"><a href="webProsjektHoved.php?page=13"> BCAA</a></li>
+<li class="hide2"><a href="webProsjektHoved.php?page=14">Kreatin</a></li>
 </ul>
 </aside>
 
@@ -107,4 +108,6 @@ samt at ratioen mellom kortisol og testosteron var i favør av sistnevnte.
 <br>
 <br>
 </p>
+
+<img id="syre" src="syre1.jpg">
 </article>

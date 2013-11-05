@@ -32,6 +32,31 @@ margin-top:-10px;
 	height: 600px;
 }
 
+#sidebilder{
+	position: absolute;
+	margin-top: 30%;
+	margin-left: 9%;
+
+}
+
+#sidebilder img{
+	margin-top: 110px;
+	width: 250px;
+	height: 400px;
+}
+
+#sidebilderhovedbutikk{
+	margin-top: 28%;
+	position: absolute;
+	margin-left: 9%;
+
+}
+
+#sidebilderhovedbutikk img{
+	height: 250px;
+	width: 250px;
+}
+
 /*Navigasjon:*/
 
 #navigasjonsbar{
@@ -213,7 +238,7 @@ width: 1155px;
 border-top-left-radius: 2px;
 <<<<<<< HEAD
 margin-left: 9.5%;
-display: none;
+
 
 
 }
@@ -342,9 +367,18 @@ margin-bottom: 1%;
 padding: 20px;
 }
 
+<<<<<<< HEAD
 #bildelogo{
 	width: 250px;
 	margin-left: 5%;
 
 	position: absolute;
 }
+=======
+#syre{
+color:black;
+max-width: 200px;
+max-height: 200px;
+}
+
+>>>>>>> b4e11d5c1da8f744fc6135df88b45ae0e9de4c47

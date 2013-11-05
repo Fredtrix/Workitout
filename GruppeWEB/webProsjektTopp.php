@@ -2,7 +2,7 @@
 <html>
 <head>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<img src="treningspratlogo.png" alt="logo" id="bildelogo">
+
 <meta charset="UTF-8">
 <title>fitness</title>
 <link rel="stylesheet" type="text/css" href="webProsjektStilark.css">
