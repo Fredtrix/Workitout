@@ -381,4 +381,8 @@ max-width: 200px;
 max-height: 200px;
 }
 
+h2{
+border-bottom:solid black 1px;
+}
+
 >>>>>>> b4e11d5c1da8f744fc6135df88b45ae0e9de4c47
