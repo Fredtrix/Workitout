@@ -1,11 +1,5 @@
 
-<script>
-$(document).ready(function linker(){
-  
-  $("#Kost").click(function(){
-    $(".hide").toggle(200);
-  });
-=======
+
  <script>
  $(document).ready(function linker(){
  
@@ -13,7 +7,6 @@ $(document).ready(function linker(){
    $("#Kost").click(function(){
      $(".hide").show(200);
  });
-
 });
 </script>
 
@@ -37,7 +30,7 @@ $(".hide2").hide(200);
 <li id="Kost2"><a href="#">Kostholds tilskudd</a></li>
 <li class="hide2"><a href="webProsjektHoved.php?page=13"> BCAA</a></li>
 <li class="hide2"><a href="webProsjektHoved.php?page=14">Kreatin</a></li>
-<li class="hide2"><a href="webProsjektHoved.php?page=15">Protein</a></li>
+
 </ul>
 </aside>
 

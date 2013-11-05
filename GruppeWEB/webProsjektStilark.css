@@ -194,6 +194,7 @@ text-decoration:none;
 h2{
 	text-align: center;
 	color: #800000;
+	border-bottom:solid black 1px;
 }
 article{
 margin-left:27%;
@@ -330,12 +331,12 @@ background-image: linear-gradient(to top, #000000 0%, #5C5A54 100%);
 /*TreningSide*/
 .hide{
 margin-left:20px;
-<<<<<<< HEAD
 display: none;
-=======
-display:none;
->>>>>>> 1c756eee2bacd43d05f26ba8c541fe1ea15547e8
 }
+.hide2{
+margin-left:20px;
+}
+
 #navigasjonsbarTrening 
 {
 
@@ -381,8 +382,3 @@ max-width: 200px;
 max-height: 200px;
 }
 
-h2{
-border-bottom:solid black 1px;
-}
-
->>>>>>> b4e11d5c1da8f744fc6135df88b45ae0e9de4c47
