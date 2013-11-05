@@ -27,6 +27,7 @@ $(".hide2").hide(200);
 <li class="hide"><a href="webProsjektHoved.php?page=8">Dietter du IKKE skal velge </a></li>
 <li id="Kost2"><a href="#">Kostholds tilskudd</a></li>
 <li class="hide2"><a href="webProsjektHoved.php?page=13"> BCAA</a></li>
+<li class="hide2"><a href="webProsjektHoved.php?page=14">Kreatin</a></li>
 </ul>
 </aside>
 
@@ -75,5 +76,8 @@ http://www.greteroede.no/rdogtips/helse/1084640.o2.html
 Artikkelen om dietter du ikke skal velge er hentet fra:
 <br>
 http://www.klikk.no/helse/dinkost/vektkontroll/article405074.ece
+<br><br>
+http://www.bedretrent.no/5-fordeler-med-a-bruke-bcaa/
+<br>
 
 </article>
