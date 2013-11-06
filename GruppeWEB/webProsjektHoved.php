@@ -83,6 +83,11 @@ include("webProsjektTopp.php");
 		  {
 		  	include("protein.php");
 		  }
+		  
+		    elseif($_GET["page"]==16)
+		  {
+		  	include("pannekaker.php");
+		  }
 
 		  
 		}

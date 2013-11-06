@@ -1,46 +1,22 @@
 
 
- <script>
- $(document).ready(function linker(){
- 
- $(".hide").hide;
-   $("#Kost").click(function(){
-     $(".hide").show(200);
- });
-});
-</script>
 
-<script>
- $(document).ready(function linker(){
 
-$(".hide2").hide(200);
- $("#Kost2").click(function(){
-  $(".hide2").show(200);
- });
-});
-</script>
-
-<aside>
-<ul id="navigasjonsbarTrening">
-<li><a href="webProsjektHoved.php?page=2">Generelt om kosthold</a></li>
-<li id="Kost"><a href="#">Kostholds tips</a></li>
-<li class="hide"><a href="webProsjektHoved.php?page=7">Tips for å gå ned i vekt </a></li>
-<li class="hide"><a href="webProsjektHoved.php?page=8">Tips for å gå opp i vekt </a></li>
-<li class="hide"><a href="webProsjektHoved.php?page=8">Dietter du IKKE skal velge </a></li>
-<li id="Kost2"><a href="#">Kostholds tilskudd</a></li>
-<li class="hide2"><a href="webProsjektHoved.php?page=13"> BCAA</a></li>
-<li class="hide2"><a href="webProsjektHoved.php?page=14">Kreatin</a></li>
-
-</ul>
-</aside>
+<?php
+include("includekosthold.php")
+?>
 
 
 <article class="ka">
 <h2> Generelt om kosthold </h2>
 	<p>
 		Man hører veldig mye om kosthold nå om dagen, at man skal spise mindre, spise mer, ikke spise på noen dager så
-		så spise utolig mye neste dag. vi lever i et samfunn der diet har blitt et kjempe viktig samtale emne. Hvis du skal lese alle de
-		sakene som blir skrevet om kosthold kan du bruke en helt uke, med dieter med alt fra lavkarbo til å bare spise kjempe mye fett.
+		så spise utolig mye neste dag.
+		<br><br>
+		vi lever i et samfunn der diet har blitt et kjempe viktig samtale emne. Hvis du skal lese alle de
+		sakene som blir skrevet om kosthold kan du bruke en helt uke, 
+		med dieter med alt fra lavkarbo til å bare spise kjempe mye fett.
+		<br><br>
 		Vi veit hvor forvirrende alle disse sakene er så vi har bestemt oss for å gjøre det litt enkelere for deg og kanskje klarere opp i noen av tankene
 		du har rundt dieter. Vi har noen tips på om du skal gå opp eller ned i vekt. 
 	</p> 
@@ -80,7 +56,11 @@ Artikkelen om dietter du ikke skal velge er hentet fra:
 <br>
 http://www.klikk.no/helse/dinkost/vektkontroll/article405074.ece
 <br><br>
-http://www.bedretrent.no/5-fordeler-med-a-bruke-bcaa/
-<br>
 
+
+http://www.bedretrent.no/5-fordeler-med-a-bruke-bcaa/
+<br><br>
+http://mat-helse.no/2013/10/10/pannekaker-med-havre-cottage-cheese/
+<br><br>
+http://www.klikk.no/helse/dinkost/ernaring/article598879.ece
 </article>
