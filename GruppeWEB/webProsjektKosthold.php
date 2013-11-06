@@ -63,4 +63,9 @@ http://www.bedretrent.no/5-fordeler-med-a-bruke-bcaa/
 http://mat-helse.no/2013/10/10/pannekaker-med-havre-cottage-cheese/
 <br><br>
 http://www.klikk.no/helse/dinkost/ernaring/article598879.ece
+<br><br>
+http://gymgrossisten.no/6/no/artiklar/kosttilskudd/kreatin/index.html?gclid=CKyCuNSV0LoCFc1V3godwmsA4Q
+<br><br>
+http://www.helsedirektoratet.no/folkehelse/ernering/energi-og-neringsstoff/proteiner/Sider/default.aspx
+<br><br>
 </article>

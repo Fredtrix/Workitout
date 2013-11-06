@@ -25,13 +25,30 @@ Ingredienser (2-3 personer/8 pannekaker):<br><br>
 1 ss smør (kan sløyfes, men gjør røren lettere å steke)<br>
 (evt. 1 ts vaniljesukker)<br>
 
-<ol id="pannekaker">
-<li> Visp sammen egg, melk og cottage cheese. Det blir litt klumper av cc så du </li>
-kan godt bruke stavmixer for å få røren jevnere<br><br>
-<li> Tilsett de tørre ingrediensene og rør inn smeltet smør til slutt</li><br><br>
-<li>La røren svelle tildekt i 30 minutter</li><br><br>
-<li>Stek pannekakene på middels varme. Helst i teflonpanne fordi de er ganske skjøre.</li><br>
-</ol>
+<table id="pannekaker" border="1">
+	<tr>
+		<td> 1 </td>
+		<td> Visp sammen egg, melk og cottage cheese. Det blir litt klumper av cc så du
+			kan godt bruke stavmixer for å få røren jevnere</td>
+	</tr>
+	
+	<tr>
+		<td> 2 </td>
+		<td> Tilsett de tørre ingrediensene og rør inn smeltet smør til slutt</td>
+	</tr>
+	
+	<tr>
+		<td> 3 </td>
+		<td> la røren svelle tildeket i 30 minutter </td>
+	</tr>
+	
+	<tr>
+		<td> 4 </td>
+		<td> Stek pannekakene på middels varme. Helst i teflonpanne fordi de er ganske skjøre. </td>
+	</tr>
+</table>
+
+
 </p>
 <img src="Pannekaker.jpg">
 </article>
