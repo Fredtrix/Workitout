@@ -10,6 +10,7 @@ $(document).ready(function linker(){
 <aside>
 <ul id="navigasjonsbarTrening">
 <li><a href="webProsjektHoved.php?page=1">Om trening</a></li>
+<li><a href="webProsjektHoved.php?page=23">Øvelser</a></li>
 <li id="trening"><a href="#">Treningsprogram</a></li>
 <li class="hide"><a href="webProsjektHoved.php?page=20">Styrke</a></li>
 <li class="hide"><a href="webProsjektHoved.php?page=21">Kondisjon</a></li>
@@ -17,11 +18,12 @@ $(document).ready(function linker(){
 <li><a href="webProsjektHoved.php?page=6">Finn ditt treningssenter</a></li>
 </ul>
 </aside>
-<article>
+<article id="utover">
 <h2>For utøvere</h2>
 <p>Styrketrening er veldig viktig for deg som driver med sport, ikke minst for å forebygge skader men også for å kunne yte bedre.
 Målet med disse programmene er ikke å få de største musklene, men å få sterkere muskler og bedre utholdenhet.
 </p>
+<img class="mot" src="motivasjon3.jpg" alt="motivasjonIdrett" height="400" width="830">
 <h3>Fotball</h3>
 <table border="1" id="fotball">
 <tr>

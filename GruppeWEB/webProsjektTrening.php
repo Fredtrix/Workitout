@@ -10,6 +10,7 @@ $(document).ready(function linker(){
 <aside>
 <ul id="navigasjonsbarTrening">
 <li><a href="webProsjektHoved.php?page=1">Om trening</a></li>
+<li><a href="webProsjektHoved.php?page=23">Øvelser</a></li>
 <li id="trening"><a href="#">Treningsprogram</a></li>
 <li class="hide"><a href="webProsjektHoved.php?page=20">Styrke</a></li>
 <li class="hide"><a href="webProsjektHoved.php?page=21">Kondisjon</a></li>

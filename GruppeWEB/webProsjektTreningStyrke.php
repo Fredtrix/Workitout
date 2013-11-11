@@ -10,6 +10,7 @@ $(document).ready(function linker(){
 <aside>
 <ul id="navigasjonsbarTrening">
 <li><a href="webProsjektHoved.php?page=1">Om trening</a></li>
+<li><a href="webProsjektHoved.php?page=23">Øvelser</a></li>
 <li id="trening"><a href="#">Treningsprogram</a></li>
 <li class="hide"><a href="webProsjektHoved.php?page=20">Styrke</a></li>
 <li class="hide"><a href="webProsjektHoved.php?page=21">Kondisjon</a></li>
@@ -20,15 +21,47 @@ $(document).ready(function linker(){
 
 <article id="omTrening">
 <h2>Styrkeprogram</h2>
-<h3>For deg som er ny</h3>
 <p>Det viktigste å ha i bakhodet når du skal starte å trene styrke er å utføre øvelsene/teknikkene riktig!<br> 
 Det er utrolig viktig å gjøre styrkeøvelser korekt eller så vil det bare ha negative utslag 
 som skader, smerter o.l. Så i starten er det lurt å starte med lette vekter, slik at du får inn bevegelsene og teknikken, 
 det er også veldig viktig å puste riktig... <br>
 <a href="http://fitnessbloggen.no/styrketrening-for-nybegynnere/" target="_blank">Les deg opp på denne artikkelen</a><br>
-Her er et program for deg som er ny på gymet.
 </p>
-
+<img class="mot" src="motivasjon2.jpg" alt="motivasjonStyrke" height="400" width="830">
+<h3>For deg som er ny</h3>
+<table border="1" id="fotball">
+<tr>
+<th>Økt 1</th>
+<th>Økt 2</th>
+</tr>
+<tr>
+<td class="dag1">Knebøy 3*5 reps</td>
+<td class="dag2">Knebøy 3*5 reps</td>
+</tr>
+<tr>
+<td class="dag1">Benkpress 3*5 reps</td>
+<td class="dag2">Militærpress 3*5 reps</td>
+</tr>
+<tr>
+<td class="dag1">Hip-thrust 2*8 reps</td>
+<td class="dag2">Stående roing 3*5 reps</td> 
+<tr>
+<td class="dag1">Pullups 3*8 reps</td>
+<td class="dag2">Markløft 1*5 reps</td>
+</tr>
+<tr>
+<td class="dag1">Sidehev 3*12</td>
+<td class="dag2">Franskpress 3*8</td>
+</tr>
+<tr>
+<td class="dag1">Tåhev 3*12</td>
+<td class="dag2">Biceps curl 3*8</td>
+</tr>
+<tr>
+<td class="dag1">Pallofpress 2*12</td>
+<td class="dag2">Planke 2*maks</td>
+</tr>
+</table>
 <h3>Når størrelsen teller</h3>
 <p>Dette er programmet for deg som vil bli større.<br> Programmet er delt inn 4 dager, optimalet er å trene mandag(dag1), tirsdag(dag2), torsdag(dag3)
  og fredag(dag4). 
@@ -123,6 +156,10 @@ Gjør to øvelsere "back to back" (supersett) uten hvile i mellom, for så å ta
 </tr>
 <tr>
 <td class="dag1">Knestående skrå sit-up 3*8</td>
+<td class="dag2"></td>
+</tr>
+<tr>
+<td class="dag1">Beinhev 3*8</td>
 <td class="dag2"></td>
 </tr>
 </table>

@@ -68,7 +68,10 @@ include("webProsjektTopp.php");
 		  {
 		  	include("webProsjektTreningIdrett.php");
 	      }
-			
+			elseif($_GET["page"]==23)
+		  {
+		  	include("ovelser.php");
+		  }
 		  elseif($_GET["page"]==13)
 		  {
 		  	include("BCAA.php");
