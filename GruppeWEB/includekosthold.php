@@ -28,13 +28,6 @@ $(".hide3").hide(200);
 });
 </script>
 
-
-
-
-
-
-
-
 <aside>
 <ul id="navigasjonsbarTrening">
 <li><a href="webProsjektHoved.php?page=2">Generelt om kosthold</a></li>
