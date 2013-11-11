@@ -52,7 +52,7 @@ Målet med disse programmene er ikke å få de største musklene, men å få ste
 <td class="dag2"></td>
 </tr>
 </table>
-
+<input type="submit" value="Last ned treningsprogram" id="volumKnapp" onClick="window.location.href='TreningsProgramFotball.docx'"/>
 <h3>Ishockey</h3>
 <table border="1" id="fotball">
 <tr>
@@ -91,11 +91,127 @@ Målet med disse programmene er ikke å få de største musklene, men å få ste
 <td class="dag2">Shrug 5*5-6 reps</td>
 </tr>
 </table>
-
+<input type="submit" value="Last ned treningsprogram" id="volumKnapp" onClick="window.location.href='TreningsIshockey.docx'"/>
 <h3>Tennis</h3>
+<table border="1" id="volum">
+<tr>
+<th>Dag 1</th>
+<th>Dag 2</th>
+<th>Dag 3</th>
+</tr>
+<tr>
+<td class="dag1">Skulderpress med manualer 3*10 reps</td>
+<td class="dag2">Knebøy manualer 3*9-12 reps</td>
+<td class="dag3">Flies kabel 3*10-12</td>
+</tr>
+<tr>
+<td class="dag1">Hammer curls 3*10-12 reps</td>
+<td class="dag2">Upright row med stang 3*12-15 reps</td>
+<td class="dag3">Flies manualer 3*10-12 reps</td>
+</tr>
+<tr>
+<td class="dag1">Wrist curl 3*9-10 reps</td>
+<td class="dag2">Skrå sit-ups 3*9-12 reps</td> 
+<td class="dag3">Sidehev 3*9-10 reps</td>
+<tr>
+<td class="dag1">Knebøy 3*8-9 reps</td>
+<td class="dag2">Rygghev 3*9-10 reps</td>
+<td class="dag3">Bridge crunch 3*9-10 reps</td>
+</tr>
+<tr>
+<td class="dag1">Sit-up pilatesball 3*9-12 reps</td>
+<td class="dag2">Benkpress 3×9-10 reps</td>
+<td class="dag3">Wrist twist manualer 3*9-10 reps</td>
+</tr>
+<tr>
+<td class="dag1">Utfall manualer 3*9-12</td>
+<td class="dag2"></td>
+<td class="dag3">Bosu russian twist 3*9-10</td>
+</tr>
+</table>
+<input type="submit" value="Last ned treningsprogram" id="volumKnapp" onClick="window.location.href='TreningsProgramTennis.docx'"/>
 
 <h3>Golf</h3>
+<table border="1" id="volum">
+<tr>
+<th>Dag 1</th>
+<th>Dag 2</th>
+<th>Dag 3</th>
+</tr>
+<tr>
+<td class="dag1">Abdominal twist 3*10-12 reps</td>
+<td class="dag2">Flies kabel 3*8-10 reps</td>
+<td class="dag3">Tåhev manualer 3*8-10</td>
+</tr>
+<tr>
+<td class="dag1">Rumensk markløft 3*8-10 reps</td>
+<td class="dag2">Wrist twist manualer 3*8-10 reps</td>
+<td class="dag3">Omvendt flies 3*6-8 reps</td>
+</tr>
+<tr>
+<td class="dag1">Utfall manualer 3*8-10 reps</td>
+<td class="dag2">Kabel torso rotation 3*8-10 reps</td> 
+<td class="dag3">Arnold press 3*8-10 reps</td>
+<tr>
+<td class="dag1">Nedtrekk 3*8-10 reps</td>
+<td class="dag2">Seated twist 3*8-10 reps</td>
+<td class="dag3">Sittende roing 3*8-10 reps</td>
+</tr>
+<tr>
+<td class="dag1">Shrug 3*10-12 reps</td>
+<td class="dag2">Rygghev pilatesball 3*8-10 reps</td>
+<td class="dag3">Pushup 2* max reps</td>
+</tr>
+<tr>
+<td class="dag1">Nedtrekk triceps 3*8-10</td>
+<td class="dag2">Knebøy pilatesball vegg 3*8-10 reps</td>
+<td class="dag3"></td>
+</tr>
+<tr>
+<td class="dag1">Skrå sit-up 3*8-10</td>
+<td class="dag2"></td>
+<td class="dag3"></td>
+</tr>
+</table>
+<input type="submit" value="Last ned treningsprogram" id="volumKnapp" onClick="window.location.href='TreningsProgramGolf.docx'"/>
 
 <h3>Basktetball</h3>
-
+<table border="1" id="fotball">
+<tr>
+<th>Tidlig pre-season</th>
+<th>Sent pre-season</th>
+</tr>
+<tr>
+<td class="dag1">Utfall stang 3*12 reps</td>
+<td class="dag2">Knebøy 3*9-10 reps</td>
+</tr>
+<tr>
+<td class="dag1">Liggende beinhev 3*15-20 reps</td>
+<td class="dag2">Benkpress 3*10-12 reps</td>
+</tr>
+<tr>
+<td class="dag1">Sittende triceps extension 2*12 reps</td>
+<td class="dag2">Rumensk markløft 3*9-10 reps</td> 
+<tr>
+<td class="dag1">Rumensk markløft 3*10-12 reps</td>
+<td class="dag2">Chins 3*9-10</td>
+</tr>
+<tr>
+<td class="dag1">Skråbenk manualer 3*15 reps</td>
+<td class="dag2">Tåhev maskin 3*10 reps</td>
+</tr>
+<tr>
+<td class="dag1">Nedtrekk 3*12</td>
+<td class="dag2">Push press 3*10 reps</td>
+</tr>
+<tr>
+<td class="dag1">Bicepscurl 4*10 reps</td>
+<td class="dag2">Side lunge 3*10 reps</td>
+</tr>
+<tr>
+<td class="dag1">Sittende roing 3*10 reps</td>
+<td class="dag2">Drag curl 3*10 reps</td>
+</tr>
+</table>
+<input type="submit" value="Last ned treningsprogram" id="volumKnapp" onClick="window.location.href='TreningsProgramBasket.docx'"/>
 </article> 

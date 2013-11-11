@@ -186,11 +186,16 @@ background-image: linear-gradient(to top, #000000 0%, #5C5A54 100%);
 
 }
 
-aside li a{
+aside li a:link{
 color:white;
 text-decoration:none;
 }
-
+aside li a:hover{
+color:green;
+}
+aside li a:visited{
+color:white;
+}
 h2{
 	text-align: center;
 	color: #800000;
@@ -237,10 +242,7 @@ height: 30px;
 padding: 7px;
 width: 1155px;
 border-top-left-radius: 2px;
-<<<<<<< HEAD
 margin-left: 9.5%;
-
-
 
 }
 
@@ -253,7 +255,6 @@ background: -o-linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1
 background: -ms-linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1) 54%,rgba(221,223,227,1) 57%,rgba(245,246,246,1) 100%); /* IE10+ */
 background: linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1) 54%,rgba(221,223,227,1) 57%,rgba(245,246,246,1) 100%); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5f6f6', endColorstr='#f5f6f6',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-
 max-width: 880px;
 padding: 20px;
 margin-left: 28%;
@@ -348,15 +349,10 @@ list-style-image:url('icon_dumbbell.gif');
 
 #kontakt{
 text-align:left;
-background-color:white;
-border: solid black 2px;
-border-radius: 10px;
 margin-bottom:20px;
+padding:20px;
 }
 
-p{
-padding: 20px;
-}
 
 
 .ka{
@@ -368,20 +364,27 @@ margin-bottom: 1%;
 padding: 20px;
 }
 
-<<<<<<< HEAD
 #bildelogo{
 	width: 250px;
 	margin-left: 5%;
 
 	position: absolute;
 }
-=======
+
 #syre{
 color:black;
 max-width: 200px;
 max-height: 200px;
 }
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 9252f5204c9a4c1626565109032f2f0157559473
+=======
+>>>>>>> 9252f5204c9a4c1626565109032f2f0157559473
 #pannekaker{
 margin-left:0%;
 }
@@ -397,3 +400,10 @@ border-bottom:solid black 1px;
 #Takost{
 margin-left: 5%;
 }
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 9252f5204c9a4c1626565109032f2f0157559473
+=======
+>>>>>>> 9252f5204c9a4c1626565109032f2f0157559473
+=======
+>>>>>>> 9252f5204c9a4c1626565109032f2f0157559473
