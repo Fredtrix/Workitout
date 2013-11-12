@@ -1,5 +1,4 @@
 <aside>
-	
 <ul id="navigasjonsbarTrening">
 <li><a href="#">Treningsprogram</a></li>
 <li><a href="webProsjektHoved.php?page=6">finn ditt treningssenter</a></li>

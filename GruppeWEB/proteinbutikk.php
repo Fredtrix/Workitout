@@ -6,11 +6,6 @@
 
 </ul>
 </aside>
-<div id="sidebilder">
-<img src="sideslider1.jpg"><br>
-<img src="sideslider2.jpg"><br>
-<img src="sideslider3.jpg">
-</div>
 <section id="butikk"><h1 id="butikkh1">Butikk</h1>
 <hr>
 <table border="1">
@@ -209,5 +204,4 @@
         <td><input name="produkt" type="submit" value="KJØP" id="kjopknapp"></td>
     </tr>
 </form>
-</table>
 </section>

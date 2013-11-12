@@ -41,8 +41,3 @@ http://www.greteroede.no/rdogtips/helse/1084640.o2.html
 Artikkelen om dietter du ikke skal velge er hentet fra:
 <br>
 http://www.klikk.no/helse/dinkost/vektkontroll/article405074.ece
-<br><br>
-http://mat-helse.no/2013/10/10/pannekaker-med-havre-cottage-cheese/
-<br>
-<br>
-http://dedication.blogg.no/1325355798_etter_trening.html

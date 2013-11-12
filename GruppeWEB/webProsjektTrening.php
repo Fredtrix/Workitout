@@ -2,7 +2,7 @@
 $(document).ready(function linker(){
   $(".hide").hide(200);
   $("#trening").click(function(){
-    $(".hide").show(200);
+    $(".hide").toggle(200);
   });
 });
 </script>
@@ -10,7 +10,6 @@ $(document).ready(function linker(){
 <aside>
 <ul id="navigasjonsbarTrening">
 <li><a href="webProsjektHoved.php?page=1">Om trening</a></li>
-<li><a href="webProsjektHoved.php?page=23">Øvelser</a></li>
 <li id="trening"><a href="#">Treningsprogram</a></li>
 <li class="hide"><a href="webProsjektHoved.php?page=20">Styrke</a></li>
 <li class="hide"><a href="webProsjektHoved.php?page=21">Kondisjon</a></li>
@@ -21,4 +20,5 @@ $(document).ready(function linker(){
 
 <article>
 <h2>Trening</h2>
+<p>
 </article>

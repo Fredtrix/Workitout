@@ -3,16 +3,10 @@
 <li><a href="webProsjektHoved.php?page=10">Kosttilskudd</a></li>
 <li><a href="webProsjektHoved.php?page=11">Treningsklær</a></li>
 <li><a href="#">Litteratur</a></li>
+
 </ul>
-
 </aside>
-<div id="sidebilderhovedbutikk">
-<img src="sideslider1.jpg"><br>
-<img src="sideslider2.jpg"><br>
-<img src="sideslider3.jpg">
-</div>
-<section id="butikk"><h2 id="butikkh1">Butikk</h2>
-
+<section id="butikk"><h1 id="butikkh1">Butikk</h1>
 	<hr>
 <table border="1" id="tilbudtabell">
 	<tr>
@@ -67,8 +61,6 @@
         <td><input type="submit" value="KJØP" id="kjopknapp"></td>
         <td><input type="submit" value="KJØP" id="kjopknapp"></td>
     </tr>
-</form>
-</table>
 
 </section>
 

@@ -1,9 +1,80 @@
+ <script>
+ $(document).ready(function linker(){
+
+$(".hide").hide(200);
+ $("#Kost").click(function(){
+  $(".hide").show(200);
+ });
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 1c756eee2bacd43d05f26ba8c541fe1ea15547e8
+=======
+>>>>>>> 1c756eee2bacd43d05f26ba8c541fe1ea15547e8
+=======
+>>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
+=======
+>>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
+=======
+>>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
+});
+</script>
+
+<script>
+ $(document).ready(function linker(){
+
+$(".hide2").hide(200);
+ $("#Kost2").click(function(){
+  $(".hide2").show(200);
+ });
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 1c756eee2bacd43d05f26ba8c541fe1ea15547e8
+=======
+>>>>>>> 1c756eee2bacd43d05f26ba8c541fe1ea15547e8
+=======
+>>>>>>> 1c756eee2bacd43d05f26ba8c541fe1ea15547e8
+=======
+>>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
+=======
+>>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
+=======
+>>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
+});
+</script>
 
 
-
-<?php
-include("includekosthold.php")
-?>
+<aside>
+<ul id="navigasjonsbarTrening">
+<li><a href="webProsjektHoved.php?page=2">Generelt om kosthold</a></li>
+<li id="Kost"><a href="#">Kostholds tips</a></li>
+<li class="hide"><a href="webProsjektHoved.php?page=7">Tips for å gå ned i vekt </a></li>
+<li class="hide"><a href="webProsjektHoved.php?page=8">Tips for å gå opp i vekt </a></li>
+<li class="hide"><a href="webProsjektHoved.php?page=9">Dietter du IKKE skal velge </a></li>
+<li id="Kost2"><a href="#">Kostholds tilskudd</a></li>
+<li class="hide2"><a href="webProsjektHoved.php?page=13"> BCAA</a></li>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<li class="hide2"><a href="webProsjektHoved.php?page=14">Kreatin</a></li>
+>>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
+=======
+<li class="hide2"><a href="webProsjektHoved.php?page=14">Kreatin</a></li>
+>>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
+=======
+<li class="hide2"><a href="webProsjektHoved.php?page=14">Kreatin</a></li>
+>>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
+</ul> 
+</aside>
 
 <article class="ka">
 						<h2>Tips for å gå opp i vekt! </h2>
@@ -30,12 +101,11 @@ Spis gjerne karbohydratrik snacks mellom måltidene, som sandwicher, sportsbarer
 Velg fettkilder med umettet fett, for eksempel fet fisk, myk margarin, nøtter, mandler, avokado og oljer. Ikke øk inntaket av fete meieriprodukter (H-melk, meierismør, seterrømme m.m.), kjøttprodukter eller snacks (chips, iskrem og lignende) som gir mye mettet fett.
 <br> <br>
 5) Velg mat som reduserer metthethetsfølelsen
-
-Reduser fiberinntaket, fordi fiber øker metthetsfølelsen. 
-Bytt ut noe av grovbrødet med hvitt brød eller loff. Reduser 
-væskeinntaket rett før og til måltidene, fordi væske inneholder 
-mindre energi enn mat og øker metthetsfølelsen. Drikk heller etter 
-at du har spist.
+Nina Lindstad
+Hvordan legge på meg?
+"Jeg er en 34 år gammel mann som ønsker sterkt å gå opp i vekt. Jeg er 194 cm høy, men veier bare 74 kg."
+Les hva Nina Lindstad, spesialist i allmennmedisin, svarer "Tynn mann" her
+Reduser fiberinntaket, fordi fiber øker metthetsfølelsen. Bytt ut noe av grovbrødet med hvitt brød eller loff. Reduser væskeinntaket rett før og til måltidene, fordi væske inneholder mindre energi enn mat og øker metthetsfølelsen. Drikk heller etter at du har spist.
 <br> <br>
 6) Unngå lettprodukter og tomme kalorier
 Unngå produkter med redusert karbohydrat- eller fettinnhold og sukkerfrie produkter, hermetisk frukt og lignende.

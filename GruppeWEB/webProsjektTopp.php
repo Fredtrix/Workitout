@@ -2,7 +2,6 @@
 <html>
 <head>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-
 <meta charset="UTF-8">
 <title>fitness</title>
 <link rel="stylesheet" type="text/css" href="webProsjektStilark.css">
@@ -13,11 +12,11 @@
 <!--topp-->
 <header>
 <div id="slide"><img src="styrke1.png" name="slide" alt="bilder"></div>
-
+<h1 id="logo">Treningsprat</h1>
 </header>
 
 <!--Navigasjon-->
-<nav>
+
 <ul id="navigasjonsbar">
 <li><a href="webProsjektHoved.php">Hjem</a></li>
 <li><a href="webProsjektHoved.php?page=1">Trening</a></li>
@@ -27,7 +26,6 @@
 <li><a href="webProsjektHoved.php?page=5">Kontakt</a></li>
 </ul>
 </nav>
-
 
 <!--Slider script-->
 <?php
