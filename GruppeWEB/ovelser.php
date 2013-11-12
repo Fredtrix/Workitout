@@ -23,7 +23,7 @@ $(document).ready(function linker(){
 <div id="test">
 <p>Side</p> <a href="webProsjektHoved.php?page=23">1 </a><a href="webProsjektHoved.php?page=24">2 </a>
 <a href="webProsjektHoved.php?page=25">3 </a> <a href="webProsjektHoved.php?page=26">4 </a>
-<a href="webProsjektHoved.php?page=27">5 </a>
+<a href="webProsjektHoved.php?page=27">5 </a><a href="webProsjektHoved.php?page=28">6 </a>
 <p>Abdominal twist</p>
 <iframe width="560" height="315" src="//www.youtube.com/embed/drvh39387LY" frameborder="0" allowfullscreen></iframe>
 <p>Arnoldpress</p>
@@ -46,7 +46,7 @@ $(document).ready(function linker(){
 <iframe width="420" height="315" src="//www.youtube.com/embed/2C-uNgKwPLE" frameborder="0" allowfullscreen></iframe>
 <p>Side</p> <a href="webProsjektHoved.php?page=23">1</a><a href="webProsjektHoved.php?page=24">2</a>
 <a href="webProsjektHoved.php?page=25">3</a> <a href="webProsjektHoved.php?page=26">4</a>
-<a href="webProsjektHoved.php?page=27">5</a>
+<a href="webProsjektHoved.php?page=27">5</a><a href="webProsjektHoved.php?page=28">6 </a>
 
 
 </div>

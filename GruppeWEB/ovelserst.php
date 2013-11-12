@@ -20,7 +20,7 @@ $(document).ready(function linker(){
 <article>
 <p>Side</p> <a href="webProsjektHoved.php?page=23">1 </a><a href="webProsjektHoved.php?page=24">2 </a>
 <a href="webProsjektHoved.php?page=25">3 </a> <a href="webProsjektHoved.php?page=26">4 </a>
-<a href="webProsjektHoved.php?page=27">5 </a>
+<a href="webProsjektHoved.php?page=27">5 </a> <a href="webProsjektHoved.php?page=28">6 </a>
 <p>Palloffpress</p>
 <iframe width="560" height="315" src="//www.youtube.com/embed/g921oqINXFQ" frameborder="0" allowfullscreen></iframe>
 <p>Planke</p>
@@ -39,6 +39,6 @@ $(document).ready(function linker(){
 <iframe width="560" height="315" src="//www.youtube.com/embed/ZE6loKl2tww" frameborder="0" allowfullscreen></iframe>
 <p>Side</p> <a href="webProsjektHoved.php?page=23">1 </a><a href="webProsjektHoved.php?page=24">2 </a>
 <a href="webProsjektHoved.php?page=25">3 </a> <a href="webProsjektHoved.php?page=26">4 </a>
-<a href="webProsjektHoved.php?page=27">5 </a>
+<a href="webProsjektHoved.php?page=27">5 </a> <a href="webProsjektHoved.php?page=28">6 </a>
 
 </article>

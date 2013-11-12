@@ -72,6 +72,27 @@ include("webProsjektTopp.php");
 		  {
 		  	include("ovelser.php");
 		  }
+		  elseif($_GET["page"]==24)
+		  {
+		  	include("ovelserhm.php");
+		  }
+		  elseif($_GET["page"]==25)
+		  {
+		  	include("ovelsernr.php");
+		  }
+		  elseif($_GET["page"]==26)
+		  {
+		  	include("ovelserst.php");
+		  }
+		  elseif($_GET["page"]==27)
+		  {
+		  	include("ovelseruw.php");
+		  }
+		  elseif($_GET["page"]==28)
+		  {
+		  	include("ovelsesiste.php");
+		  }
+
 		  elseif($_GET["page"]==13)
 		  {
 		  	include("BCAA.php");

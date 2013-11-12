@@ -21,7 +21,7 @@ $(document).ready(function linker(){
 <article>
 <p>Side</p> <a href="webProsjektHoved.php?page=23">1 </a><a href="webProsjektHoved.php?page=24">2 </a>
 <a href="webProsjektHoved.php?page=25">3 </a> <a href="webProsjektHoved.php?page=26">4 </a>
-<a href="webProsjektHoved.php?page=27">5 </a>
+<a href="webProsjektHoved.php?page=27">5 </a> <a href="webProsjektHoved.php?page=28">6 </a>
 <p>Skrå hammercurl</p>
 <iframe width="560" height="315" src="//www.youtube.com/embed/6g74s6lRIZ8" frameborder="0" allowfullscreen></iframe>
 <p>Skulderpress</p>
@@ -44,6 +44,6 @@ $(document).ready(function linker(){
 <iframe width="560" height="315" src="//www.youtube.com/embed/ApZi1ivGXnE" frameborder="0" allowfullscreen></iframe>
 <p>Side</p> <a href="webProsjektHoved.php?page=23">1 </a><a href="webProsjektHoved.php?page=24">2 </a>
 <a href="webProsjektHoved.php?page=25">3 </a> <a href="webProsjektHoved.php?page=26">4 </a>
-<a href="webProsjektHoved.php?page=27">5 </a>
+<a href="webProsjektHoved.php?page=27">5 </a> <a href="webProsjektHoved.php?page=28">6 </a>
 
 </article>

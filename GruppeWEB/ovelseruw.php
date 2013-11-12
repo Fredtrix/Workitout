@@ -22,7 +22,7 @@ $(document).ready(function linker(){
 <article>
 <p>Side</p> <a href="webProsjektHoved.php?page=23">1 </a><a href="webProsjektHoved.php?page=24">2 </a>
 <a href="webProsjektHoved.php?page=25">3 </a> <a href="webProsjektHoved.php?page=26">4 </a>
-<a href="webProsjektHoved.php?page=27">5 </a>
+<a href="webProsjektHoved.php?page=27">5 </a> <a href="webProsjektHoved.php?page=28">6 </a>
 <p>Sidehev</p>
 <iframe width="560" height="315" src="//www.youtube.com/embed/7ljmXuWw1pw" frameborder="0" allowfullscreen></iframe>
 <p>Side lunge</p>
@@ -38,6 +38,6 @@ $(document).ready(function linker(){
 
 <p>Side</p> <a href="webProsjektHoved.php?page=23">1 </a><a href="webProsjektHoved.php?page=24">2 </a>
 <a href="webProsjektHoved.php?page=25">3 </a> <a href="webProsjektHoved.php?page=26">4 </a>
-<a href="webProsjektHoved.php?page=27">5 </a>
+<a href="webProsjektHoved.php?page=27">5 </a> <a href="webProsjektHoved.php?page=28">6 </a>
 
 </article>
