@@ -90,7 +90,7 @@ include("webProsjektTopp.php");
 		  }
 		  elseif($_GET["page"]==28)
 		  {
-		  	include("ovelsesiste.php");
+		  	include("ovelsersiste.php");
 		  }
 
 		  elseif($_GET["page"]==13)

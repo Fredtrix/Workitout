@@ -29,7 +29,10 @@ det er også veldig viktig å puste riktig... <br>
 </p>
 <img class="mot" src="motivasjon2.jpg" alt="motivasjonStyrke" height="400" width="830">
 <h3>For deg som er ny</h3>
-<p>Kjør programmet 2-3 ganger i uken hvor du bytter på økt 1 og økt 2. Er det noen øvelser du er usikre på, så ta en titt på øvelse siden vår
+<p>Programmet er ikke kun for nybegynnere, det kan også brukes om du er erfaren. Dette er et fullkroppsprogram som baserer seg på at du skal trene hele kroppen
+hver gang du trener. Har du ikke mulighet til å trene flere enn 2 ganger i uken så er et fullkroppsprogram det beste. 
+Kjør programmet 2-3 ganger i uken hvor du bytter på økt 1 og økt 2.
+Er det noen øvelser du er usikre på, så ta en titt på øvelse siden vår
 her finner du en full oversikt over alle øvelser som er forklart i programmene</p>
 <table border="1" id="fotball">
 <tr>
@@ -64,6 +67,7 @@ her finner du en full oversikt over alle øvelser som er forklart i programmene<
 <td class="dag2">Planke 2*maks</td>
 </tr>
 </table>
+<input type="submit" value="Last ned treningsprogram" id="volumKnapp" onClick="window.location.href='fullkroppsprogram.docx'"/>
 <h3>Når størrelsen teller</h3>
 <p>Dette er programmet for deg som vil bli større.<br> Programmet er delt inn 4 dager, optimalet er å trene mandag(dag1), tirsdag(dag2), torsdag(dag3)
  og fredag(dag4). 
@@ -165,4 +169,5 @@ Gjør to øvelsere "back to back" (supersett) uten hvile i mellom, for så å ta
 <td class="dag2"></td>
 </tr>
 </table>
+<input type="submit" value="Last ned treningsprogram" id="volumKnapp" onClick="window.location.href='2splitt.docx'"/>
 </article>
