@@ -15,14 +15,21 @@ så her kom det:
 <br>
 10 enkle knep for å gå ned i vekt
 <br>
-Disse knepene er faktisk det som skal til for å komme skikkelig i gang med en riktig og god vektreduksjon. Det handler kort og godt om å sette den sunne hverdagen i et system du trives med. Lykke til! 
+Disse knepene er faktisk det som skal til for å komme skikkelig i 
+gang med en riktig og god vektreduksjon. Det handler kort og godt om å 
+sette den sunne hverdagen i et system du trives med. Lykke til! 
 <br> <br>
 1. Hopp ikke over frokosten
-Så snart kroppen får noe å arbeide med settes forbrenningen opp. Dersom du hopper over dette viktige måltidet vil du bare lure deg selv! Alle måltider skal være fullverdige ¿ også frokosten. Spis for eksempel grovt brød, yoghurt, frukt, magert pålegg og grønnsaker til frokost.
+Så snart kroppen får noe å arbeide med settes forbrenningen opp. 
+Dersom du hopper over dette viktige måltidet vil du bare lure deg selv! Alle måltider skal være fullverdige
+ også frokosten. Spis for eksempel grovt brød, yoghurt, frukt, magert pålegg og grønnsaker til frokost.
 
 <br><br>
 2. Spis regelmessig
-Spis ofte. Frokost, lunsj, mellommåltid og middag. Spis gjerne til faste tider hver dag. Er du turnusarbeider bør du spise med 3-4 timers mellomrom. Dette for å holde blodsukkeret på et jevnt nivå i løpet av dagen. Du vil også da slippe søtsuget og forbrenningen fungerer jevnt ¿ og du går jevnt ned i vekt.
+Spis ofte. Frokost, lunsj, mellommåltid og middag. Spis gjerne til faste tider hver dag. 
+Er du turnusarbeider bør du spise med 3-4 timers mellomrom. Dette for å holde blodsukkeret 
+på et jevnt nivå i løpet av dagen. Du vil også da slippe søtsuget og forbrenningen fungerer jevnt
+ og du går jevnt ned i vekt.
 
 <br><br>
 3. Bestem ditt eget mål
@@ -39,7 +46,7 @@ Ha gjerne én fast veiedag i uken, hvor du kan bestemme deg for at varselklokken
 
 <br><br>
 6. Tren regelmessig
-La trening være en prioritert del av ukens gjøremål ¿ ikke en salderingspost. Trening er spesielt viktig i en vektreduksjonsperiode, da du oppnår smidighet, fasthet og styrke i kroppen som stadig blir slankere.
+La trening være en prioritert del av ukens gjøremål ikke en salderingspost. Trening er spesielt viktig i en vektreduksjonsperiode, da du oppnår smidighet, fasthet og styrke i kroppen som stadig blir slankere.
 
 <br><br>
 7. Skaff deg gjerne en treningspartner

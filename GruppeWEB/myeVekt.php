@@ -30,11 +30,12 @@ Spis gjerne karbohydratrik snacks mellom måltidene, som sandwicher, sportsbarer
 Velg fettkilder med umettet fett, for eksempel fet fisk, myk margarin, nøtter, mandler, avokado og oljer. Ikke øk inntaket av fete meieriprodukter (H-melk, meierismør, seterrømme m.m.), kjøttprodukter eller snacks (chips, iskrem og lignende) som gir mye mettet fett.
 <br> <br>
 5) Velg mat som reduserer metthethetsfølelsen
-Nina Lindstad
-Hvordan legge på meg?
-"Jeg er en 34 år gammel mann som ønsker sterkt å gå opp i vekt. Jeg er 194 cm høy, men veier bare 74 kg."
-Les hva Nina Lindstad, spesialist i allmennmedisin, svarer "Tynn mann" her
-Reduser fiberinntaket, fordi fiber øker metthetsfølelsen. Bytt ut noe av grovbrødet med hvitt brød eller loff. Reduser væskeinntaket rett før og til måltidene, fordi væske inneholder mindre energi enn mat og øker metthetsfølelsen. Drikk heller etter at du har spist.
+
+Reduser fiberinntaket, fordi fiber øker metthetsfølelsen. 
+Bytt ut noe av grovbrødet med hvitt brød eller loff. Reduser 
+væskeinntaket rett før og til måltidene, fordi væske inneholder 
+mindre energi enn mat og øker metthetsfølelsen. Drikk heller etter 
+at du har spist.
 <br> <br>
 6) Unngå lettprodukter og tomme kalorier
 Unngå produkter med redusert karbohydrat- eller fettinnhold og sukkerfrie produkter, hermetisk frukt og lignende.

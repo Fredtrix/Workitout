@@ -20,7 +20,9 @@ liten rolle som energikilde i forhold til karbohydrat og fett.
  <br><br>
 Proteinene er bygd opp av aminosyrer. 
 I naturen finnes over hundre forskjellige
- aminosyrer. Omtrent 20 er vanlige i dyreorganismer. En del av aminosyrene kan menneskekroppen ikke produsere selv i tilstrekkelige mengder, og de må derfor tilføres via maten. De kalles derfor for essensielle aminosyrer.
+ aminosyrer. Omtrent 20 er vanlige i dyreorganismer. En del av aminosyrene kan menneskekroppen 
+ ikke produsere selv i tilstrekkelige mengder, og de må derfor tilføres via maten. De kalles 
+ derfor for essensielle aminosyrer.
  <br><br>
  
 <h3>Anbefalt inntak</h3>
@@ -28,7 +30,9 @@ I naturen finnes over hundre forskjellige
 Det anbefales at proteininntaket utgjør 
 10-20 prosent av energiinntaket. En voksen person 
 trenger en daglig tilførsel på omtrent 0,8 g protein per kilo
- kroppsvekt. Dette tilsvarer omtrent 8-10 prosent av energiinntaket. Ettersom de fleste matvarer har et proteininnhold som er høyere enn 10 energiprosent, er det vanskelig å sette sammen et kosthold med mindre enn 10 energiprosent protein.
+ kroppsvekt. Dette tilsvarer omtrent 8-10 prosent av energiinntaket. 
+ Ettersom de fleste matvarer har et proteininnhold som er høyere enn 10
+ energiprosent, er det vanskelig å sette sammen et kosthold med mindre enn 10 energiprosent protein.
  <br><br>
 Gjennomsnittskostens innhold av protein har økt fra 
 12 til 15 prosent av energiinntaket i løpet av de siste 30 årene. Det er dermed på anbefalt nivå.
