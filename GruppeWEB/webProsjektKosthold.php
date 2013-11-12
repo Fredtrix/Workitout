@@ -29,15 +29,7 @@ include("includekosthold.php")
 	ikke veit hva som er sunt, eller den som tror han/hun ikke liker sunn mat.
 	</figcaption>
 	
-	
-	<h5> Her har du to forksjellige sider med noen tips om hvordan du skal enten gå opp i vekt eller om du skal ned i vekt:</h5>
-<a href="webProsjektHoved.php?page=8"> Tips for deg som vil opp i vekt </a>
-<br> <br>
-<a href="webProsjektHoved.php?page=7"> Tips til deg so vil gå ned i vekt </a>
 
-<h5> Her har du eksempel på 5 dietter du ikke skal prøve! </h5>
-
-<a href="webProsjektHoved.php?page=9"> IKKE velg disse diettene! </a>
 
 
 
@@ -68,4 +60,7 @@ http://gymgrossisten.no/6/no/artiklar/kosttilskudd/kreatin/index.html?gclid=CKyC
 <br><br>
 http://www.helsedirektoratet.no/folkehelse/ernering/energi-og-neringsstoff/proteiner/Sider/default.aspx
 <br><br>
+
+http://dedication.blogg.no/1325355798_etter_trening.html
+
 </article>

@@ -101,5 +101,5 @@ samt at ratioen mellom kortisol og testosteron var i favør av sistnevnte.
 <br>
 </p>
 
-<img id="syre" src="syre3.png">
+<img id="syre" src="syre3.png" alt="Dette er et bilde av en bøtte med BCAA piller">
 </article>

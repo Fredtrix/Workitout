@@ -91,6 +91,11 @@ include("webProsjektTopp.php");
 		  {
 		  	include("pannekaker.php");
 		  }
+		  
+		     elseif($_GET["page"]==17)
+		  {
+		  	include("Barer.php");
+		  }
 
 		  
 		}

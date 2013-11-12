@@ -41,7 +41,7 @@ $(".hide3").hide(200);
 <li class="hide2"><a href="webProsjektHoved.php?page=15">Protein</a></li>
 <li id="Kost3"><a href="#">Sunne oppskrifter</a></li>
 <li class="hide3"><a href="webProsjektHoved.php?page=16">Sunne pannekaker</a></li>
-<li class="hide3"><a href="webProsjektHoved.php?page=17"> rart</a></li>
+<li class="hide3"><a href="webProsjektHoved.php?page=17">Protein barer</a></li>
 
 </ul>
 </aside>
