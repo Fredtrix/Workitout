@@ -20,6 +20,42 @@ margin-top:-10px;
 
 }
 
+#sideslide{
+	position: absolute;
+	margin-left: 7%;
+	margin-top: 28%;
+}
+
+#sideslide img{
+	width: 280px;
+	height: 600px;
+}
+
+#sidebilder{
+	position: absolute;
+	margin-top: 30%;
+	margin-left: 9%;
+
+}
+
+#sidebilder img{
+	margin-top: 110px;
+	width: 250px;
+	height: 400px;
+}
+
+#sidebilderhovedbutikk{
+	margin-top: 28%;
+	position: absolute;
+	margin-left: 9%;
+
+}
+
+#sidebilderhovedbutikk img{
+	height: 250px;
+	width: 250px;
+}
+
 /*Navigasjon:*/
 
 #navigasjonsbar{
@@ -149,19 +185,26 @@ background-image: linear-gradient(to top, #000000 0%, #5C5A54 100%);
 
 }
 
-aside li a{
+aside li a:link{
 color:white;
 text-decoration:none;
 }
-
+aside li a:hover{
+color:green;
+}
+aside li a:visited{
+color:white;
+}
 h2{
 	text-align: center;
+	color: #800000;
+	border-bottom:solid black 1px;
 }
 article{
 margin-left:27%;
 margin-right:17%;
 background: rgb(245,246,246); /* Old browsers */
-background: -moz-linear-gradient(45deg,  rgba(245,246,246,1) 0%, rgba(219,220,226,1) 54%, rgba(221,223,227,1) 57%, rgba(245,246,246,1) 100%); /* FF3.6+ */
+background: -moz-linear-gradient(45deg,  80000045,246,246,1) 0%, rgba(219,220,226,1) 54%, rgba(221,223,227,1) 57%, rgba(245,246,246,1) 100%); /* FF3.6+ */
 background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,rgba(245,246,246,1)), color-stop(54%,rgba(219,220,226,1)), color-stop(57%,rgba(221,223,227,1)), color-stop(100%,rgba(245,246,246,1))); /* Chrome,Safari4+ */
 background: -webkit-linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1) 54%,rgba(221,223,227,1) 57%,rgba(245,246,246,1) 100%); /* Chrome10+,Safari5.1+ */
 background: -o-linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1) 54%,rgba(221,223,227,1) 57%,rgba(245,246,246,1) 100%); /* Opera 11.10+ */
@@ -198,10 +241,7 @@ height: 30px;
 padding: 7px;
 width: 1155px;
 border-top-left-radius: 2px;
-
 margin-left: 9.5%;
-display: none;
-
 
 }
 
@@ -214,7 +254,6 @@ background: -o-linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1
 background: -ms-linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1) 54%,rgba(221,223,227,1) 57%,rgba(245,246,246,1) 100%); /* IE10+ */
 background: linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1) 54%,rgba(221,223,227,1) 57%,rgba(245,246,246,1) 100%); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5f6f6', endColorstr='#f5f6f6',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-
 max-width: 880px;
 padding: 20px;
 margin-left: 28%;
@@ -287,49 +326,26 @@ background-image: -webkit-linear-gradient(bottom, #000000 0%, #5C5A54 100%);
 
 /* W3C Markup, IE10 Release Preview */ 
 background-image: linear-gradient(to top, #000000 0%, #5C5A54 100%);
-=======
 }
 /*TreningSide*/
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-#volum{
-
-position:relative;
-}
-
-=======
->>>>>>> 66828b8fa5693fa474ee2634071c1785d1a03b9d
-=======
->>>>>>> 66828b8fa5693fa474ee2634071c1785d1a03b9d
-=======
->>>>>>> 66828b8fa5693fa474ee2634071c1785d1a03b9d
-=======
->>>>>>> 1c756eee2bacd43d05f26ba8c541fe1ea15547e8
-=======
->>>>>>> 1c756eee2bacd43d05f26ba8c541fe1ea15547e8
-=======
->>>>>>> 1c756eee2bacd43d05f26ba8c541fe1ea15547e8
-=======
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-=======
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-=======
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
 .hide{
 margin-left:20px;
-display:none;
+display: none;
 }
+.hide2{
+margin-left:20px;
+}
+#utover table{
+margin-left:5px;
+}
+
 #navigasjonsbarTrening 
 {
-
 list-style-image:url('icon_dumbbell.gif');
+}
+.mot{
+width:100%;
+height:100%;
 }
 
 /*Kontakt*/
@@ -337,11 +353,10 @@ list-style-image:url('icon_dumbbell.gif');
 
 #kontakt{
 text-align:left;
+margin-bottom:20px;
+padding:20px;
 }
 
-p{
-padding: 20px;
-}
 
 
 .ka{
@@ -353,9 +368,32 @@ margin-bottom: 1%;
 padding: 20px;
 }
 
+#bildelogo{
+	width: 250px;
+	margin-left: 5%;
+
+	position: absolute;
+}
+
 #syre{
 color:black;
 max-width: 200px;
 max-height: 200px;
+}
+
+#pannekaker{
+margin-left:0%;
+}
+
+.hide3{
+margin-left:20px;
+}
+
+h3{
+border-bottom:solid black 1px;
+} 
+
+#Takost{
+margin-left: 5%;
 }
 

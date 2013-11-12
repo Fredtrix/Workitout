@@ -1,84 +1,8 @@
-<script>
- $(document).ready(function linker(){
- 
-$(".hide").hide(200);
- $("#Kost").click(function(){
-  $(".hide").show(200);
-  });
-});
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
- </script>
-=======
-=======
->>>>>>> 1c756eee2bacd43d05f26ba8c541fe1ea15547e8
-=======
->>>>>>> 1c756eee2bacd43d05f26ba8c541fe1ea15547e8
-=======
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-=======
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-=======
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-</script>
-
-<script>
- $(document).ready(function linker(){
-
-$(".hide2").hide(200);
- $("#Kost2").click(function(){
-  $(".hide2").show(200);
- });
-});
-</script>
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 1c756eee2bacd43d05f26ba8c541fe1ea15547e8
-=======
->>>>>>> 1c756eee2bacd43d05f26ba8c541fe1ea15547e8
-=======
->>>>>>> 1c756eee2bacd43d05f26ba8c541fe1ea15547e8
-=======
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-=======
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-=======
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
 
 
-
-
-<aside>
-<ul id="navigasjonsbarTrening">
-<li><a href="webProsjektHoved.php?page=2">Generelt om kosthold</a></li>
-<li id="Kost"><a href="#">Kostholds tips</a></li>
-<li class="hide"><a href="webProsjektHoved.php?page=7">Tips for å gå ned i vekt </a></li>
-<li class="hide"><a href="webProsjektHoved.php?page=8">Tips for å gå opp i vekt </a></li>
-<li class="hide"><a href="webProsjektHoved.php?page=9">Dietter du IKKE skal velge </a></li>
-<li id="Kost2"><a href="#">Kostholds tilskudd</a></li>
-<li class="hide2"><a href="webProsjektHoved.php?page=13"> BCAA</a></li>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<li class="hide2"><a href="webProsjektHoved.php?page=14">Kreatin</a></li>
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-=======
-<li class="hide2"><a href="webProsjektHoved.php?page=14">Kreatin</a></li>
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-=======
-<li class="hide2"><a href="webProsjektHoved.php?page=14">Kreatin</a></li>
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-</ul>
-</aside> 
+<?php
+include("includekosthold.php")
+?>
 
 <article class="ka">
 							<h2> Tips for å gå ned i vekt! </h2>
@@ -91,14 +15,21 @@ så her kom det:
 <br>
 10 enkle knep for å gå ned i vekt
 <br>
-Disse knepene er faktisk det som skal til for å komme skikkelig i gang med en riktig og god vektreduksjon. Det handler kort og godt om å sette den sunne hverdagen i et system du trives med. Lykke til! 
+Disse knepene er faktisk det som skal til for å komme skikkelig i 
+gang med en riktig og god vektreduksjon. Det handler kort og godt om å 
+sette den sunne hverdagen i et system du trives med. Lykke til! 
 <br> <br>
 1. Hopp ikke over frokosten
-Så snart kroppen får noe å arbeide med settes forbrenningen opp. Dersom du hopper over dette viktige måltidet vil du bare lure deg selv! Alle måltider skal være fullverdige ¿ også frokosten. Spis for eksempel grovt brød, yoghurt, frukt, magert pålegg og grønnsaker til frokost.
+Så snart kroppen får noe å arbeide med settes forbrenningen opp. 
+Dersom du hopper over dette viktige måltidet vil du bare lure deg selv! Alle måltider skal være fullverdige
+ også frokosten. Spis for eksempel grovt brød, yoghurt, frukt, magert pålegg og grønnsaker til frokost.
 
 <br><br>
 2. Spis regelmessig
-Spis ofte. Frokost, lunsj, mellommåltid og middag. Spis gjerne til faste tider hver dag. Er du turnusarbeider bør du spise med 3-4 timers mellomrom. Dette for å holde blodsukkeret på et jevnt nivå i løpet av dagen. Du vil også da slippe søtsuget og forbrenningen fungerer jevnt ¿ og du går jevnt ned i vekt.
+Spis ofte. Frokost, lunsj, mellommåltid og middag. Spis gjerne til faste tider hver dag. 
+Er du turnusarbeider bør du spise med 3-4 timers mellomrom. Dette for å holde blodsukkeret 
+på et jevnt nivå i løpet av dagen. Du vil også da slippe søtsuget og forbrenningen fungerer jevnt
+ og du går jevnt ned i vekt.
 
 <br><br>
 3. Bestem ditt eget mål
@@ -115,7 +46,7 @@ Ha gjerne én fast veiedag i uken, hvor du kan bestemme deg for at varselklokken
 
 <br><br>
 6. Tren regelmessig
-La trening være en prioritert del av ukens gjøremål ¿ ikke en salderingspost. Trening er spesielt viktig i en vektreduksjonsperiode, da du oppnår smidighet, fasthet og styrke i kroppen som stadig blir slankere.
+La trening være en prioritert del av ukens gjøremål ikke en salderingspost. Trening er spesielt viktig i en vektreduksjonsperiode, da du oppnår smidighet, fasthet og styrke i kroppen som stadig blir slankere.
 
 <br><br>
 7. Skaff deg gjerne en treningspartner

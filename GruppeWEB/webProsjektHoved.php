@@ -68,30 +68,33 @@ include("webProsjektTopp.php");
 		  {
 		  	include("webProsjektTreningIdrett.php");
 	      }
-			
+			elseif($_GET["page"]==23)
+		  {
+		  	include("ovelser.php");
+		  }
 		  elseif($_GET["page"]==13)
 		  {
 		  	include("BCAA.php");
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-=======
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
 		  }
 		  
 		   elseif($_GET["page"]==14)
 		  {
 		  	include("creatin.php");
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-=======
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-=======
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
+		  }
+		  
+		   elseif($_GET["page"]==15)
+		  {
+		  	include("protein.php");
+		  }
+		  
+		    elseif($_GET["page"]==16)
+		  {
+		  	include("pannekaker.php");
+		  }
+		  
+		     elseif($_GET["page"]==17)
+		  {
+		  	include("Barer.php");
 		  }
 
 		  

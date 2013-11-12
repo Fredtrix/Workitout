@@ -1,87 +1,22 @@
- <script>
- $(document).ready(function linker(){
- 
- $(".hide").hide;
-   $("#Kost").click(function(){
-     $(".hide").show(200);
- });
-});
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 1c756eee2bacd43d05f26ba8c541fe1ea15547e8
-=======
->>>>>>> 1c756eee2bacd43d05f26ba8c541fe1ea15547e8
-=======
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-=======
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-=======
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-</script>
 
-<script>
- $(document).ready(function linker(){
 
-$(".hide2").hide(200);
- $("#Kost2").click(function(){
-  $(".hide2").show(200);
- });
-});
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 1c756eee2bacd43d05f26ba8c541fe1ea15547e8
-=======
->>>>>>> 1c756eee2bacd43d05f26ba8c541fe1ea15547e8
-=======
->>>>>>> 1c756eee2bacd43d05f26ba8c541fe1ea15547e8
-=======
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-=======
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-=======
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-</script>
 
-<aside>
-<ul id="navigasjonsbarTrening">
-<li><a href="webProsjektHoved.php?page=2">Generelt om kosthold</a></li>
-<li id="Kost"><a href="#">Kostholds tips</a></li>
-<li class="hide"><a href="webProsjektHoved.php?page=7">Tips for å gå ned i vekt </a></li>
-<li class="hide"><a href="webProsjektHoved.php?page=8">Tips for å gå opp i vekt </a></li>
-<li class="hide"><a href="webProsjektHoved.php?page=8">Dietter du IKKE skal velge </a></li>
-<li id="Kost2"><a href="#">Kostholds tilskudd</a></li>
-<li class="hide2"><a href="webProsjektHoved.php?page=13"> BCAA</a></li>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<li class="hide2"><a href="webProsjektHoved.php?page=14">Kreatin</a></li>
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-=======
-<li class="hide2"><a href="webProsjektHoved.php?page=14">Kreatin</a></li>
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-=======
-<li class="hide2"><a href="webProsjektHoved.php?page=14">Kreatin</a></li>
->>>>>>> afbc451d184dad1298129cd0c9171a56dfcf5d40
-</ul>
-</aside>
+
+<?php
+include("includekosthold.php")
+?>
 
 
 <article class="ka">
 <h2> Generelt om kosthold </h2>
 	<p>
 		Man hører veldig mye om kosthold nå om dagen, at man skal spise mindre, spise mer, ikke spise på noen dager så
-		så spise utolig mye neste dag. vi lever i et samfunn der diet har blitt et kjempe viktig samtale emne. Hvis du skal lese alle de
-		sakene som blir skrevet om kosthold kan du bruke en helt uke, med dieter med alt fra lavkarbo til å bare spise kjempe mye fett.
+		så spise utolig mye neste dag.
+		<br><br>
+		vi lever i et samfunn der diet har blitt et kjempe viktig samtale emne. Hvis du skal lese alle de
+		sakene som blir skrevet om kosthold kan du bruke en helt uke, 
+		med dieter med alt fra lavkarbo til å bare spise kjempe mye fett.
+		<br><br>
 		Vi veit hvor forvirrende alle disse sakene er så vi har bestemt oss for å gjøre det litt enkelere for deg og kanskje klarere opp i noen av tankene
 		du har rundt dieter. Vi har noen tips på om du skal gå opp eller ned i vekt. 
 	</p> 
@@ -94,15 +29,7 @@ $(".hide2").hide(200);
 	ikke veit hva som er sunt, eller den som tror han/hun ikke liker sunn mat.
 	</figcaption>
 	
-	
-	<h5> Her har du to forksjellige sider med noen tips om hvordan du skal enten gå opp i vekt eller om du skal ned i vekt:</h5>
-<a href="webProsjektHoved.php?page=8"> Tips for deg som vil opp i vekt </a>
-<br> <br>
-<a href="webProsjektHoved.php?page=7"> Tips til deg so vil gå ned i vekt </a>
 
-<h5> Her har du eksempel på 5 dietter du ikke skal prøve! </h5>
-
-<a href="webProsjektHoved.php?page=9"> IKKE velg disse diettene! </a>
 
 
 
@@ -121,7 +48,19 @@ Artikkelen om dietter du ikke skal velge er hentet fra:
 <br>
 http://www.klikk.no/helse/dinkost/vektkontroll/article405074.ece
 <br><br>
+
+
 http://www.bedretrent.no/5-fordeler-med-a-bruke-bcaa/
-<br>
+<br><br>
+http://mat-helse.no/2013/10/10/pannekaker-med-havre-cottage-cheese/
+<br><br>
+http://www.klikk.no/helse/dinkost/ernaring/article598879.ece
+<br><br>
+http://gymgrossisten.no/6/no/artiklar/kosttilskudd/kreatin/index.html?gclid=CKyCuNSV0LoCFc1V3godwmsA4Q
+<br><br>
+http://www.helsedirektoratet.no/folkehelse/ernering/energi-og-neringsstoff/proteiner/Sider/default.aspx
+<br><br>
+
+http://dedication.blogg.no/1325355798_etter_trening.html
 
 </article>
