@@ -1,6 +1,6 @@
 <script>
 $(document).ready(function linker(){
-  $(".hide").hide(200);
+  $(".hide").hide(1);
   $("#trening").click(function(){
     $(".hide").show(200);
   });
@@ -10,12 +10,12 @@ $(document).ready(function linker(){
 <aside>
 <ul id="navigasjonsbarTrening">
 <li><a href="webProsjektHoved.php?page=1">Om trening</a></li>
-<li><a href="webProsjektHoved.php?page=23">Øvelser</a></li>
 <li id="trening"><a href="#">Treningsprogram</a></li>
 <li class="hide"><a href="webProsjektHoved.php?page=20">Styrke</a></li>
 <li class="hide"><a href="webProsjektHoved.php?page=21">Kondisjon</a></li>
 <li class="hide"><a href="webProsjektHoved.php?page=22">For utøvere</a></li>
 <li><a href="webProsjektHoved.php?page=6">Finn ditt treningssenter</a></li>
+<li><a href="webProsjektHoved.php?page=23">Øvelser</a></li>
 </ul>
 </aside>
 
