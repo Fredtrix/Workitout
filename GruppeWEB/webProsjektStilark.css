@@ -330,7 +330,6 @@ background-image: linear-gradient(to top, #000000 0%, #5C5A54 100%);
 /*TreningSide*/
 .hide{
 margin-left:20px;
-
 }
 .hide2{
 margin-left:20px;
@@ -338,7 +337,14 @@ margin-left:20px;
 #utover table{
 margin-left:5px;
 }
-
+#treningssenter{
+margin-right:80%;
+margin-left:20%;
+}
+#iframeSenter{
+border:solid black 2px;
+box-shadow:5px 5px 5px;
+}
 #navigasjonsbarTrening 
 {
 list-style-image:url('icon_dumbbell.gif');
