@@ -1,11 +1,11 @@
 <?php 
 
-	// Tilkobling til database.
+	// Tilkobling til database. Alle feltene under må fylles inn, med unntak av passord hvis HIOA server.
 	
-	$server	    = 'student.cs.hioa.no'; // Host = HIOA
-	$username	= 's172817';
+	$server	    	= ''; 
+	$username	= '';
 	$password	= '';
-	$database	= 's172817';
+	$database	= '';
 	
 	session_start(); // 'session_start()' Må altid være med når session brukes!
 
