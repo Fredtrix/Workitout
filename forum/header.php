@@ -22,7 +22,7 @@
 		
 		<!-- Mye av PHP koden og variablene jeg har brukt er på Engelsk, jeg kunne tenke meg å jobbe videre
 			 med dette forum-prosjektet på fritid, og da vil jeg gjerne at det skal være litt mer tilgjengelig 
-			 enn kun for ett sprøk. I både backend og frontend. FH -->
+			 enn kun for ett språk. I både backend og frontend. FH -->
 		
 	</head>
 	
