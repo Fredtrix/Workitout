@@ -1,0 +1,91 @@
+Dette er kun PHP kode og litt HTML5 + CSS3.
+
+All koden som er i denne mappen krever en MySQL database for å kunne fungere som det skal.
+
+For å sette opp en database som kan bruke dette forumet må du lage følgende tabeller:
+
+
+- USER TABLE -
+
+CREATE TABLE users (
+user_id 	INT(8) NOT NULL AUTO_INCREMENT,
+user_name	VARCHAR(30) NOT NULL,
+user_pass  	VARCHAR(255) NOT NULL,
+user_email	VARCHAR(255) NOT NULL,
+user_date	DATETIME NOT NULL,
+user_level	INT(8) NOT NULL,
+UNIQUE INDEX user_name_unique (user_name),
+PRIMARY KEY (user_id)
+) ENGINE=INNODB;
+
+
+- CATEGORIES TABLE -
+
+CREATE TABLE categories (
+cat_id 		 	INT(8) NOT NULL AUTO_INCREMENT,
+cat_name	 	VARCHAR(255) NOT NULL,
+cat_description 	VARCHAR(255) NOT NULL,
+UNIQUE INDEX cat_name_unique (cat_name),
+PRIMARY KEY (cat_id)
+) ENGINE=INNODB;
+
+
+- TOPICS TABLE -
+
+CREATE TABLE topics (
+topic_id		INT(8) NOT NULL AUTO_INCREMENT,
+topic_subject  		VARCHAR(255) NOT NULL,
+topic_date		DATETIME NOT NULL,
+topic_cat		INT(8) NOT NULL,
+topic_by		INT(8) NOT NULL,
+PRIMARY KEY (topic_id)
+) ENGINE=INNODB;
+
+
+- POSTS TABLE - 
+
+CREATE TABLE posts (
+post_id 		INT(8) NOT NULL AUTO_INCREMENT,
+post_content		TEXT NOT NULL,
+post_date 		DATETIME NOT NULL,
+post_topic		INT(8) NOT NULL,
+post_by		INT(8) NOT NULL,
+PRIMARY KEY (post_id)
+) ENGINE=INNODB;
+
+
+- TABLE EDITS - (Gjøres etter at du har laget de fire tabellene over!)
+
+- #1 -
+
+ALTER TABLE topics ADD FOREIGN KEY(topic_cat) REFERENCES categories(cat_id) ON DELETE CASCADE ON UPDATE CASCADE;
+
+- #2 -
+
+ALTER TABLE topics ADD FOREIGN KEY(topic_by) REFERENCES users(user_id) ON DELETE RESTRICT ON UPDATE CASCADE;
+
+- #3 -
+
+ALTER TABLE posts ADD FOREIGN KEY(post_topic) REFERENCES topics(topic_id) ON DELETE CASCADE ON UPDATE CASCADE;
+
+- #4 -
+
+ALTER TABLE posts ADD FOREIGN KEY(post_by) REFERENCES users(user_id) ON DELETE RESTRICT ON UPDATE CASCADE;
+
+NB! Disse 'ALTER TABLE' linjene er du nødt til å legge inn, 
+hvis ikke har ingen av tabellene noen relasjon til hverandre.
+
+Den letteste måten og sette opp dette på er ved å bruke database verktøyet 'phpMyAdmin'.
+
+Alt du trenger å gjøre er å lage en database eller bruke en du har fra før, deretter velger du 
+bare den databasen du vil bruke så går du inn under SQL i phpMyAdmin og kjører en Query hvor du
+copy-paster all teksten jeg har skrevet over inn i programmet og kjører det. Da vil det automatisk
+bli laget tabeller etter det som er skrevet.
+
+Aight?
+
+Mvh. Fredrik.
+
+
+
+	
