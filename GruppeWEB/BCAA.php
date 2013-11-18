@@ -6,7 +6,7 @@ include("includekosthold.php")
 
 <article class="ka">
 								<h2>BCAA</h2>
-<p>
+	<p>
 <h3>Hva er BCAA?</h3>
 
 BCAA står for branched chained amino acids eller forgrenede
@@ -30,12 +30,14 @@ til muskelnedbrytning. Dette vil skape det som kalles en positiv muskelproteinba
 Muskel-protein syntese > muskel-protein nedbrytning
 = positiv muskel-proteinbalanse = økning i muskelmasse
 <br><br>
+
 Leucine som er en av aminosyrene som inngår i BCAA har vist seg i en rekke 
 forsøk og studier å kunne akvitere en essensiell prosess i muskelbygging som 
 heter mTOR ( mammalian target of rapamycin). mTOR funger som et molekyl som 
 skrur ”av og på” en bryter for å lage muskelprotein og leucine viser seg å 
 være en svært sterk aktivator av mTOR.
 <br> <br>
+
 I en studie utført av Koopman med flere, 
 trente deltakerne styrketrening i 45 minutter 
 før de inntok en restitusjonsdrikk. Den ene gruppen 
@@ -52,6 +54,7 @@ Studien hadde totalt 4429 deltakere og det ble påvist at
 deltakerne i studien som hadde et høyere inntak av BCAA hadde 
 en mye lavere fettprosent og bedre kroppsammensetning.
 <br><br>
+
 I tillegg 
 var det en redusert risiko for å utvikle overvekt blant disse deltakerne.<br><br>
 
@@ -75,6 +78,7 @@ stølhet som kommer 1-2 dager etter at man har fullført treningsøkten.
 Jo fortere du klarer å restituere deg fra trening, jo fortere kan du 
 trene samme muskel igjen.
 <br><br>
+
  Studier viser at jo oftere du trener en muskel, 
 jo større er potensiale for at den vil øke i tversnitt, forutsatt at du ikke overtrener.
 
@@ -101,7 +105,9 @@ i BCAA gruppen var signifikant høyere,
 samt at ratioen mellom kortisol og testosteron var i favør av sistnevnte.
 <br>
 <br>
-</p>
-
+	</p>
+	
 <img id="syre" src="syre3.png" alt="Dette er et bilde av en bøtte med BCAA piller">
+<br><br>
+ Kilde: <a href="http://www.bedretrent.no/5-fordeler-med-a-bruke-bcaa/">http://www.bedretrent.no/5-fordeler-med-a-bruke-bcaa/</a>
 </article>

@@ -7,8 +7,7 @@ include("includekosthold.php")
 <article class="ka">
 
 <h2> Proteiner</h2>
-<p>					
-
+	<p>					
 Proteiner er nødvendige for oppbygning av
  nye celler - både under vekst og til 
 vedlikehold av kroppen. Proteiner er store molekyler som er bygd opp av aminosyrer.
@@ -20,9 +19,9 @@ liten rolle som energikilde i forhold til karbohydrat og fett.
  <br><br>
 Proteinene er bygd opp av aminosyrer. 
 I naturen finnes over hundre forskjellige
- aminosyrer. Omtrent 20 er vanlige i dyreorganismer. En del av aminosyrene kan menneskekroppen 
- ikke produsere selv i tilstrekkelige mengder, og de må derfor tilføres via maten. De kalles 
- derfor for essensielle aminosyrer.
+aminosyrer. Omtrent 20 er vanlige i dyreorganismer. En del av aminosyrene kan menneskekroppen 
+ikke produsere selv i tilstrekkelige mengder, og de må derfor tilføres via maten. De kalles 
+derfor for essensielle aminosyrer.
  <br><br>
  
 <h3>Anbefalt inntak</h3>
@@ -34,21 +33,24 @@ trenger en daglig tilførsel på omtrent 0,8 g protein per kilo
  Ettersom de fleste matvarer har et proteininnhold som er høyere enn 10
  energiprosent, er det vanskelig å sette sammen et kosthold med mindre enn 10 energiprosent protein.
  <br><br>
+ 
 Gjennomsnittskostens innhold av protein har økt fra 
 12 til 15 prosent av energiinntaket i løpet av de siste 30 årene. Det er dermed på anbefalt nivå.
  <br><br>
+ 
 <h3>Kilder til proteiner</h3>
 <br>
 Fisk, kjøtt, melk, ost og egg er rike på proteiner. Vegetabilske matvarer som korn, bønner og nøtter er også viktige proteinkilder.
 De største proteinkildene i norsk gjennomsnittskost er kjøtt, kornvarer og meieriprodukter.
  <br><br>
-	
+	Kilde: <a href="http://www.helsedirektoratet.no/folkehelse/ernering/energi-og-neringsstoff/proteiner/Sider/default.aspx">http://www.helsedirektoratet.no/folkehelse/ernering/energi-og-neringsstoff/proteiner/Sider/default.aspx</a>
 	<h3>Proteinrik mat</h3>
 	
 Gode kilder til proteiner er melk, nøtter, kjøtt, kylling, egg, fisk, bønner, erter, linser og grovt brød. <br>
 
 En tommelfingerregel sier at vi trenger ett gram protein per kg kroppsvekt. Det vil si; veier du 65 k
 g trenger du minimum 65 gram proteiner i løpet av en dag.<br><br>
+
 Mat som inneholder fullverdig protein er kjøtt, fugl, fisk, egg og meieriprodukter som melk, 
 cottage cheese og ost.<br>
 Det er like mye proteiner i lettprodukter som i vanlige produkter.
@@ -203,6 +205,7 @@ Solsikkefrø, 20,3 g <br>
 
 <br>
  <h4>Kilde: Matvaretabellen.no </h4>
+
 	
-</p>
+	</p>
 </article>

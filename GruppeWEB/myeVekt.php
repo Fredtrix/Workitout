@@ -49,4 +49,5 @@ Kjøp inn noen gode kokebøker eller
 abonner på nyhetsmailer med matoppskrifter. Du kan godt prøve å lage et
  kostholdsprogram ut fra de ovennevnte tipsene. Da skal du ha som mål å legge på deg 0,5–1 kilo i uka.
  </p>
+Kilde: <a href="http://www.klikk.no/helse/dinkost/article339637.ece">http://www.klikk.no/helse/dinkost/article339637.ece</a>
  </article>

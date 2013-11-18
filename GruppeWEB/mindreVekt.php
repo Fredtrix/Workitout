@@ -63,4 +63,5 @@ Utnytt mulighetene i hverdagen. Ta trappen fremfor heisen, gå for å gi en besk
 10. Bruk tid på å endre vaner
 Å endre vaner tar ofte lenger tid enn man tenker. Men det er viktig å jobbe målrettet med å innarbeide nye vaner, da vil det lettere for at det blir en naturlig del av  hverdagen din.
 </p>
+Kilde: <a href="http://www.greteroede.no/rdogtips/helse/1084640.o2.html"> http://www.greteroede.no/rdogtips/helse/1084640.o2.html</a>
 </article>

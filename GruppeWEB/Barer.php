@@ -34,4 +34,7 @@ Med 3 proteinbarbiter etter trening får du i deg:
 Perfekt etter en styrkeøkt.
 </p>
 <img src="bar.jpg" alt="Dette er en protein bar">
+<br><br>
+
+Kilde: <a href="http://dedication.blogg.no/1325355798_etter_trening.html">http://dedication.blogg.no/1325355798_etter_trening.html</a>
 </article>

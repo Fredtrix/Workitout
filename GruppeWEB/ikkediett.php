@@ -42,4 +42,5 @@ Den intravenøse blandingen inneholder flere vitaminer og mineraler, blant annet
 Opprinnelig blir disse posene brukt som akutthjelp for alkoholikere med alvorlige undernæring.
 – Selvsagt er det bedre at de tar vitaminer enn ingenting, men det er ikke sunt, sier Cathrine Borchsenius.
 </p>
+Kilde:<a href="http://www.klikk.no/helse/dinkost/vektkontroll/article405074.ece">http://www.klikk.no/helse/dinkost/vektkontroll/article405074.ece</a>
 </article>

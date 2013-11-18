@@ -50,5 +50,9 @@ Ingredienser (2-3 personer/8 pannekaker):<br><br>
 
 
 </p>
-<img src="Pannekaker.jpg">
+
+
+<img src="Pannekaker.jpg" alt="Bildet av en pannekake">
+<br><br>
+Kilde: <a href="http://mat-helse.no/2013/10/10/pannekaker-med-havre-cottage-cheese/">http://mat-helse.no/2013/10/10/pannekaker-med-havre-cottage-cheese/</a>
 </article>

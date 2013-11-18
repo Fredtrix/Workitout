@@ -1,7 +1,5 @@
 
 
-
-
 <?php
 include("includekosthold.php")
 ?>
@@ -29,38 +27,4 @@ include("includekosthold.php")
 	ikke veit hva som er sunt, eller den som tror han/hun ikke liker sunn mat.
 	</figcaption>
 	
-
-
-
-
-
-
-<h6> kilder </h6>
-Artikkelen om å gå opp vekt er hentet fra:
-<br>
-http://www.klikk.no/helse/dinkost/article339637.ece
-<br> <br>
-Artikkelen om å gå ned i vekt er hentet fra:
-<br>
-http://www.greteroede.no/rdogtips/helse/1084640.o2.html
-<br> <br>
-Artikkelen om dietter du ikke skal velge er hentet fra:
-<br>
-http://www.klikk.no/helse/dinkost/vektkontroll/article405074.ece
-<br><br>
-
-
-http://www.bedretrent.no/5-fordeler-med-a-bruke-bcaa/
-<br><br>
-http://mat-helse.no/2013/10/10/pannekaker-med-havre-cottage-cheese/
-<br><br>
-http://www.klikk.no/helse/dinkost/ernaring/article598879.ece
-<br><br>
-http://gymgrossisten.no/6/no/artiklar/kosttilskudd/kreatin/index.html?gclid=CKyCuNSV0LoCFc1V3godwmsA4Q
-<br><br>
-http://www.helsedirektoratet.no/folkehelse/ernering/energi-og-neringsstoff/proteiner/Sider/default.aspx
-<br><br>
-
-http://dedication.blogg.no/1325355798_etter_trening.html
-
 </article>
