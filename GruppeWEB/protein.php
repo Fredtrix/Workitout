@@ -92,7 +92,7 @@ bønner, erter, linser og nøtter.
 	</tr>
 </table>
 
-    <h4>Kilde: Olympiatoppen.no<h4>
+    Kilde: <a href="http://www.olympiatoppen.no/page943.html"> Olympiatoppen.no</a>
 
 
  <h3>Innhold per 100 g spiselig matvare:</h3>
@@ -204,7 +204,7 @@ Solsikkefrø, 20,3 g <br>
 
 
 <br>
- <h4>Kilde: Matvaretabellen.no </h4>
+ Kilde:<a href="http://matvaretabellen.no/"> Matvaretabellen.no </a>
 
 	
 	</p>

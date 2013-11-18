@@ -94,11 +94,13 @@ Deltakerne skulle før de trente knebøy innta 100 mg/kg med BCAA
 
 <h3>BCAA og hormonbalanse<br></h3>
 
-BCAA kan bidra til å redusere det muskelnedbrytende hormonet kortisol, samtidig som det optimaliserer testosteronverdiene.
- Dette gir en bedre hormonbalanse for optimalisering av muskelvekst.
+BCAA kan bidra til å redusere det muskelnedbrytende hormonet kortisol, samtidig som det optimaliserer 
+testosteronverdiene.
+Dette gir en bedre hormonbalanse for optimalisering av muskelvekst.
 
 En randomisert dobbel-blind placebo-kontrollert studie ble utført av Hsu med flere hvor de ønsket å se 
-på hormonresponsen hos deltakere etter inntak av en blanding som bestod av BCAA, arginine og karbohydrater eller placebo.
+på hormonresponsen hos deltakere etter inntak av en blanding som bestod av BCAA,
+arginine og karbohydrater eller placebo.
 
 Testosteronverdiene til deltakerne 
 i BCAA gruppen var signifikant høyere, 
