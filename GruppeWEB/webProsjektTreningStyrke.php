@@ -38,7 +38,7 @@ Kjør programmet 2-3 ganger i uken hvor du bytter på økt 1 og økt 2.
 Er det noen øvelser du er usikre på, så ta en titt på øvelse siden vår
 her finner du en full oversikt over alle øvelser som er forklart i programmene</p>
 
-<table border="1" id="nybegynner">
+<table border="1" class="treningsprogrammer" id="nybegynner">
 <tr>
 <th>Økt 1</th>
 <th>Økt 2</th>
@@ -71,14 +71,14 @@ her finner du en full oversikt over alle øvelser som er forklart i programmene<
 <td class="dag2">Planke 2*maks</td>
 </tr>
 </table>
-<input type="submit" value="Last ned treningsprogram" id="fullkroppKnapp" onClick="window.location.href='fullkroppsprogram.docx'"/>
+<input type="submit" value="Last ned treningsprogram" class="progKnapp" onClick="window.location.href='fullkroppsprogram.docx'"/>
 
 <h3>Når størrelsen teller</h3>
 <p>Dette er programmet for deg som vil bli større.<br> Programmet er delt inn 4 dager, optimalet er å trene mandag(dag1), tirsdag(dag2), torsdag(dag3)
  og fredag(dag4). 
 kan du ikke det, så prøv så godt det lar seg gjøre å putte en hviledag mellom dag 2 og dag 3.</p>
 
-<table border="1" id="volum">
+<table border="1" class="treningsprogrammer" id="volum">
 <tr>
 <th>Dag 1</th>
 <th>Dag 2</th>
@@ -127,7 +127,7 @@ kan du ikke det, så prøv så godt det lar seg gjøre å putte en hviledag mell
 <td class="dag4">Beinpress widowaker</td>
 </tr>
 </table>
-<input type="submit" value="Last ned treningsprogram" id="volumKnapp" onClick="window.location.href='TreningsProgramVolum.docx'"/>
+<input type="submit" value="Last ned treningsprogram" class="progKnapp" onClick="window.location.href='TreningsProgramVolum.docx'"/>
 
 <p><u>Droppsett type 1</u>
 Droppsett benyttes på benkpress og markløft. Bruk 3-4 sett med 6 reps på og kjøre deg opp til et tungt toppsett på 5-6 reps til teknisk utmattelse. 
@@ -147,7 +147,7 @@ Du er avhengig av å kunne trene 3 dager i uken hvor du skal ha en hviledag mell
 mandag(dag1), tirsdag(dag2) og torsdag(dag1). Varm opp med 2/3 av normal vekt før du begynner med den fulle vekten.<br>
 Gjør to øvelsere "back to back" (supersett) uten hvile i mellom, for så å ta en pause på 1 min. Deretter tar du for deg de 2 neste øvelsene uten hvile.</p>
 
-<table border="1" id="strength">
+<table border="1" class="treningsprogrammer" id="strength">
 <tr>
 <th>Dag 1</th>
 <th>Dag 2</th>
@@ -176,5 +176,5 @@ Gjør to øvelsere "back to back" (supersett) uten hvile i mellom, for så å ta
 <td class="dag2"></td>
 </tr>
 </table>
-<input type="submit" value="Last ned treningsprogram" id="styrkeKnapp" onClick="window.location.href='2splitt.docx'"/>
+<input type="submit" value="Last ned treningsprogram" class="progKnapp" onClick="window.location.href='2splitt.docx'"/>
 </article>
