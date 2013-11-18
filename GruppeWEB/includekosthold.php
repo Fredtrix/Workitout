@@ -21,7 +21,7 @@
  
  $(".hide4").hide(200);
    $("#Kost4").click(function(){
-     $(".hide4").show(200);
+     $(".hide4").toggle(200);
  });
 });
 </script>
@@ -31,7 +31,7 @@
 
 $(".hide2").hide(200);
  $("#Kost2").click(function(){
-  $(".hide2").show(200);
+  $(".hide2").toggle(200);
  });
 });
 </script>
@@ -41,7 +41,7 @@ $(".hide2").hide(200);
 
 $(".hide3").hide(200);
  $("#Kost3").click(function(){
-  $(".hide3").show(200);
+  $(".hide3").toggle(200);
  });
 });
 </script>

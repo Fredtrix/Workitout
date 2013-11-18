@@ -27,4 +27,7 @@ include("includekosthold.php")
 	ikke veit hva som er sunt, eller den som tror han/hun ikke liker sunn mat.
 	</figcaption>
 	
+
+
+
 </article>
