@@ -429,3 +429,7 @@ background-color:#99C299;
 .dag2,.dag4{
 background-color:#CCE0CC;
 }
+input:focus{
+background-color:#B2F0B2;
+color:black;
+}
