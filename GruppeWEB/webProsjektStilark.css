@@ -204,9 +204,13 @@ h2{
 p,h3{
 text-align:center
 }
+
 article{
-margin-left:27%;
-margin-right:17%;
+margin-left:29%;
+margin-right:15%;
+padding:1%;
+text-align:center;
+border:solid black 2px;
 background: rgb(245,246,246); /* Old browsers */
 background: -moz-linear-gradient(45deg,  80000045,246,246,1) 0%, rgba(219,220,226,1) 54%, rgba(221,223,227,1) 57%, rgba(245,246,246,1) 100%); /* FF3.6+ */
 background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,rgba(245,246,246,1)), color-stop(54%,rgba(219,220,226,1)), color-stop(57%,rgba(221,223,227,1)), color-stop(100%,rgba(245,246,246,1))); /* Chrome,Safari4+ */
@@ -365,16 +369,6 @@ margin-bottom:20px;
 padding:20px;
 }
 
-
-
-.ka{
-text-align:center;
-margin-left:28%;
-margin-right:10%;
-border: solid black 4px;
-margin-bottom: 1%;
-padding: 20px;
-}
 
 #bildelogo{
 	width: 250px;

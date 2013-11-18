@@ -5,7 +5,7 @@ include("includekosthold.php")
 ?>
 
 
-<article class="ka">
+<article>
 <h2> Generelt om kosthold </h2>
 	<p>
 		Man hører veldig mye om kosthold nå om dagen, at man skal spise mindre, spise mer,
