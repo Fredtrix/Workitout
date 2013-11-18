@@ -3,8 +3,9 @@ include("includekosthold.php")
 ?>
 
 
-<p>
+
 <h2>Hjemmelagde proteinbarer</h2>
+<p>
 <br>
 100 g sjokoladeprotein, jeg brukte dette, zero carb med sjokolade
 2 eggehviter<br>
@@ -14,16 +15,22 @@ include("includekosthold.php")
 1/2 ts salt<br>
 1 ss sukrin<br>
 Litt kanel og kardemomme<br>
+</p>
 
 <h2>Fremgangsmåte</h2>
+<p>
+
 <br>
 Ha alle ingrediensene i en bolle og rør godt. <br>
 Hell blandingen i en 20 * 30 form og stek på 160 grader i 30 -35 minutter. <br>
 Del i biter og oppbevar kaldt. <br>
 Jeg delte i 12 biter, hvor av tre biter passer perfekt etter trening.<br>
 <br><br>
+</p>
 
 <h2> Næringsinnhold</h2>
+<p>
+
 <br>
 Næringsinnhold på bit, basert på 12 stykker:
 117 kcal, 1 g fett, 11 g protein og 13 g karbohydrater

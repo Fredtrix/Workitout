@@ -24,7 +24,7 @@ Ingredienser (2-3 personer/8 pannekaker):<br><br>
 1/4 ts salt<br>
 1 ss smør (kan sløyfes, men gjør røren lettere å steke)<br>
 (evt. 1 ts vaniljesukker)<br>
-
+</p>
 <table id="pannekaker" border="1">
 	<tr>
 		<td> 1 </td>
@@ -49,7 +49,7 @@ Ingredienser (2-3 personer/8 pannekaker):<br><br>
 </table>
 
 
-</p>
+
 
 
 <img src="Pannekaker.jpg" alt="Bildet av en pannekake">

@@ -20,17 +20,17 @@ include("includekosthold.php")
 		du har rundt dieter. Vi har noen tips på om du skal gå opp eller ned i vekt. 
 	</p> 
 	
+	
+	
+<figure>
 	<img class="mot" src="mat.jpg" alt ="En kostholdspyramide" height="403px" width="600px">
-	
-	<figcaption>
-	Dette er en Kostholds pyramide, det er en pyramide som kan gi en indikasjon på hva du bør spise.
-	det er ikke slik at du må forholde deg
-	slavisk til denne modellen, men det kan være en fin peker for deg som ikke aner hva man bør spise av mat.
-	dett er for deg som synes det er vanskelig å velge sunt,
-	ikke veit hva som er sunt, eller den som tror han/hun ikke liker sunn mat.
-	</figcaption>
-	
-
-
+		<figcaption>
+		Dette er en Kostholds pyramide, det er en pyramide som kan gi en indikasjon på hva du bør spise.
+		det er ikke slik at du må forholde deg
+		slavisk til denne modellen, men det kan være en fin peker for deg som ikke aner hva man bør spise av mat.
+		dett er for deg som synes det er vanskelig å velge sunt,
+		ikke veit hva som er sunt, eller den som tror han/hun ikke liker sunn mat.
+		</figcaption>
+</figure>
 
 </article>

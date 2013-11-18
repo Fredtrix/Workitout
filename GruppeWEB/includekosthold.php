@@ -1,21 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
-<meta charset="UTF-8">
-<title>fitness</title>
-<link rel="stylesheet" type="text/css" href="webProsjektStilark.css">
-</head>
-<body>
-
-
-<!--topp-->
-<header>
-
-
-</header>
- 
  <script>
  $(document).ready(function linker(){
  
