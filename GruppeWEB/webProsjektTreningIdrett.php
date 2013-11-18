@@ -54,9 +54,9 @@ Målet med disse programmene er ikke å få de største musklene, men å få ste
 <td class="dag2"></td>
 </tr>
 </table>
-<input type="submit" value="Last ned treningsprogram" id="volumKnapp" onClick="window.location.href='TreningsProgramFotball.docx'"/>
+<input type="submit" value="Last ned treningsprogram" id="fotballKnapp" onClick="window.location.href='TreningsProgramFotball.docx'"/>
 <h3>Ishockey</h3>
-<table border="1" id="fotball">
+<table border="1" id="IshockeyProgram">
 <tr>
 <th>Tidlig pre-season</th>
 <th>Sent pre-season</th>
@@ -93,9 +93,9 @@ Målet med disse programmene er ikke å få de største musklene, men å få ste
 <td class="dag2">Shrug 5*5-6 reps</td>
 </tr>
 </table>
-<input type="submit" value="Last ned treningsprogram" id="volumKnapp" onClick="window.location.href='TreningsIshockey.docx'"/>
+<input type="submit" value="Last ned treningsprogram" id="ishockeyKnapp" onClick="window.location.href='TreningsIshockey.docx'"/>
 <h3>Tennis</h3>
-<table border="1" id="volum">
+<table border="1" id="tennisProgram">
 <tr>
 <th>Dag 1</th>
 <th>Dag 2</th>
@@ -131,10 +131,10 @@ Målet med disse programmene er ikke å få de største musklene, men å få ste
 <td class="dag3">Bosu russian twist 3*9-10</td>
 </tr>
 </table>
-<input type="submit" value="Last ned treningsprogram" id="volumKnapp" onClick="window.location.href='TreningsProgramTennis.docx'"/>
+<input type="submit" value="Last ned treningsprogram" id="tennisKnapp" onClick="window.location.href='TreningsProgramTennis.docx'"/>
 
 <h3>Golf</h3>
-<table border="1" id="volum">
+<table border="1" id="golfProgram">
 <tr>
 <th>Dag 1</th>
 <th>Dag 2</th>
@@ -175,10 +175,10 @@ Målet med disse programmene er ikke å få de største musklene, men å få ste
 <td class="dag3"></td>
 </tr>
 </table>
-<input type="submit" value="Last ned treningsprogram" id="volumKnapp" onClick="window.location.href='TreningsProgramGolf.docx'"/>
+<input type="submit" value="Last ned treningsprogram" id="golfKnapp" onClick="window.location.href='TreningsProgramGolf.docx'"/>
 
 <h3>Basktetball</h3>
-<table border="1" id="fotball">
+<table border="1" id="baskettProgram">
 <tr>
 <th>Tidlig pre-season</th>
 <th>Sent pre-season</th>
@@ -215,5 +215,5 @@ Målet med disse programmene er ikke å få de største musklene, men å få ste
 <td class="dag2">Drag curl 3*10 reps</td>
 </tr>
 </table>
-<input type="submit" value="Last ned treningsprogram" id="volumKnapp" onClick="window.location.href='TreningsProgramBasket.docx'"/>
+<input type="submit" value="Last ned treningsprogram" id="baskettKnapp" onClick="window.location.href='TreningsProgramBasket.docx'"/>
 </article> 

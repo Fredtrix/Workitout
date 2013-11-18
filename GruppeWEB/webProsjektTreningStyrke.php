@@ -19,22 +19,26 @@ $(document).ready(function linker1(){
 </ul>
 </aside>
 
-<article id="omTrening">
+<article id="artikkelStyrke">
 <h2>Styrkeprogram</h2>
+
 <p>Det viktigste å ha i bakhodet når du skal starte å trene styrke er å utføre øvelsene/teknikkene riktig!<br> 
 Det er utrolig viktig å gjøre styrkeøvelser korekt eller så vil det bare ha negative utslag 
 som skader, smerter o.l. Så i starten er det lurt å starte med lette vekter, slik at du får inn bevegelsene og teknikken, 
 det er også veldig viktig å puste riktig... <br>
 <a href="http://fitnessbloggen.no/styrketrening-for-nybegynnere/" target="_blank">Les deg opp på denne artikkelen</a><br>
 </p>
+
 <img class="mot" src="motivasjon2.jpg" alt="motivasjonStyrke" height="400" width="830">
+
 <h3>For deg som er ny</h3>
 <p>Programmet er ikke kun for nybegynnere, det kan også brukes om du er erfaren. Dette er et fullkroppsprogram som baserer seg på at du skal trene hele kroppen
 hver gang du trener. Har du ikke mulighet til å trene flere enn 2 ganger i uken så er et fullkroppsprogram det beste. 
 Kjør programmet 2-3 ganger i uken hvor du bytter på økt 1 og økt 2.
 Er det noen øvelser du er usikre på, så ta en titt på øvelse siden vår
 her finner du en full oversikt over alle øvelser som er forklart i programmene</p>
-<table border="1" id="fotball">
+
+<table border="1" id="nybegynner">
 <tr>
 <th>Økt 1</th>
 <th>Økt 2</th>
@@ -67,11 +71,13 @@ her finner du en full oversikt over alle øvelser som er forklart i programmene<
 <td class="dag2">Planke 2*maks</td>
 </tr>
 </table>
-<input type="submit" value="Last ned treningsprogram" id="volumKnapp" onClick="window.location.href='fullkroppsprogram.docx'"/>
+<input type="submit" value="Last ned treningsprogram" id="fullkroppKnapp" onClick="window.location.href='fullkroppsprogram.docx'"/>
+
 <h3>Når størrelsen teller</h3>
 <p>Dette er programmet for deg som vil bli større.<br> Programmet er delt inn 4 dager, optimalet er å trene mandag(dag1), tirsdag(dag2), torsdag(dag3)
  og fredag(dag4). 
 kan du ikke det, så prøv så godt det lar seg gjøre å putte en hviledag mellom dag 2 og dag 3.</p>
+
 <table border="1" id="volum">
 <tr>
 <th>Dag 1</th>
@@ -122,6 +128,7 @@ kan du ikke det, så prøv så godt det lar seg gjøre å putte en hviledag mell
 </tr>
 </table>
 <input type="submit" value="Last ned treningsprogram" id="volumKnapp" onClick="window.location.href='TreningsProgramVolum.docx'"/>
+
 <p><u>Droppsett type 1</u>
 Droppsett benyttes på benkpress og markløft. Bruk 3-4 sett med 6 reps på og kjøre deg opp til et tungt toppsett på 5-6 reps til teknisk utmattelse. 
 Ta deretter av 20% vekt og kjør så mange repetisjoner som mulig på denne vekten frem til teknisk feil.
@@ -169,5 +176,5 @@ Gjør to øvelsere "back to back" (supersett) uten hvile i mellom, for så å ta
 <td class="dag2"></td>
 </tr>
 </table>
-<input type="submit" value="Last ned treningsprogram" id="volumKnapp" onClick="window.location.href='2splitt.docx'"/>
+<input type="submit" value="Last ned treningsprogram" id="styrkeKnapp" onClick="window.location.href='2splitt.docx'"/>
 </article>

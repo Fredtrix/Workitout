@@ -2,7 +2,6 @@
 <html>
 <head>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-
 <meta charset="UTF-8">
 <title>fitness</title>
 <link rel="stylesheet" type="text/css" href="webProsjektStilark.css">
@@ -19,9 +18,10 @@
 
 <!--topp-->
 <header>
-<div id="slide"><img src="styrke1.png" name="slide" alt="bilder"></div>
+<div id="slide"><img src="styrke1.png" id="slide" alt="bilder"></div>
 
 </header>
+
 <div class="fb-like" data-href="https://www.facebook.com/pages/Treningsprat/177743495763636"
 data-layout="box_count" data-action="like" data-show-faces="true" data-share="false"></div>
 <!--Navigasjon-->
@@ -31,7 +31,7 @@ data-layout="box_count" data-action="like" data-show-faces="true" data-share="fa
 <li><a href="webProsjektHoved.php?page=1">Trening</a></li>
 <li><a href="webProsjektHoved.php?page=2">Kosthold</a></li>
 <li><a href="webProsjektHoved.php?page=3">Butikk</a></li>
-<li><a href="webProsjektHoved.php?page=4">Forum</a></li>
+<li><a href="#">Forum</a></li>
 <li><a href="webProsjektHoved.php?page=5">Kontakt</a></li>
 </ul>
 </nav>

@@ -200,6 +200,9 @@ h2{
 	color: #800000;
 	border-bottom:solid black 1px;
 }
+p,h3{
+text-align:center
+}
 article{
 margin-left:27%;
 margin-right:17%;
@@ -211,7 +214,6 @@ background: -o-linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1
 background: -ms-linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1) 54%,rgba(221,223,227,1) 57%,rgba(245,246,246,1) 100%); /* IE10+ */
 background: linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1) 54%,rgba(221,223,227,1) 57%,rgba(245,246,246,1) 100%); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5f6f6', endColorstr='#f5f6f6',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-text-align:center;
 }
 
 footer{
@@ -335,9 +337,7 @@ margin-left:20px;
 .hide2{
 margin-left:20px;
 }
-#utover table{
-margin-left:5px;
-}
+
 #treningssenter{
 margin-right:80%;
 margin-left:20%;
@@ -427,7 +427,13 @@ background: linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1) 5
 }
 .fb-like{
 float:right;
+
 }
+
 table{
 border-collapse:collapse;
+width:95%;
+margin-left:2.5%;
+margin-right:2.5%;
+border:solid black 2px;
 }
