@@ -84,8 +84,9 @@ background-image: -webkit-linear-gradient(bottom, #000000 0%, #5C5A54 100%);
 background-image: linear-gradient(to top, #000000 0%, #5C5A54 100%);
 
 
-width: 1100px;
+width: 74%;
 margin-left: 9.5%;
+margin-right:17.5%;
 border: 1px solid black;
 font-size: 26px;
 
@@ -153,8 +154,8 @@ font-family: tahoma;
 aside{
     float:left;
 	text-align:left;
-	width: 239px;
-	height: 400px;
+	width: 15%;
+	height: 100%;
 	
 /* IE10 Consumer Preview */ 
 background-image: -ms-linear-gradient(bottom, #000000 0%, #5C5A54 100%);
@@ -205,8 +206,8 @@ p,h3{
 text-align:center
 }
 
-article{
-margin-left:29%;
+article, #scrollbox{
+margin-left:27%;
 margin-right:15%;
 padding:1%;
 text-align:center;
@@ -403,26 +404,9 @@ border-bottom:solid black 1px;
 margin-left: 5%;
 }
 
-#scrollbox{
-height:400px;
-width:800px;
-border: solid black 4px;
-overflow:auto;
-text-align:center;
-margin-left:375px;
-margin-bottom: 1%;
-background: rgb(245,246,246); /* Old browsers */
-background: -moz-linear-gradient(45deg,  rgba(245,246,246,1) 0%, rgba(219,220,226,1) 54%, rgba(221,223,227,1) 57%, rgba(245,246,246,1) 100%); /* FF3.6+ */
-background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,rgba(245,246,246,1)), color-stop(54%,rgba(219,220,226,1)), color-stop(57%,rgba(221,223,227,1)), color-stop(100%,rgba(245,246,246,1))); /* Chrome,Safari4+ */
-background: -webkit-linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1) 54%,rgba(221,223,227,1) 57%,rgba(245,246,246,1) 100%); /* Chrome10+,Safari5.1+ */
-background: -o-linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1) 54%,rgba(221,223,227,1) 57%,rgba(245,246,246,1) 100%); /* Opera 11.10+ */
-background: -ms-linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1) 54%,rgba(221,223,227,1) 57%,rgba(245,246,246,1) 100%); /* IE10+ */
-background: linear-gradient(45deg,  rgba(245,246,246,1) 0%,rgba(219,220,226,1) 54%,rgba(221,223,227,1) 57%,rgba(245,246,246,1) 100%); /* W3C */
 
-}
 .fb-like{
 float:right;
-
 }
 
 .treningsprogrammer{
@@ -432,4 +416,15 @@ margin-left:2.5%;
 margin-right:2.5%;
 border:solid black 2px;
 }
-
+.progKnapp{
+background-color:green;
+color:white;
+border: solid 2px black;
+border-radius:5px;
+}
+.dag1,.dag3{
+background-color:#99C299;
+}
+.dag2,.dag4{
+background-color:#CCE0CC;
+}

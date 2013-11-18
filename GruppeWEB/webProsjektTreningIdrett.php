@@ -175,7 +175,7 @@ Målet med disse programmene er ikke å få de største musklene, men å få ste
 <td class="dag3"></td>
 </tr>
 </table>
-<input type="submit" value="Last ned treningsprogram" id="golfKnapp" onClick="window.location.href='TreningsProgramGolf.docx'"/>
+<input type="submit" value="Last ned treningsprogram" class="progKnapp" onClick="window.location.href='TreningsProgramGolf.docx'"/>
 
 <h3>Basktetball</h3>
 <table border="1" class="treningsprogrammer" id="baskettProgram">

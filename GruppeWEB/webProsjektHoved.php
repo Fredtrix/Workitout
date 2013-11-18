@@ -8,7 +8,7 @@ include("webProsjektTopp.php");
 		  {
 		  	if ($_GET["page"]==1)
 		  	{
-		  		include ("webprosjektTrening.php");
+		  		include ("webProsjektTrening.php");
 		  	}
 
 		  elseif ($_GET["page"] ==2)
