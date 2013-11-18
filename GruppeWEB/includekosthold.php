@@ -62,8 +62,6 @@ $(".hide3").hide(200);
 <li class="hide3"><a href="webProsjektHoved.php?page=17">Protein barer</a></li>
 
 </ul>
+
 </aside>
-<!--Slider script-->
-<?php
-include ("slider.js");
-?>
+<article>

@@ -6,7 +6,7 @@ include("includekosthold.php")
 
 
 
-<article class="ka">
+
 							<h2>Pannekaker</h2>
 <p>
 Én pannekake inneholder litt over 100 kcal. Disse pannekakene 

@@ -4,7 +4,7 @@
 include("includekosthold.php")
 ?>
 
-<article class="ka">
+
 								<h2>BCAA</h2>
 	<p>
 <h3>Hva er BCAA?</h3>

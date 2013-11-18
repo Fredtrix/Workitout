@@ -5,7 +5,7 @@ include("includekosthold.php")
 ?>
 
 
-<article>
+
 <h2> Generelt om kosthold </h2>
 	<p>
 		Man hører veldig mye om kosthold nå om dagen, at man skal spise mindre, spise mer,
@@ -20,7 +20,7 @@ include("includekosthold.php")
 		du har rundt dieter. Vi har noen tips på om du skal gå opp eller ned i vekt. 
 	</p> 
 	
-	<img src="mat.jpg" alt ="En kostholdspyramide">
+	<img class="mot" src="mat.jpg" alt ="En kostholdspyramide" height="403px" width="600px">
 	
 	<figcaption>
 	Dette er en Kostholds pyramide, det er en pyramide som kan gi en indikasjon på hva du bør spise.

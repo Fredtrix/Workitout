@@ -4,7 +4,7 @@ include("includekosthold.php")
 ?>
 
 
-<article class="ka">
+
 							<h2> Kreatin</h2>
 <p>
 Kreatin er et stoff som finnes naturlig i kroppens muskler og som spiller en 

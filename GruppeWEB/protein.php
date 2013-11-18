@@ -4,7 +4,7 @@
 include("includekosthold.php")
 ?>
 
-<article class="ka">
+
 
 <h2> Proteiner</h2>
 	<p>					
