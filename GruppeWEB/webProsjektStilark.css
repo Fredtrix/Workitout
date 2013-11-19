@@ -8,14 +8,9 @@ width:1200px;
 border:4px solid black;
 border-radius:35px;
 }
-<<<<<<< HEAD
+
 #slider{
 margin-left:7%;
-=======
-#slide{
-
-margin-left:3.5%;
->>>>>>> 72d63fd761933fd26234aae9271d0e29da77c383
 margin-right:auto;
 }
 /*Logo*/
@@ -305,7 +300,6 @@ color: white;
 #handlebilde{
 	border: 1px solid black;
 	border-radius: 4px;
-float: left;
 }
 
 #handlekjop{
@@ -396,21 +390,17 @@ background-image: -webkit-linear-gradient(bottom, #000000 0%, #5C5A54 100%);
 
 /* W3C Markup, IE10 Release Preview */ 
 background-image: linear-gradient(to top, #000000 0%, #5C5A54 100%);
-<<<<<<< HEAD
 
-=======
->>>>>>> 72d63fd761933fd26234aae9271d0e29da77c383
 }
 /*TreningSide*/
 .hide{
 margin-left:20px;
-<<<<<<< HEAD
+
 
 display: none;
 
 display:none;
 
-=======
 }
 .hide2{
 margin-left:20px;
@@ -423,7 +413,7 @@ margin-left:20%;
 #iframeSenter{
 border:solid black 2px;
 box-shadow:5px 5px 5px;
->>>>>>> 72d63fd761933fd26234aae9271d0e29da77c383
+
 }
 #navigasjonsbarTrening 
 {
@@ -444,7 +434,6 @@ padding:20px;
 }
 
 
-<<<<<<< HEAD
 .ka{
 text-align:center;
 margin-left:28%;
@@ -455,8 +444,7 @@ padding: 20px;
 }
 
 
-=======
->>>>>>> 72d63fd761933fd26234aae9271d0e29da77c383
+
 #bildelogo{
 	width: 250px;
 	margin-left: 5%;
@@ -470,8 +458,7 @@ max-width: 200px;
 max-height: 200px;
 }
 
-<<<<<<< HEAD
-=======
+
 #pannekaker{
 margin-left:0%;
 }
@@ -520,4 +507,4 @@ input:focus{
 background-color:#B2F0B2;
 color:black;
 }
->>>>>>> 72d63fd761933fd26234aae9271d0e29da77c383
+

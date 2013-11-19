@@ -18,11 +18,10 @@
 
 <!--topp-->
 <header>
-<<<<<<< HEAD
 <div id="slider"><img src="styrke1.png" name="slide" alt="bilder"></div>
-=======
-<div id="slide"><img src="styrke1.png" id="slide" alt="bilder"></div>
->>>>>>> 72d63fd761933fd26234aae9271d0e29da77c383
+
+
+
 
 </header>
 
