@@ -115,13 +115,12 @@ include("webProsjektTopp.php");
 		  }
 		  elseif ($_GET["page"] ==26)
 		  {
-		  	include ("index.php");
-
+		  	include ("webProsjektinnhold.php");
 		  }
 		}
 		else 
 		{
-			include("index.php");
+			include("webProsjektinnhold.php");
 		}
 		
 		
