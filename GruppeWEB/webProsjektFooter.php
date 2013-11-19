@@ -1,5 +1,5 @@
 <footer>
-	&copy: gays wid guns
+	&copy; guys wid guns
 </footer>
 </body>
 </html>

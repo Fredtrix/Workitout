@@ -1,0 +1,346 @@
+/* GENERAL */
+
+* {
+
+	font-family: tahoma;
+	font-size: 100%;
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+	
+}
+
+#banner, #wrapper, #menunav, #userbar, #forumheader, #content, #foot { display: block; }
+
+body { background-color: lightgray; }
+
+/* HEADER */
+
+#banner {
+
+	width: 80%;
+	min-width: 975px;
+	height: 200px;
+	margin-top: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid black;
+	
+	background-color: darkgray;
+
+}
+
+#banner > h1 {
+
+	font-size: 72px;
+	text-align: center;
+	padding-top: 50px;
+
+}
+
+/* WRAPPER */
+
+#wrapper {
+
+	width: 80%;
+	min-width: 975px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid black;
+	border-top: none;
+
+}
+
+/* NAVIGATION */
+
+#menunav {
+
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+	
+}
+
+#userbar {
+
+	width: 47%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 3%;
+	float: right;
+	text-align: right;
+	
+}
+
+#menunav, #userbar {
+
+	border-bottom: 1px solid black;
+	background-color: dimgray;
+
+}
+
+.button {
+
+	display: inline;
+	margin-left: 25px;
+	word-wrap: none;
+	padding-left: 5px;
+	padding-right: 5px;
+
+}
+
+.userbutton {
+
+	width: 100px;
+	padding-left: 5px;
+	padding-right: 5px;
+	
+}
+
+.button, .userbutton {
+
+	background-color: skyblue;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+
+}
+
+.button:hover, .userbutton:hover {
+
+	background-color: lightblue;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+
+}
+
+a {
+
+	color: black;
+
+}
+
+a:hover {
+
+	color: darkblue;
+
+}
+
+/* CONTENT */
+
+#content {
+
+	padding: 25px;
+	min-height: 600px;
+	
+	background-color: darkgray;
+
+}
+
+/* FORUM TABLE */
+
+table {
+
+	width: 100%;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+
+}
+
+th {
+
+	padding: 10px;
+	border: 1px solid black;
+	text-align: left;
+	
+	background-color: skyblue; 
+	
+}
+
+td {
+
+	padding: 15px;
+	border: 1px solid black;
+	
+	background-color: white;
+
+}
+
+.left {
+
+	width: 70%;
+}
+
+.right {
+
+	width: 30%;
+
+}
+
+.category {
+
+	display: block;
+	width: 100%;
+	margin-top: 50px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: -55px;
+	text-align: center;
+	border: 1px solid black;
+	
+	background: skyblue;
+
+}
+
+/* ERROS and MESSAGES */
+
+p.msg {
+
+	display: block;
+	width: 80%;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 15px;
+	border: 1px solid black;
+	
+	background-color: white;
+	
+
+}
+
+/* LOGIN */
+
+
+
+/* REGISTER */
+
+h3.register {
+
+	display: block;
+	width: 65%;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 15px;
+	text-align: center;
+	border: 1px solid black;
+	
+	background-color: white;
+
+}
+
+section.register {
+
+	display: block;
+	width: 30%;
+	margin-top: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 15px;
+	border: 1px solid black;
+	
+	background-color: white;
+
+}
+
+form {
+
+	margin-left: 12%;
+
+}
+
+.formbutton {
+
+	display: block;
+	text-align: center;
+	width: 85px;
+	margin-left: 25%;
+	
+}
+
+/* CREATE TOPIC */
+
+section.create {
+
+	display: block;
+	width: 80%;
+	padding: 15px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid black;
+	
+	background-color: white;
+	
+}
+
+#topic {
+
+	width: 217px;
+
+}
+
+/* MISC */
+
+h2.reply {
+
+	font-size: 32px;
+
+}
+
+.topic-post {
+
+	height: 100px;
+	width: 30%;
+	overflow: auto;
+	
+}
+
+.post-content {
+
+	padding: 30px;
+	width: 70%;
+	
+}
+
+.replyc {
+
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.replybutton {
+
+	width: 125px;
+
+}
+
+textarea {
+
+	width: 500px;
+	height: 200px;
+}
+
+span.user {
+
+	color: limegreen;
+
+}
+
+h3.topictitle {
+
+	font-size: 24px;
+
+}
+
+h3.cattitle {
+
+	font-size: 32px;
+
+}

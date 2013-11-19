@@ -14,17 +14,17 @@
          Adresse:<br>
          <input type="text" name="adresse"/><br>
          Telefonnummer:<br>
-         <input type="text" name="telefonnummer"><br>
+         <input type="text" name="tlf"><br>
          Emne:<br>
          <select name ="emne">
          <option>  </option>    
          <option value="frakt">Frakt</option>
          <option value="produkt">Produkt</option>
          <option value="reklamasjon">Reklamasjon</option>
-		 <option value="reklamasjon">Trening</option>
-		 <option value="reklamasjon">Kosthold</option>
-        <option value="reklamasjon">Rapportere feil</option>
-		<option value="reklamasjon">Annet</option>
+		 <option value="trening">Trening</option>
+		 <option value="kosthold">Kosthold</option>
+        <option value="feil">Rapportere feil</option>
+		<option value="annet">Annet</option>
 		</select>
          <br>
          <textarea name="melding" rows="5" cols="50">Skriv her...</textarea>
@@ -33,10 +33,17 @@
         </form>
 		
 		<?php
+		
 $dato= date("d-m-Y H:i");
 if (isset($_REQUEST["sendMail"]))
 {
-        mail("treningsprat@hotmail.no",$_REQUEST["emne"],$_REQUEST["melding"],"From:".$_REQUEST["email"]);
+        mail("treningsprat@hotmail.no",$_REQUEST["emne"],
+		"Navn: ".$_REQUEST["fornavn"]."\n".
+        "Etternavn: ".$_REQUEST["etternavn"]."\n".
+        "Adresse: ".$_REQUEST["adresse"]."\n".
+        "Telefonnummer: ".$_REQUEST["tlf"]."\n".
+        "Emne: ".$_REQUEST["emne"]."\n".
+        "Melding: ".$_REQUEST["melding"],"From:".$_REQUEST["email"]);
         echo "Mail er sendt.<br>";
         echo "Tid for sendt mail er: $dato <br>";
        

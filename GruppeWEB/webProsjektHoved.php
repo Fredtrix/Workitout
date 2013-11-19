@@ -8,7 +8,7 @@ include("webProsjektTopp.php");
 		  {
 		  	if ($_GET["page"]==1)
 		  	{
-		  		include ("webprosjektTrening.php");
+		  		include ("webProsjektTrening.php");
 		  	}
 
 		  elseif ($_GET["page"] ==2)
@@ -68,7 +68,31 @@ include("webProsjektTopp.php");
 		  {
 		  	include("webProsjektTreningIdrett.php");
 	      }
-			
+			elseif($_GET["page"]==23)
+		  {
+		  	include("ovelser.php");
+		  }
+		  elseif($_GET["page"]==24)
+		  {
+		  	include("ovelserhm.php");
+		  }
+		  elseif($_GET["page"]==25)
+		  {
+		  	include("ovelsernr.php");
+		  }
+		  elseif($_GET["page"]==26)
+		  {
+		  	include("ovelserst.php");
+		  }
+		  elseif($_GET["page"]==27)
+		  {
+		  	include("ovelseruw.php");
+		  }
+		  elseif($_GET["page"]==28)
+		  {
+		  	include("ovelsersiste.php");
+		  }
+
 		  elseif($_GET["page"]==13)
 		  {
 		  	include("BCAA.php");
@@ -77,6 +101,21 @@ include("webProsjektTopp.php");
 		   elseif($_GET["page"]==14)
 		  {
 		  	include("creatin.php");
+		  }
+		  
+		   elseif($_GET["page"]==15)
+		  {
+		  	include("protein.php");
+		  }
+		  
+		    elseif($_GET["page"]==16)
+		  {
+		  	include("pannekaker.php");
+		  }
+		  
+		     elseif($_GET["page"]==17)
+		  {
+		  	include("Barer.php");
 		  }
 
 		  
