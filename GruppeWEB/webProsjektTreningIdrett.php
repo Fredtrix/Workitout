@@ -9,13 +9,13 @@ $(document).ready(function linker1(){
 
 <aside>
 <ul id="navigasjonsbarTrening">
-<li><a href="webProsjektHoved.php?page=1">Om trening</a></li>
+<li><a href="index.php?page=1">Om trening</a></li>
 <li id="trening"><a href="#">Treningsprogram</a></li>
-<li class="hide"><a href="webProsjektHoved.php?page=20">Styrke</a></li>
-<li class="hide"><a href="webProsjektHoved.php?page=21">Kondisjon</a></li>
-<li class="hide"><a href="webProsjektHoved.php?page=22">For utøvere</a></li>
-<li><a href="webProsjektHoved.php?page=6">Finn ditt treningssenter</a></li>
-<li><a href="webProsjektHoved.php?page=23">Øvelser</a></li>
+<li class="hide"><a href="index.php?page=12">Styrke</a></li>
+<li class="hide"><a href="index.php?page=13">Kondisjon</a></li>
+<li class="hide"><a href="index.php?page=14">For utøvere</a></li>
+<li><a href="index.php?page=5">Finn ditt treningssenter</a></li>
+<li><a href="index.php?page=15">Øvelser</a></li>
 </ul>
 </aside>
 <article id="utover">

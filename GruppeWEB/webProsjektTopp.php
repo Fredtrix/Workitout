@@ -28,12 +28,12 @@ data-layout="box_count" data-action="like" data-show-faces="true" data-share="fa
 <!--Navigasjon-->
 <nav>
 <ul id="navigasjonsbar">
-<li><a href="webProsjektHoved.php?page=100">Hjem</a></li>
-<li><a href="webProsjektHoved.php?page=1">Trening</a></li>
-<li><a href="webProsjektHoved.php?page=2">Kosthold</a></li>
-<li><a href="webProsjektHoved.php?page=3">Butikk</a></li>
+<li><a href="index.php?page=26">Hjem</a></li>
+<li><a href="index.php?page=1">Trening</a></li>
+<li><a href="index.php?page=2">Kosthold</a></li>
+<li><a href="index.php?page=3">Butikk</a></li>
 <li><a href="#">Forum</a></li>
-<li><a href="webProsjektHoved.php?page=5">Kontakt</a></li>
+<li><a href="index.php?page=4">Kontakt</a></li>
 </ul>
 </nav>
 

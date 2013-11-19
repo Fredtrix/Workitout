@@ -1,44 +1,136 @@
-<aside>
+<?php
+include("webProsjektTopp.php");
+?>
+
+		  <?php
+
+		  if(isset($_GET["page"]))
+		  {//hovedsider
+		  	if ($_GET["page"]==1)
+		  	{
+		  		include ("webProsjektTrening.php");
+		  	}
+
+		  elseif ($_GET["page"] ==2)
+		  {
+		  	include ("webProsjektKosthold.php");
+
+		  }
+		  elseif ($_GET["page"]==3)
+		  {
+		  	include ("webProsjektButikk.php");
+		  }
+		  elseif($_GET["page"]==4)
+		  {
+		  	include("webProsjektKontakt.php");
+		  }
+		 elseif($_GET["page"]==5)
+		  {//undersider
+		  	include("narmestTrening.php");
+		  }
+		  elseif($_GET["page"]==6)
+		  {
+		  	include("proteinbutikk.php");
+		  }
+		  elseif($_GET["page"]==7)
+		  {
+		  	include("klesbutikk.php");
+		  }
+		  elseif($_GET["page"]==8) 
+		  {
+		  	include("handlekurv.php");
+		  }
+		elseif($_GET["page"]==9)
+		  {
+		  	include("mindreVekt.php");
+		  }
+		  elseif($_GET["page"]==10)
+		  {
+		  	include("myeVekt.php");
+		  }
+		   elseif($_GET["page"]==11)
+		  {
+		  	include("ikkediett.php");
+		  }
+		   elseif($_GET["page"]==12)
+		  {
+		  	include("webProsjektTreningStyrke.php");
+		  }
+		   elseif($_GET["page"]==13)
+		  {
+		  	include("webProsjektTreningKondisjon.php");
+		  }
+		   elseif($_GET["page"]==14)
+		  {
+		  	include("webProsjektTreningIdrett.php");
+	      }
+			elseif($_GET["page"]==15)
+		  {
+		  	include("ovelser.php");
+		  }
+		  elseif($_GET["page"]==16)
+		  {
+		  	include("ovelserhm.php");
+		  }
+		  elseif($_GET["page"]==17)
+		  {
+		  	include("ovelsernr.php");
+		  }
+		  elseif($_GET["page"]==18)
+		  {
+		  	include("ovelserst.php");
+		  }
+		  elseif($_GET["page"]==19)
+		  {
+		  	include("ovelseruw.php");
+		  }
+		  elseif($_GET["page"]==20)
+		  {
+		  	include("ovelsersiste.php");
+		  }
+
+		  elseif($_GET["page"]==21)
+		  {
+		  	include("BCAA.php");
+		  }
+		  
+		   elseif($_GET["page"]==22)
+		  {
+		  	include("creatin.php");
+		  }
+		  
+		   elseif($_GET["page"]==23)
+		  {
+		  	include("protein.php");
+		  }
+		  
+		    elseif($_GET["page"]==24)
+		  {
+		  	include("pannekaker.php");
+		  }
+		  
+		     elseif($_GET["page"]==25)
+		  {
+		  	include("Barer.php");
+		  }
+		  elseif ($_GET["page"] ==26)
+		  {
+		  	include ("index.php");
+
+		  }
+		}
+		else 
+		{
+			include("index.php");
+		}
+		
+		
+		  ?>
+<?php
+include ("webProsjektFooter.php");
+?>
+
+
 	
-<ul id="navigasjonsbarTrening">
-<li><a href="#">Treningsprogram</a></li>
-<li><a href="webProsjektHoved.php?page=6">finn ditt treningssenter</a></li>
-<li><a href="werbProsjektHoved.php?page=2">Kosthold</a></li>
-<li><a href="#">Butikk</a></li>
-<li><a href="#">Forum</a></li>
-<li><a href="#">Kontakt</a></li>
-</ul>
 
-</aside>
-
-<section id="scrollbox">
-										<h2>Nyheter innen trening!</h2>
-<br>
-										<h3> Store biceps</h3>
-<p>store sterke menn, har større sansynelighet til å handle på deres egne premisser innen økonomiske interesser,<br>
-enn svakere menn når det kommer til fordeling av rikdom.<br>
-Dette er fra et stort prosjekt som er utført av Aarhus University, School of Business and Soscial Sciences.</p>
-
-<a href="http://bss.au.dk/currently/news/news-item/artikel/size-of-biceps-influences-mens-political-attitudes/"> Støre biceps = mer penger!</a>
-<br><br>
-
-Skal du bli større å sterkere har vi de perfekte oppleggendet for akkurat deg!
-<br>
-
-sjekk ut: <a href="http://webProsjektHoved.php?page=20"> For deg som vil bli stor! </a>
-
-											<h3>Treningstøy </h3>
-<br>
-<p>Har du mangel på treningstøy, proteinpulver eller noe annet supplement. Da har vi den perfekte butikken for deg, her er alt du trenger
-for en ultimat treningshverdag!</p>
-
-<a href="http://webProsjektHoved.php?page=3"> Sjekk ut våre tilbud!</a>
-
-											<h3>Kosthold</h3>
-<p>
-Har du problemer med å gå opp eller ned i vekt?, trenger du noen tips eller retningslinjer å se på så du kommer på rett
-spor innen mat? da er dette siden du bør ta en titt på, her finner du noen oppskrifter, tips, å næringsinnhold på mange matvarer.
-<br>
-
-<a href="http://webProsjektHoved.php?page=2">Kostholds tips for deg!</a>
-</section>
+			
