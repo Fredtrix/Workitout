@@ -9,13 +9,13 @@ include("includekosthold.php")
 <h2> Generelt om kosthold </h2>
 	<p>
 		Man hører veldig mye om kosthold nå om dagen, at man skal spise mindre, spise mer,
-		ikke spise på noen dagerså spise utolig mye neste dag.
+		ikke spise på noen dager så spise utrolig mye neste dag.
 		<br><br>
 		vi lever i et samfunn der diet har blitt et kjempe viktig samtale emne. Hvis du skal lese alle de
 		sakene som blir skrevet om kosthold kan du bruke en helt uke, 
 		med dieter med alt fra lavkarbo til å bare spise kjempe mye fett.
 		<br><br>
-		Vi veit hvor forvirrende alle disse sakene er så vi har bestemt oss for å gjøre det litt enkelere for deg
+		Vi veit hvor forvirrende alle disse sakene er så vi har bestemt oss for å gjøre det litt enklere for deg
 		og kanskje klarere opp i noen av tankene
 		du har rundt dieter. Vi har noen tips på om du skal gå opp eller ned i vekt. 
 	</p> 
