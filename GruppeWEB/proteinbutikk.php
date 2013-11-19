@@ -2,7 +2,7 @@
 <ul id="navigasjonsbarTrening">
 <li><a href="webProsjektHoved.php?page=10">Kosttilskudd</a></li>
 <li><a href="webProsjektHoved.php?page=11">Treningsklær</a></li>
-<li><a href="#">Litteratur</a></li>
+
 
 </ul>
 </aside>
@@ -25,25 +25,19 @@
 	<tr>
         <td>Pris</td>
         <td>
-        <select id="butikkpris" name="pris">
-            <option value="199">1kg - 199kr</option>
-            <option value="299">2kg - 299kr</option>
-        </select>
+        <input type="radio" value="199" name="pris">1kg - 199kr</option>
+        <input type="radio" value="299" name="pris">2kg - 299kr</option>
     </td>
        
-        <td>        
-            <select id="butikkpris">
-            <option name="pris" value="349">2kg - 349kr</option>
-            <option name="pris" value="499">3kg - 499kr</option>
-        </select>
+        <td>           
+            <input type="radio" value="349" name="pris">2kg - 349kr</option>
+            <input type="radio" value="499" name="pris">3kg - 499kr</option>
    </td>
 
 
     <td>
-         <select id="butikkpris">
-            <option name="pris" value="499">2kg - 499kr</option>
-            <option name="pris" value="699">3,5kg - 699kr</option>
-        </select>
+        <input type="radio" value="499" name="pris">4kg - 499kr</option>
+        <input type="radio" value="599" name="pris">4kg - 599kr</option>
     </td>
     </tr> 
 
@@ -51,9 +45,9 @@
     	<tr>
             
         <td></td>
-        <td><input name="produkt" type="button" value="KJØP" id="kjopknapp"></td>
-        <td><input name="produkt" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="produkt" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="dprotein1" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="dprotein2" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="dprotein3" type="submit" value="KJØP" id="kjopknapp"></td>
        
     </tr>
         <tr>
@@ -62,31 +56,28 @@
 		<td><img src="wprotein2.jpg" alt="protein"></td>
 		<td><img src="wprotein3.png" alt="protein"></td>
 		</tr>
-        <td>Pris</td>
-            <td>
-         <select id="butikkpris">
-            <option name="pris" value="499">2kg - 499kr</option>
-            <option name="pris" value="699">3,5kg - 699kr</option>
-        </select>
+               <td>Pris</td>
+        <td>
+        <input type="radio" value="499" name="pris">2kg - 499kr</option>
+        <input type="radio" value="699" name="pris">3.5kg - 699kr</option>
     </td>
-            <td>
-         <select id="butikkpris">
-            <option name="pris" value="199">1.5kg - 199kr</option>
-            <option name="pris" value="299">2kg - 299kr</option>
-        </select>
+       
+        <td>           
+            <input type="radio" value="299" name="pris">1.5kg - 199kr</option>
+            <input type="radio" value="299" name="pris">2kg - 299kr</option>
+   </td>
+
+
+    <td>
+        <input type="radio" value="699" name="pris">3kg - 699kr</option>
+        <input type="radio" value="899" name="pris">4.5kg - 899kr</option>
     </td>
-            <td>
-         <select id="butikkpris">
-            <option name="pris" value="699">3kg - 699kr</option>
-            <option name="pris" value="899">4.5kg - 899kr</option>
-        </select>
-    </td>
-        </tr>
+    </tr> 
             	<tr>
         <td></td>
-        <td><input name="produkt" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="produkt" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="produkt" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="wprotein1" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="wprotein2" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="wprotein3" type="submit" value="KJØP" id="kjopknapp"></td>
     </tr>
 		<tr>
 		<th>Presentasjons økning</th>
@@ -95,28 +86,25 @@
 		<td><img src="pokning3.jpg" alt="protein"></td>
 		</tr>
         <td>Pris</td>
-            <td>
-         <select id="butikkpris">
-            <option name="pris" value="199">1kg - 199kr</option>
-        </select>
+        <td>
+        <input type="radio" value="199" name="pris">1kg - 199kr</option>
     </td>
-            <td>
-         <select id="butikkpris">
-            <option name="pris" value="399">1.5kg - 399kr</option>
-            <option name="pris" value="599">3kg - 599kr</option>
-        </select>
+       
+        <td>           
+            <input type="radio" value="399" name="pris">1.5kg - 399kr</option>
+            <input type="radio" value="599" name="pris">3kg - 599kr</option>
+   </td>
+
+
+    <td>
+        <input type="radio" value="499" name="pris">2kg - 499kr</option>
     </td>
-            <td>
-         <select id="butikkpris">
-            <option name="pris" value="499">2kg - 499kr</option>
-        </select>
-    </td>
-        </tr>
+    </tr> 
             	<tr>
         <td></td>
-        <td><input name="produkt" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="produkt" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="produkt" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="pokning1" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="pokning2" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="pokning3" type="submit" value="KJØP" id="kjopknapp"></td>
     </tr>
         <tr>
 		<th>Proteinbarer</th>
@@ -126,29 +114,24 @@
 		</tr>
         <td>Pris</td>
             <td>
-         <select id="butikkpris">
-            <option name="pris" value="29">Enkel - 29kr</option>
-            <option name="pris" value="399">1.2kg - 399kr</option>
-        </select>
+            <input type="radio" name="pris" value="29">Enkel - 29kr</option>
+            <input type="radio" name="pris" value="399">1.2kg - 399kr</option>
     </td>
             <td>
-         <select id="butikkpris">
-            <option name="pris" value="29">Enkel - 29kr</option>
-            <option name="pris" value="299">1.2kg - 299kr</option>
-        </select>
+            <input type="radio" name="pris" value="29">Enkel - 29kr</option>
+            <input type="radio" name="pris" value="299">1.2kg - 299kr</option>
     </td>
     <td>
-         <select id="butikkpris">
-            <option name="pris" value="29">Enkel - 29kr</option>
-            <option name="pris" value="299">1.2kg - 299kr</option>
-        </select>
+
+            <input type="radio" name="pris" value="29">Enkel - 29kr</option>
+            <input type="radio" name="pris" value="299">1.2kg - 299kr</option>
     </td>
         </tr>
             	<tr>
         <td></td>
-        <td><input name="produkt" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="produkt" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="produkt" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="mbrownie1" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="mbrownie2" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="mbrownie3" type="submit" value="KJØP" id="kjopknapp"></td>
     </tr>
         <tr>
 		<th>Forbrenning</th>
@@ -158,26 +141,22 @@
 		</tr>
         <td>Pris</td>
     <td>
-         <select id="butikkpris">
-            <option name="pris" value="249">1kg - 249kr</option>
-        </select>
+            <input type="radio" name="pris" value="249">1kg - 249kr</option>
     </td>
     <td>
-         <select id="butikkpris">
-            <option name="pris" value="249">1kg - 249kr</option>
-        </select>
+            <input type="radio" name="pris" value="249">1kg - 249kr</option>
     </td>
     <td>
-         <select id="butikkpris">
-            <option name="pris" value="99">0.8kg - 99kr</option>
-        </select>
+
+            <input type="radio" name="pris" value="99">0.8kg - 99kr</option>
+
     </td>
         </tr>
             	<tr>
         <td></td>
-        <td><input name="produkt" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="produkt" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="produkt" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="burner1" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="burner2" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="burner3" type="submit" value="KJØP" id="kjopknapp"></td>
     </tr>
          <tr>
 		<th>Aminostyrer</th>
@@ -187,26 +166,20 @@
 		</tr>
         <td>Pris</td>
                     <td>
-         <select id="butikkpris">
-            <option  name="pris" value="425">1kg - 425kr</option>
-        </select>
+            <input type="radio"  name="pris" value="299">1kg - 299kr</option>
     </td>
                     <td>
-         <select id="butikkpris">
-            <option name="pris" value="499">1kg - 499kr</option>
-        </select>
+            <input type="radio" name="pris" value="499">1kg - 499kr</option>
     </td>
                     <td>
-         <select id="butikkpris">
-            <option name="pris" value="335">1kg - 335kr</option>
-        </select>
+            <input type="radio" name="pris" value="335">1kg - 335kr</option>
     </td>
         </tr>
             	<tr>
         <td></td>
-        <td><input name="produkt" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="produkt" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="produkt" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="syre1" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="syre2" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="syre3" type="submit" value="KJØP" id="kjopknapp"></td>
     </tr>
 </form>
 </table>

@@ -12,7 +12,7 @@
 
 <!--topp-->
 <header>
-<div id="slide"><img src="styrke1.png" name="slide" alt="bilder"></div>
+<div id="slider"><img src="styrke1.png" name="slide" alt="bilder"></div>
 
 </header>
 

@@ -2,7 +2,7 @@
 <ul id="navigasjonsbarTrening">
 <li><a href="webProsjektHoved.php?page=10">Kosttilskudd</a></li>
 <li><a href="webProsjektHoved.php?page=11">Treningsklær</a></li>
-<li><a href="#">Litteratur</a></li>
+
 
 </ul>
 </aside>
@@ -10,12 +10,11 @@
 
 <hr>
 
-Din bestilling:<br>
+Din bestilling:<br><br>
 
 <?php
-
-$pris=$_REQUEST["pris"];
-$produkt=$_REQUEST["produkt"];
-echo "$pris - $produkt";
+include ("proteinphp.php");
 ?>
+
+	<input name="Videre"  id="handlekjop" type="button" value="Til Betaling">
 </section>
