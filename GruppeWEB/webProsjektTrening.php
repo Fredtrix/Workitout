@@ -1,3 +1,4 @@
+<!---->
 <script>
 $(document).ready(function linker(){
   $(".hide").hide(1);
