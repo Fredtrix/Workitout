@@ -113,7 +113,6 @@ include("webProsjektTopp.php");
 		  {
 		  	include("Barer.php");
 		  }
-<<<<<<< HEAD:GruppeWEB/webProsjektHoved.php
 		  elseif($_GET["page"]==18)
 		  {
 		  	include("handlekurvinfo.php");
@@ -121,12 +120,12 @@ include("webProsjektTopp.php");
 
 
 		  
-=======
+
 		  elseif ($_GET["page"] ==26)
 		  {
 		  	include ("webProsjektinnhold.php");
 		  }
->>>>>>> 1b93b5cd95b446db679363bc2ee014e66bce9fd2:GruppeWEB/index.php
+
 		}
 		else 
 		{

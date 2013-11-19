@@ -1,7 +1,7 @@
 <aside>
 <ul id="navigasjonsbarTrening">
-<li><a href="webProsjektHoved.php?page=10">Kosttilskudd</a></li>
-<li><a href="webProsjektHoved.php?page=11">Treningsklær</a></li>
+<li><a href="index.php?page=10">Kosttilskudd</a></li>
+<li><a href="index.php?page=11">Treningsklær</a></li>
 
 
 </ul>
@@ -14,7 +14,7 @@
 <section id="butikk"><h1 id="butikkh1">Butikk</h1>
 <hr>
 <table border="1">
-<form action="webProsjektHoved.php?page=12" method="post">
+<form action="index.php?page=12" method="post">
 
 	<tr>
 		<th>Design Protein</th>
