@@ -7,6 +7,7 @@
 <link rel="stylesheet" type="text/css" href="webProsjektStilark.css">
 </head>
 <body>
+<!--Facebook like button-->
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -30,12 +31,12 @@ data-layout="box_count" data-action="like" data-show-faces="true" data-share="fa
 <!--Navigasjon-->
 <nav>
 <ul id="navigasjonsbar">
-<li><a href="webProsjektHoved.php">Hjem</a></li>
-<li><a href="webProsjektHoved.php?page=1">Trening</a></li>
-<li><a href="webProsjektHoved.php?page=2">Kosthold</a></li>
-<li><a href="webProsjektHoved.php?page=3">Butikk</a></li>
+<li><a href="index.php?page=26">Hjem</a></li>
+<li><a href="index.php?page=1">Trening</a></li>
+<li><a href="index.php?page=2">Kosthold</a></li>
+<li><a href="index.php?page=3">Butikk</a></li>
 <li><a href="#">Forum</a></li>
-<li><a href="webProsjektHoved.php?page=5">Kontakt</a></li>
+<li><a href="index.php?page=4">Kontakt</a></li>
 </ul>
 </nav>
 
