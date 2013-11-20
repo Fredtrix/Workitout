@@ -113,13 +113,13 @@ include("webProsjektTopp.php");
 		  {
 		  	include("Barer.php");
 		  }
+
 		  elseif($_GET["page"]==18)
 		  {
 		  	include("handlekurvinfo.php");
 		  }
 
 
-		  
 
 		  elseif ($_GET["page"] ==26)
 		  {
