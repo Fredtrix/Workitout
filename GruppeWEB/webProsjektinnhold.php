@@ -11,20 +11,20 @@
 enn svakere menn når det kommer til fordeling av rikdom.<br>
 Dette er fra et stort prosjekt som er utført av Aarhus University, School of Business and Soscial Sciences.</p>
 
-<a href="http://bss.au.dk/currently/news/news-item/artikel/size-of-biceps-influences-mens-political-attitudes/"> Støre biceps = mer penger!</a>
+<a href="http://bss.au.dk/currently/news/news-item/artikel/size-of-biceps-influences-mens-political-attitudes/"> Større biceps = mer penger!</a>
 <br><br>
 
 Skal du bli større å sterkere har vi de perfekte oppleggendet for akkurat deg!
 <br>
 
-sjekk ut: <a href="http://webProsjektHoved.php?page=20"> For deg som vil bli stor! </a>
+sjekk ut: <a href="http://webProsjektHoved.php?page=1"> For deg som vil bli stor! </a>
 
 											<h3>Treningstøy </h3>
 <br>
 <p>Har du mangel på treningstøy, proteinpulver eller noe annet supplement. Da har vi den perfekte butikken for deg, her er alt du trenger
 for en ultimat treningshverdag!</p>
 
-<a href="http://webProsjektHoved.php?page=3"> Sjekk ut våre tilbud!</a>
+<a href="http://webProsjektHoved.php?page=8"> Sjekk ut våre tilbud!</a>
 
 											<h3>Kosthold</h3>
 <p>
