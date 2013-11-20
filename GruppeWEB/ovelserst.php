@@ -22,21 +22,21 @@ $(document).ready(function linker(){
 <a href="index.php?page=17">3 </a> <a href="index.php?page=18">4 </a>
 <a href="index.php?page=19">5 </a><a href="index.php?page=20">6 </a>
 <p>Palloffpress</p>
-<iframe width="560" height="315" src="//www.youtube.com/embed/g921oqINXFQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/g921oqINXFQ" allowfullscreen></iframe>
 <p>Planke</p>
-<iframe width="560" height="315" src="//www.youtube.com/embed/pSHjTRCQxIw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/pSHjTRCQxIw" allowfullscreen></iframe>
 <p>Pullups</p>
-<iframe width="560" height="315" src="//www.youtube.com/embed/mRznU6pzez0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/mRznU6pzez0" allowfullscreen></iframe>
 <p>Pushup</p>
-<iframe width="420" height="315" src="//www.youtube.com/embed/Eh00_rniF8E" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/Eh00_rniF8E" allowfullscreen></iframe>
 <p>Pushpress</p>
-<iframe width="420" height="315" src="//www.youtube.com/embed/UeTXdlYdC2U" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/UeTXdlYdC2U" allowfullscreen></iframe>
 <p>Rygghev</p>
-<iframe width="560" height="315" src="//www.youtube.com/embed/ph3pddpKzzw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/ph3pddpKzzw" allowfullscreen></iframe>
 <p>Rumensk markløft</p>
-<iframe width="560" height="315" src="//www.youtube.com/embed/JCXUYuzwNrM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/JCXUYuzwNrM" allowfullscreen></iframe>
 <p>Seated twist</p>
-<iframe width="560" height="315" src="//www.youtube.com/embed/ZE6loKl2tww" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/ZE6loKl2tww" allowfullscreen></iframe>
 <p>Side</p> <a href="webProsjektHoved.php?page=23">1 </a><a href="webProsjektHoved.php?page=24">2 </a>
 <a href="webProsjektHoved.php?page=25">3 </a> <a href="webProsjektHoved.php?page=26">4 </a>
 <a href="webProsjektHoved.php?page=27">5 </a> <a href="webProsjektHoved.php?page=28">6 </a>

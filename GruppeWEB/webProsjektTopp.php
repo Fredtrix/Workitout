@@ -19,11 +19,7 @@
 
 <!--topp-->
 <header>
-<div id="slider"><img src="styrke1.png" name="slide" alt="bilder"></div>
-
-
-
-
+<div id="slider"><img src="styrke1.png" id="slide" alt="bilder"></div>
 </header>
 
 <div class="fb-like" data-href="https://www.facebook.com/pages/Treningsprat/177743495763636"

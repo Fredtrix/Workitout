@@ -42,14 +42,19 @@ Gjennomsnittskostens innhold av protein har økt fra
 	</p>
 	
 <h3>Kilder til proteiner</h3>
+
 	<p>
 <br>
 Fisk, kjøtt, melk, ost og egg er rike på proteiner. Vegetabilske matvarer som korn, bønner og nøtter er også viktige proteinkilder.
 De største proteinkildene i norsk gjennomsnittskost er kjøtt, kornvarer og meieriprodukter.
  <br><br>
 	Kilde: <a href="http://www.helsedirektoratet.no/folkehelse/ernering/energi-og-neringsstoff/proteiner/Sider/default.aspx">http://www.helsedirektoratet.no/folkehelse/ernering/energi-og-neringsstoff/proteiner/Sider/default.aspx</a>
-	<h3>Proteinrik mat</h3>
 	
+	</p>
+	
+<h3>Proteinrik mat</h3>
+
+	<p>
 Gode kilder til proteiner er melk, nøtter, kjøtt, kylling, egg, fisk, bønner, erter, linser og grovt brød. <br>
 
 En tommelfingerregel sier at vi trenger ett gram protein per kg kroppsvekt. Det vil si; veier du 65 k
@@ -123,8 +128,12 @@ Lammekoteletter 18,3 g <br>
 
 Kjøttdeig 17,9 g <br>
 
+	</p>
+
  <h3>REKER: Sjømat regnes blant matvarene som gir de «beste» proteinene.</h3>
- </p>
+
+ <p>
+ 
 <br> 
 
 Fisk og skalldyr <br>
@@ -197,7 +206,7 @@ Røde bønner, tørre, 22,1 g<br>
 Hvite bønner, tørre, 22 g<br>
 
 Kikerter, tørre, 21,3 g <br>
-
+  
 </p>
 
 <h3>Havregryn er blant kornsortene som har godt proteininnhold. </h3>

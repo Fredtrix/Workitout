@@ -113,7 +113,12 @@ include("webProsjektTopp.php");
 		  {
 		  	include("Barer.php");
 		  }
+<<<<<<< HEAD
 		  elseif($_GET["page"]==27)
+=======
+
+		  elseif($_GET["page"]==18)
+>>>>>>> ed3b28dc583584a6b26fee0ce1ca67c0361f35d2
 		  {
 		  	include("handlekurvinfo.php");
 		  }
@@ -121,9 +126,6 @@ include("webProsjektTopp.php");
 		  {
 		  	include("kvittering1.php");
 		  }
-
-
-		  
 
 		  elseif ($_GET["page"] ==26)
 		  {
