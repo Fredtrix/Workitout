@@ -3,9 +3,9 @@ include("webProsjektTopp.php");
 ?>
 
 		  <?php
-
+//hovedsider
 		  if(isset($_GET["page"]))
-		  {//hovedsider
+		  {
 		  	if ($_GET["page"]==1)
 		  	{
 		  		include ("webProsjektTrening.php");
@@ -113,15 +113,18 @@ include("webProsjektTopp.php");
 		  {
 		  	include("Barer.php");
 		  }
-<<<<<<< HEAD
+
 		  elseif($_GET["page"]==27)
-=======
+		  {
+		  	include ("handlekurv.php");
+		  }
 
 		  elseif($_GET["page"]==18)
->>>>>>> ed3b28dc583584a6b26fee0ce1ca67c0361f35d2
+
 		  {
 		  	include("handlekurvinfo.php");
 		  }
+
 		  elseif($_GET["page"]==28)
 		  {
 		  	include("kvittering1.php");
