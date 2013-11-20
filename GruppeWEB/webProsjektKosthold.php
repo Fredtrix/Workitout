@@ -23,7 +23,8 @@ include("includekosthold.php")
 	
 	
 <figure>
-	<img class="mot" src="mat.jpg" alt ="En kostholdspyramide" height="403px" width="600px">
+	<img class="mot" src="mat.jpg" alt ="En kostholdspyramide" height="403" width="600">
+	
 		<figcaption>
 		Dette er en Kostholds pyramide, det er en pyramide som kan gi en indikasjon på hva du bør spise.
 		det er ikke slik at du må forholde deg
