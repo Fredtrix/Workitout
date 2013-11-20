@@ -206,7 +206,7 @@ Røde bønner, tørre, 22,1 g<br>
 Hvite bønner, tørre, 22 g<br>
 
 Kikerter, tørre, 21,3 g <br>
-
+  
 </p>
 
 <h3>Havregryn er blant kornsortene som har godt proteininnhold. </h3>
