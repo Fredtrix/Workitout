@@ -2,6 +2,7 @@
 <html>
 <head>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="jquery.animate-colors.js"></script>
 <meta charset="UTF-8">
 <title>fitness</title>
 <link rel="stylesheet" type="text/css" href="webProsjektStilark.css">
@@ -19,7 +20,7 @@
 
 <!--topp-->
 <header>
-<div id="slider"><img src="styrke1.png" id="slide" alt="bilder"></div>
+<div id="slider"><img src="styrke1.png" id="slide" alt="bilder" height="300" width="1200"></div>
 </header>
 
 <div class="fb-like" data-href="https://www.facebook.com/pages/Treningsprat/177743495763636"

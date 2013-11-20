@@ -5,8 +5,10 @@ $(document).ready(function linker1(){
   });
 });
 </script>
+<!--Easteregg-->
+<script src="eastereggTrening.js"></script>
 
-
+<!--Navigasjonsbar siden-->
 <aside>
 <ul id="navigasjonsbarTrening">
 <li><a href="index.php?page=1">Om trening</a></li>
@@ -16,11 +18,12 @@ $(document).ready(function linker1(){
 <li class="hide"><a href="index.php?page=14">For utøvere</a></li>
 <li><a href="index.php?page=5">Finn ditt treningssenter</a></li>
 <li><a href="index.php?page=15">Øvelser</a></li>
+<li id="eggTrening">!</li>
 </ul>
 </aside>
-
+<!--Hovedinnhold-->
 <article id="artikkelStyrke">
-<h2>Styrkeprogram</h2>
+<h2 id="eggtest">Styrkeprogram</h2>
 
 <p>Det viktigste å ha i bakhodet når du skal starte å trene styrke er å utføre øvelsene/teknikkene riktig!<br> 
 Det er utrolig viktig å gjøre styrkeøvelser korekt eller så vil det bare ha negative utslag 
@@ -128,7 +131,7 @@ kan du ikke det, så prøv så godt det lar seg gjøre å putte en hviledag mell
 </tr>
 </table>
 <input type="submit" value="Last ned treningsprogram" class="progKnapp" onClick="window.location.href='TreningsProgramVolum.docx'"/>
-
+<p>Programmet er hentet fra: </p><a href="http://fitnessbloggen.no/x-size/" target="_blank">Fitnessbloggen.no</a>
 <p><u>Droppsett type 1</u>
 Droppsett benyttes på benkpress og markløft. Bruk 3-4 sett med 6 reps på og kjøre deg opp til et tungt toppsett på 5-6 reps til teknisk utmattelse. 
 Ta deretter av 20% vekt og kjør så mange repetisjoner som mulig på denne vekten frem til teknisk feil.
