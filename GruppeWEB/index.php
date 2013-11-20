@@ -120,7 +120,6 @@ include("webProsjektTopp.php");
 		  	include ("handlekurv.php");
 		  }
 
-
 		  elseif($_GET["page"]==18)
 
 		  {

@@ -21,7 +21,11 @@ Skal du bli større å sterkere har vi de perfekte oppleggendet for akkurat deg!
 sjekk ut: <a href="index.php?page=20"> For deg som vil bli stor! </a>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 sjekk ut: <a href="http://webProsjektHoved.php?page=1"> For deg som vil bli stor! </a>
+=======
+
+>>>>>>> 3174576a956fd6c5db2c89f2727b3e552df44c89
 =======
 
 >>>>>>> 3174576a956fd6c5db2c89f2727b3e552df44c89
@@ -36,7 +40,11 @@ for en ultimat treningshverdag!</p>
 <a href="index.php?page=3"> Sjekk ut våre tilbud!</a>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <a href="http://webProsjektHoved.php?page=8"> Sjekk ut våre tilbud!</a>
+=======
+
+>>>>>>> 3174576a956fd6c5db2c89f2727b3e552df44c89
 =======
 
 >>>>>>> 3174576a956fd6c5db2c89f2727b3e552df44c89
