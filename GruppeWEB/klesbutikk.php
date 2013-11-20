@@ -7,9 +7,9 @@
 </ul>
 </aside>
 <div id="sidebilder">
-<img src="sideslider1.jpg"><br>
-<img src="sideslider2.jpg"><br>
-<img src="sideslider3.jpg">
+<img src="sideslider1.jpg" height="250" width="250"><br>
+<img src="sideslider2.jpg" height="250" width="250"><br>
+<img src="sideslider3.jpg" height="250" width="250">
 </div>
 <section id="butikk"><h1 id="butikkh1">Butikk</h1>
 <hr>
@@ -17,9 +17,9 @@
     <form action="index.php?page=8" method="post">
 	<tr>
 		<th>T-skjorter</th>
-		<td><img src="ktsjorte1.jpg" alt="protein"></td>
-		<td><img src="ktsjorte2.jpg" alt="protein"></td>
-		<td><img src="ktsjorte3.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="ktsjorte1.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="ktsjorte2.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="ktsjorte3.jpg" alt="protein"></td>
 	</tr>
 	<tr>
         <td>Pris</td>
@@ -35,9 +35,9 @@
     </tr>
         <tr>
 		<th>Singlet</th>
-		<td><img src="ksinglet1.jpg" alt="klær"></td>
-		<td><img src="ksinglet2.jpg" alt="klær"></td>
-		<td><img src="ksinglet3.jpg" alt="klær"></td>
+		<td><img class="butikkBilder" src="ksinglet1.jpg" alt="klær"></td>
+		<td><img class="butikkBilder" src="ksinglet2.jpg" alt="klær"></td>
+		<td><img class="butikkBilder" src="ksinglet3.jpg" alt="klær"></td>
 		</tr>
         <td>Pris</td>
         <td>Pris: 249kr</td>
@@ -52,9 +52,9 @@
     </tr>
 		<tr>
 		<th>Hettegenser</th>
-		<td><img src="khettegenser1.jpg" alt="klær"></td>
-		<td><img src="hettegenser2.jpg" alt="klær"></td>
-		<td><img src="khettegenser3.jpg" alt="klær"></td>
+		<td><img class="butikkBilder" src="khettegenser1.jpg" alt="klær"></td>
+		<td><img class="butikkBilder" src="hettegenser2.jpg" alt="klær"></td>
+		<td><img class="butikkBilder" src="khettegenser3.jpg" alt="klær"></td>
 		</tr>
         <td>Pris</td>
         <td>Pris: 849kr</td>
@@ -70,9 +70,9 @@
 
         <tr>
 		<th>Shorts</th>
-		<td><img src="kshorts1.jpg" alt="protein"></td>
-		<td><img src="kshorts2.jpg" alt="protein"></td>
-		<td><img src="kshorts3.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="kshorts1.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="kshorts2.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="kshorts3.jpg" alt="protein"></td>
 		</tr>
         <td>Pris</td>
         <td>Pris: 349kr</td>
@@ -88,9 +88,9 @@
 
         <tr>
 		<th>Diverse</th>
-		<td><img src="diverse1.jpg" alt="protein"></td>
-		<td><img src="diverse2.png" alt="protein"></td>
-		<td><img src="diverse3.png" alt="protein"></td>
+		<td><img class="butikkBilder" src="diverse1.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="diverse2.png" alt="protein"></td>
+		<td><img class="butikkBilder" src="diverse3.png" alt="protein"></td>
 		</tr>
         <td>Pris</td>
         <td>Pris: 165kr</td>

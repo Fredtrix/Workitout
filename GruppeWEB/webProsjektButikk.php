@@ -9,9 +9,9 @@
 include ("butikkeaster.js");
 ?>
 <div id="sidebilderhovedbutikk">
-<img src="sideslider1.jpg" id="sidebilde1"><br>
-<img src="sideslider2.jpg" id="sidebilde2"><br>
-<img src="sideslider3.jpg" id="sidebilde3">
+<img src="sideslider1.jpg" id="sidebilde1" height="250" width="250"><br>
+<img src="sideslider2.jpg" id="sidebilde2" height="250" width="250"><br>
+<img src="sideslider3.jpg" id="sidebilde3" height="250" width="250">
 </div>
 <section id="butikk"><h2 id="butikkh1">Butikk</h2>
 
@@ -24,9 +24,9 @@ include ("butikkeaster.js");
 		<th>Populært</th>
 
 	</tr>
-		<td><img src="dprotein3.jpg" alt="protein"></td>
-		<td><img src="syre3.png" alt="protein"></td>
-		<td><img src="mbrownie2.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="dprotein3.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="syre3.png" alt="protein"></td>
+		<td><img class="butikkBilder" src="mbrownie2.jpg" alt="protein"></td>
 	</tr>
 	<tr>
         <td id="tilbudspris">Pris: 599kr</td>
@@ -40,9 +40,9 @@ include ("butikkeaster.js");
         <td><input name="mbrownie2populer" type="submit" value="KJØP" class="kjopknapp"></td>
     </tr>
         <tr>
-		<td><img src="syre1.jpg" alt="protein"></td>
-		<td><img src="burner2.png" alt="protein"></td>
-		<td><img src="ktsjorte1.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="syre1.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="burner2.png" alt="protein"></td>
+		<td><img class="butikkBilder" src="ktsjorte1.jpg" alt="protein"></td>
 		</tr>
 
         <td id="tilbudspris">Pris: 299kr</td>
@@ -57,9 +57,9 @@ include ("butikkeaster.js");
     </tr>
 		<tr>
 
-		<td><img src="ksinglet3.jpg" alt="protein"></td>
-		<td><img src="pokning2.png" alt="protein"></td>
-		<td><img src="pokning3.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="ksinglet3.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="pokning2.png" alt="protein"></td>
+		<td><img class="butikkBilder" src="pokning3.jpg" alt="protein"></td>
 		</tr>
 
         <td id="tilbudspris">Pris: 199kr</td>

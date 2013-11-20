@@ -7,20 +7,20 @@
 </ul>
 </aside>
 <div id="sidebilder">
-<img src="sideslider1.jpg"><br>
-<img src="sideslider2.jpg"><br>
-<img src="sideslider3.jpg">
+<img src="sideslider1.jpg" height="250" width="250"><br>
+<img src="sideslider2.jpg" height="250" width="250"><br>
+<img src="sideslider3.jpg" height="250" width="250">
 </div>
 <section id="butikk"><h1 id="butikkh1">Butikk</h1>
 <hr>
-<table border="1">
+<table border="1" id="tilbudtabell">
 <form action="index.php?page=8" method="post">
 
 	<tr>
 		<th>Design Protein</th>
-		<td><img src="dprotein1.jpg" alt="protein"></td>
-		<td><img src="dprotein2.jpg" alt="protein"></td>
-		<td><img src="dprotein3.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="dprotein1.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="dprotein2.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="dprotein3.jpg" alt="protein"></td>
 	</tr>
 	<tr>
         <td>Pris</td>
@@ -52,9 +52,9 @@
     </tr>
         <tr>
 		<th>Whey Protein</th>
-		<td><img src="wprotein1.jpg" alt="protein"></td>
-		<td><img src="wprotein2.jpg" alt="protein"></td>
-		<td><img src="wprotein3.png" alt="protein"></td>
+		<td><img class="butikkBilder" src="wprotein1.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="wprotein2.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="wprotein3.png" alt="protein"></td>
 		</tr>
                <td>Pris</td>
         <td>
@@ -81,9 +81,9 @@
     </tr>
 		<tr>
 		<th>Presentasjons økning</th>
-		<td><img src="pokning1.png" alt="protein"></td>
-		<td><img src="pokning2.png" alt="protein"></td>
-		<td><img src="pokning3.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="pokning1.png" alt="protein"></td>
+		<td><img class="butikkBilder" src="pokning2.png" alt="protein"></td>
+		<td><img class="butikkBilder" src="pokning3.jpg" alt="protein"></td>
 		</tr>
         <td>Pris</td>
         <td>
@@ -108,9 +108,9 @@
     </tr>
         <tr>
 		<th>Proteinbarer</th>
-		<td><img src="mbrownie1.jpg" alt="protein"></td>
-		<td><img src="mbrownie2.jpg" alt="protein"></td>
-		<td><img src="mbrownie3.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="mbrownie1.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="mbrownie2.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="mbrownie3.jpg" alt="protein"></td>
 		</tr>
         <td>Pris</td>
             <td>
@@ -135,9 +135,9 @@
     </tr>
         <tr>
 		<th>Forbrenning</th>
-		<td><img src="burner1.png" alt="protein"></td>
-		<td><img src="burner2.png" alt="protein"></td>
-		<td><img src="burner3.png" alt="protein"></td>
+		<td><img class="butikkBilder" src="burner1.png" alt="protein"></td>
+		<td><img class="butikkBilder" src="burner2.png" alt="protein"></td>
+		<td><img class="butikkBilder" src="burner3.png" alt="protein"></td>
 		</tr>
         <td>Pris</td>
     <td>
@@ -160,9 +160,9 @@
     </tr>
          <tr>
 		<th>Aminostyrer</th>
-		<td><img src="syre1.jpg" alt="protein"></td>
-		<td><img src="syre2.jpg" alt="protein"></td>
-		<td><img src="syre3.png" alt="protein"></td>
+		<td><img class="butikkBilder" src="syre1.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="syre2.jpg" alt="protein"></td>
+		<td><img class="butikkBilder" src="syre3.png" alt="protein"></td>
 		</tr>
         <td>Pris</td>
                     <td>
