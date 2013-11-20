@@ -1,20 +1,23 @@
 <aside>
 <ul id="navigasjonsbarTrening">
-<li><a href="index.php?page=10">Kosttilskudd</a></li>
-<li><a href="index.php?page=11">Treningsklær</a></li>
+<li><a href="index.php?page=6">Kosttilskudd</a></li>
+<li><a href="index.php?page=7">Treningsklær</a></li>
 </ul>
 
 </aside>
+<?php
+include ("butikkeaster.js");
+?>
 <div id="sidebilderhovedbutikk">
-<img src="sideslider1.jpg"><br>
-<img src="sideslider2.jpg"><br>
-<img src="sideslider3.jpg">
+<img src="sideslider1.jpg" id="sidebilde1"><br>
+<img src="sideslider2.jpg" id="sidebilde2"><br>
+<img src="sideslider3.jpg" id="sidebilde3">
 </div>
 <section id="butikk"><h2 id="butikkh1">Butikk</h2>
 
 	<hr>
 <table border="1" id="tilbudtabell">
-    <form action="index.php?page=12" method="post">
+    <form action="index.php?page=8" method="post">
 	<tr>
 		<th>Tilbud</th>
 		<th>Nyheter</th>
@@ -32,9 +35,9 @@
     </tr>
     	<tr>
    
-        <td><input name="dprotein3tilbud" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="syre1nyhet" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="mbrownie2populer" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="dprotein3tilbud" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="syre1nyhet" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="mbrownie2populer" type="submit" value="KJØP" class="kjopknapp"></td>
     </tr>
         <tr>
 		<td><img src="syre1.jpg" alt="protein"></td>
@@ -48,9 +51,9 @@
         </tr>
             	<tr>
 
-        <td><input name="syre1tilbud" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="burner2nyhet" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="ktskjorte1populer"type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="syre1tilbud" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="burner2nyhet" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="ktskjorte1populer"type="submit" value="KJØP" class="kjopknapp"></td>
     </tr>
 		<tr>
 
@@ -63,9 +66,9 @@
         <td>Pris: 349kr</td>
         <td>Pris: 499kr</td>            	<tr>
 
-        <td><input name="ksinglet3" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="pokning2nyhet" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="pokning3populer"type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="ksinglet3" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="pokning2nyhet" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="pokning3populer"type="submit" value="KJØP" class="kjopknapp"></td>
     </tr>
     <form>
 </form>

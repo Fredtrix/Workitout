@@ -1,7 +1,7 @@
 <aside>
 <ul id="navigasjonsbarTrening">
-<li><a href="index.php?page=10">Kosttilskudd</a></li>
-<li><a href="index.php?page=11">Treningsklær</a></li>
+<li><a href="index.php?page=6">Kosttilskudd</a></li>
+<li><a href="index.php?page=7">Treningsklær</a></li>
 
 
 </ul>
@@ -14,7 +14,7 @@
 <section id="butikk"><h1 id="butikkh1">Butikk</h1>
 <hr>
 <table border="1">
-<form action="index.php?page=12" method="post">
+<form action="index.php?page=8" method="post">
 
 	<tr>
 		<th>Design Protein</th>
@@ -45,9 +45,9 @@
     	<tr>
             
         <td></td>
-        <td><input name="dprotein1" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="dprotein2" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="dprotein3" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="dprotein1" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="dprotein2" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="dprotein3" type="submit" value="KJØP" class="kjopknapp"></td>
        
     </tr>
         <tr>
@@ -75,9 +75,9 @@
     </tr> 
             	<tr>
         <td></td>
-        <td><input name="wprotein1" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="wprotein2" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="wprotein3" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="wprotein1" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="wprotein2" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="wprotein3" type="submit" value="KJØP" class="kjopknapp"></td>
     </tr>
 		<tr>
 		<th>Presentasjons økning</th>
@@ -102,9 +102,9 @@
     </tr> 
             	<tr>
         <td></td>
-        <td><input name="pokning1" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="pokning2" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="pokning3" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="pokning1" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="pokning2" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="pokning3" type="submit" value="KJØP" class="kjopknapp"></td>
     </tr>
         <tr>
 		<th>Proteinbarer</th>
@@ -129,9 +129,9 @@
         </tr>
             	<tr>
         <td></td>
-        <td><input name="mbrownie1" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="mbrownie2" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="mbrownie3" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="mbrownie1" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="mbrownie2" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="mbrownie3" type="submit" value="KJØP" class="kjopknapp"></td>
     </tr>
         <tr>
 		<th>Forbrenning</th>
@@ -154,9 +154,9 @@
         </tr>
             	<tr>
         <td></td>
-        <td><input name="burner1" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="burner2" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="burner3" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="burner1" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="burner2" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="burner3" type="submit" value="KJØP" class="kjopknapp"></td>
     </tr>
          <tr>
 		<th>Aminostyrer</th>
@@ -177,9 +177,9 @@
         </tr>
             	<tr>
         <td></td>
-        <td><input name="syre1" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="syre2" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="syre3" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="syre1" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="syre2" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="syre3" type="submit" value="KJØP" class="kjopknapp"></td>
     </tr>
 </form>
 </table>

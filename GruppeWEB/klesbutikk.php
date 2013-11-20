@@ -1,7 +1,7 @@
 <aside>
 <ul id="navigasjonsbarTrening">
-<li><a href="index.php?page=10">Kosttilskudd</a></li>
-<li><a href="index.php?page=11">Treningsklær</a></li>
+<li><a href="index.php?page=6">Kosttilskudd</a></li>
+<li><a href="index.php?page=7">Treningsklær</a></li>
 
 
 </ul>
@@ -14,7 +14,7 @@
 <section id="butikk"><h1 id="butikkh1">Butikk</h1>
 <hr>
 <table border="1" id="butikktable">
-    <form action="index.php?page=12" method="post">
+    <form action="index.php?page=8" method="post">
 	<tr>
 		<th>T-skjorter</th>
 		<td><img src="ktsjorte1.jpg" alt="protein"></td>
@@ -29,9 +29,9 @@
     </tr>
     	<tr>
         <td></td>
-        <td><input name="tskjorte1" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="tskjorte2" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="tskjorte3" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="tskjorte1" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="tskjorte2" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="tskjorte3" type="submit" value="KJØP" class="kjopknapp"></td>
     </tr>
         <tr>
 		<th>Singlet</th>
@@ -46,9 +46,9 @@
         </tr>
             	<tr>
         <td></td>
-        <td><input name="ksinglet1" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="ksinglet2" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="ksinglet3" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="ksinglet1" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="ksinglet2" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="ksinglet3" type="submit" value="KJØP" class="kjopknapp"></td>
     </tr>
 		<tr>
 		<th>Hettegenser</th>
@@ -63,9 +63,9 @@
         </tr>
         <tr>
         <td></td>
-        <td><input name="khettegenser1" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="khettegenser2" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="khettegenser3" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="khettegenser1" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="khettegenser2" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="khettegenser3" type="submit" value="KJØP" class="kjopknapp"></td>
     </tr>
 
         <tr>
@@ -81,9 +81,9 @@
         </tr>
         <tr>
         <td></td>
-        <td><input name="kshorts1" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="kshorts2" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="kshorts3" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="kshorts1" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="kshorts2" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="kshorts3" type="submit" value="KJØP" class="kjopknapp"></td>
     </tr>
 
         <tr>
@@ -99,9 +99,9 @@
         </tr>
         <tr>
         <td></td>
-        <td><input name="kdiverse1" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="kdiverse2" type="submit" value="KJØP" id="kjopknapp"></td>
-        <td><input name="kdiverse3" type="submit" value="KJØP" id="kjopknapp"></td>
+        <td><input name="kdiverse1" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="kdiverse2" type="submit" value="KJØP" class="kjopknapp"></td>
+        <td><input name="kdiverse3" type="submit" value="KJØP" class="kjopknapp"></td>
     </tr>
 
 </form>

@@ -1,6 +1,9 @@
 	<?php
 	//Kosttilskudd
 	//Første linje
+
+
+	
 		if(isset($_REQUEST["dprotein1"]))
 	{
 		echo "Produkt: <strong>Pure Mammut 4x</strong>.<br><br>";
@@ -204,6 +207,16 @@
 	<?php
 
 			if(isset($_REQUEST["syre1"]))
+	{
+		echo "Produkt: <strong>BCCA xplode</strong>.<br><br>";
+		echo "Pris: <strong>299kr</strong>.<br><br>";
+		echo "Type: <strong>Aminosyrer</strong><br><br>";
+		echo "<img src='syre1.jpg' alt='produkt' id='handlebilde'>";
+	}
+	?>
+		<?php
+
+			if(isset($_REQUEST["syre1tilbud"]))
 	{
 		echo "Produkt: <strong>BCCA xplode</strong>.<br><br>";
 		echo "Pris: <strong>299kr</strong>.<br><br>";
@@ -421,4 +434,7 @@
 		echo "Type: <strong>Diverse</strong><br><br>";
 		echo "<img src= 'diverse3.png' alt='produkt' id='handlebilde'>";
 	}
+
+
+
 	?>
