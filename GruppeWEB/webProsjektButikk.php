@@ -1,7 +1,7 @@
 <aside>
 <ul id="navigasjonsbarTrening">
-<li><a href="webProsjektHoved.php?page=10">Kosttilskudd</a></li>
-<li><a href="webProsjektHoved.php?page=11">Treningsklær</a></li>
+<li><a href="index.php?page=10">Kosttilskudd</a></li>
+<li><a href="index.php?page=11">Treningsklær</a></li>
 </ul>
 
 </aside>
@@ -14,7 +14,7 @@
 
 	<hr>
 <table border="1" id="tilbudtabell">
-    <form action="webProsjektHoved.php?page=12" method="post">
+    <form action="index.php?page=12" method="post">
 	<tr>
 		<th>Tilbud</th>
 		<th>Nyheter</th>

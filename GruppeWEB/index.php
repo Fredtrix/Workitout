@@ -119,6 +119,11 @@ include("webProsjektTopp.php");
 		  	include("handlekurvinfo.php");
 		  }
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> dfa80a0f80b561dc537673c97169170dd2c5565f
 		  elseif ($_GET["page"] ==26)
 		  {
 		  	include ("webProsjektinnhold.php");
