@@ -22,7 +22,6 @@ sjekk ut: <a href="index.php?page=20"> For deg som vil bli stor! </a>
 
 
 
-sjekk ut: <a href="http://webProsjektHoved.php?page=1"> For deg som vil bli stor! </a>
 
 											<h3>Treningstøy </h3>
 <br>
@@ -33,8 +32,6 @@ for en ultimat treningshverdag!</p>
 <a href="index.php?page=3"> Sjekk ut våre tilbud!</a>
 
 
-
-<a href="http://webProsjektHoved.php?page=8"> Sjekk ut våre tilbud!</a>
 
 
 											<h3>Kosthold</h3>
