@@ -123,6 +123,12 @@ include("webProsjektTopp.php");
 		  elseif($_GET["page"]==18)
 
 		  {
+		  	include ("handlekurv.php");
+		  }
+
+		  elseif($_GET["page"]==29)
+
+		  {
 		  	include("handlekurvinfo.php");
 		  }
 
