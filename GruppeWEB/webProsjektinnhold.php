@@ -18,7 +18,7 @@ Skal du bli større å sterkere har vi de perfekte oppleggendet for akkurat deg!
 <br>
 
 
-sjekk ut: <a href="index.php?page=20"> For deg som vil bli stor! </a>
+sjekk ut: <a href="index.php?page=12"> For deg som vil bli stor! </a>
 
 
 
