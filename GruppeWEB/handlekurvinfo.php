@@ -44,7 +44,7 @@
 		<option>16</option>
 		<option>17</option>
 	</select>
-	<input type="text" id="cvc" value="CVC" onblur="if(this.value=='') {this.value='CVC'}" onfocus="if (this.value== 'CVC'){this.value=''}"></input><br>
+	<input type="text" id="cvc" value="CVC" onblur="if(this.value=='') {this.value='CVC'}" onfocus="if (this.value== 'CVC'){this.value=''}"><br>
 	<input type="submit" value="Bestill" class="handlekjop">
 </form>
 </section>
