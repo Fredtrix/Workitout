@@ -94,14 +94,14 @@ padding-left:8%;
 
 #navigasjonsbar li a{
 display:block;
-width:60px;
+width:100%;
 color:white;
 text-decoration:none;
 
 }
 #navigasjonsbar li a:hover{
 color:white;
-background-color: black;
+background-color: green;
 border-radius:5px;
 
 }
