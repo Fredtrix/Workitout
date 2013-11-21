@@ -4,7 +4,7 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="jquery.animate-colors.js"></script>
 <meta charset="UTF-8">
-<title>fitness</title>
+<title>TreningsPrat</title>
 <link rel="stylesheet" type="text/css" href="webProsjektStilark.css">
 </head>
 <body>
