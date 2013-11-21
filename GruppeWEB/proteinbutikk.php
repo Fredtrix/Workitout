@@ -6,11 +6,7 @@
 
 </ul>
 </aside>
-<div id="sidebilder">
-<img src="sideslider1.jpg" height="250" width="250"><br>
-<img src="sideslider2.jpg" height="250" width="250"><br>
-<img src="sideslider3.jpg" height="250" width="250">
-</div>
+
 <section id="butikk"><h1 id="butikkh1">Butikk</h1>
 <hr>
 <table border="1" id="tilbudtabell">

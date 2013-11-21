@@ -13,7 +13,7 @@ Din bestilling:<br><br>
 <?php
 include ("proteinphp.php");
 ?>
-<form action="index.php?page=29" method="post">
+<form action="index.php?page=27" method="post">
 	<input name="Videre"  class="handlekjop" type="Submit" value="Til Betaling">
 </form>
 </section>
