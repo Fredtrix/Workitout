@@ -20,7 +20,7 @@ $(document).ready(function linker(){
 </ul>
 </aside>
 
-<article>
+<article id="treningsArtikkel">
 <h2>Trening</h2>
 <p>Her vil du finne ulike typer treningsprogram og video av øvelser.</p>
 <p>Naviger deg på siden for å finne treningsprogram</p>
