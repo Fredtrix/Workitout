@@ -1,5 +1,5 @@
 <footer>
-	&copy; guys wid guns
+	&copy; TreningsPrat
 </footer>
 </body>
 </html>

@@ -9,9 +9,8 @@
 include ("butikkeaster.js");
 ?>
 <div id="sidebilderhovedbutikk">
-<img src="sideslider1.jpg" id="sidebilde1" height="250" width="250"><br>
-<img src="sideslider2.jpg" id="sidebilde2" height="250" width="250"><br>
-<img src="sideslider3.jpg" id="sidebilde3" height="250" width="250">
+
+
 </div>
 <section id="butikk"><h2 id="butikkh1">Butikk</h2>
 
