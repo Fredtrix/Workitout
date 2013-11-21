@@ -9,11 +9,11 @@
 <hr>
 <form action="index.php?page=28" method="post">
 	Bestillingsinfo:<br>
-	<input type="text" name="navn" class="betalingsinfo" value="Fornavn/Etternavn" onblur="if(this.value=='') {this.value='Fornavn/Etternavn'}" onfocus="if (this.value== 'Fornavn/Etternavn'){this.value=''}"></input><br>
-	<input type="text" name="adresse" class="betalingsinfo" value="Adresse" onblur="if(this.value=='') {this.value='Adresse'}" onfocus="if (this.value== 'Adresse'){this.value=''}"></input><br>
-    <input type="text" name="poststed" class="betalingsinfo" value="Poststed" onblur="if(this.value=='') {this.value='Poststed'}" onfocus="if (this.value== 'Poststed'){this.value=''}"></input>
-    <input type="text" name="postnr" class="betalingsinfo" value="Postnr" onblur="if(this.value=='') {this.value='Postnr'}" onfocus="if (this.value== 'Postnr'){this.value=''}"></input><br>
-    <input type="text" name="telefon" class="betalingsinfo" value="Telefon" onblur="if(this.value=='') {this.value='Telefon'}" onfocus="if (this.value== 'Telefon'){this.value=''}"></input><br>
+	<input type="text" name="navn" class="betalingsinfo" value="Fornavn/Etternavn" onblur="if(this.value=='') {this.value='Fornavn/Etternavn'}" onfocus="if (this.value== 'Fornavn/Etternavn'){this.value=''}"><br>
+	<input type="text" name="adresse" class="betalingsinfo" value="Adresse" onblur="if(this.value=='') {this.value='Adresse'}" onfocus="if (this.value== 'Adresse'){this.value=''}"><br>
+    <input type="text" name="poststed" class="betalingsinfo" value="Poststed" onblur="if(this.value=='') {this.value='Poststed'}" onfocus="if (this.value== 'Poststed'){this.value=''}">
+    <input type="text" name="postnr" class="betalingsinfo" value="Postnr" onblur="if(this.value=='') {this.value='Postnr'}" onfocus="if (this.value== 'Postnr'){this.value=''}"><br>
+    <input type="text" name="telefon" class="betalingsinfo" value="Telefon" onblur="if(this.value=='') {this.value='Telefon'}" onfocus="if (this.value== 'Telefon'){this.value=''}"><br>
 	<br>Betaling:<br>
 	<select class="handlestorrelse">
 		<option>VISA</option>
@@ -21,7 +21,7 @@
 		<option>AMERICAN EXPRESS</option>
 		<option>DINERS CLUB</option>
 	</select><br>
-	<input type="text" id="betalingsinfo" value="Kortnummer" onblur="if(this.value=='') {this.value='Kortnummer'}" onfocus="if (this.value== 'Kortnummer'){this.value=''}"></input><br>
+	<input type="text" class="betalingsinfo" value="Kortnummer" onblur="if(this.value=='') {this.value='Kortnummer'}" onfocus="if (this.value== 'Kortnummer'){this.value=''}"><br>
 	Utangsdato:(mm/yy)<select>
 		<option>01</option>
 		<option>02</option>

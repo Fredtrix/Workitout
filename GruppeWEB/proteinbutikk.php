@@ -1,3 +1,5 @@
+
+
 <aside>
 <ul id="navigasjonsbarTrening">
 <li><a href="index.php?page=6">Kosttilskudd</a></li>
@@ -9,8 +11,9 @@
 
 <section id="butikk"><h1 id="butikkh1">Butikk</h1>
 <hr>
-<table border="1" id="tilbudtabell">
 <form action="index.php?page=8" method="post">
+<table border="1" id="tilbudtabell">
+
 
 	<tr>
 		<th>Design Protein</th>
@@ -21,19 +24,19 @@
 	<tr>
         <td>Pris</td>
         <td>
-        <input type="radio" value="199" name="pris">1kg - 199kr</option>
-        <input type="radio" value="299" name="pris">2kg - 299kr</option>
+        <input type="radio" value="199" name="pris">1kg - 199kr</input>
+        <input type="radio" value="299" name="pris">2kg - 299kr</input>
     </td>
        
         <td>           
-            <input type="radio" value="349" name="pris">2kg - 349kr</option>
-            <input type="radio" value="499" name="pris">3kg - 499kr</option>
+            <input type="radio" value="349" name="pris">2kg - 349kr</input>
+            <input type="radio" value="499" name="pris">3kg - 499kr</input>
    </td>
 
 
     <td>
-        <input type="radio" value="499" name="pris">4kg - 499kr</option>
-        <input type="radio" value="599" name="pris">4kg - 599kr</option>
+        <input type="radio" value="499" name="pris">4kg - 499kr</input>
+        <input type="radio" value="599" name="pris">4kg - 599kr</input>
     </td>
     </tr> 
 
@@ -52,21 +55,23 @@
 		<td><img class="butikkBilder" src="wprotein2.jpg" alt="protein"></td>
 		<td><img class="butikkBilder" src="wprotein3.png" alt="protein"></td>
 		</tr>
+        <tr>
+        <tr>
                <td>Pris</td>
         <td>
-        <input type="radio" value="499" name="pris">2kg - 499kr</option>
-        <input type="radio" value="699" name="pris">3.5kg - 699kr</option>
+        <input type="radio" value="499" name="pris">2kg - 499kr</input>
+        <input type="radio" value="699" name="pris">3.5kg - 699kr</input>
     </td>
        
         <td>           
-            <input type="radio" value="299" name="pris">1.5kg - 199kr</option>
-            <input type="radio" value="299" name="pris">2kg - 299kr</option>
+            <input type="radio" value="299" name="pris">1.5kg - 199kr</input>
+            <input type="radio" value="299" name="pris">2kg - 299kr</input>
    </td>
 
 
     <td>
-        <input type="radio" value="699" name="pris">3kg - 699kr</option>
-        <input type="radio" value="899" name="pris">4.5kg - 899kr</option>
+        <input type="radio" value="699" name="pris">3kg - 699kr</input>
+        <input type="radio" value="899" name="pris">4.5kg - 899kr</input>
     </td>
     </tr> 
             	<tr>
@@ -81,19 +86,20 @@
 		<td><img class="butikkBilder" src="pokning2.png" alt="protein"></td>
 		<td><img class="butikkBilder" src="pokning3.jpg" alt="protein"></td>
 		</tr>
+        <tr>
         <td>Pris</td>
         <td>
-        <input type="radio" value="199" name="pris">1kg - 199kr</option>
+        <input type="radio" value="199" name="pris">1kg - 199kr</input>
     </td>
        
         <td>           
-            <input type="radio" value="399" name="pris">1.5kg - 399kr</option>
-            <input type="radio" value="599" name="pris">3kg - 599kr</option>
+            <input type="radio" value="399" name="pris">1.5kg - 399kr</input>
+            <input type="radio" value="599" name="pris">3kg - 599kr</input>
    </td>
 
 
     <td>
-        <input type="radio" value="499" name="pris">2kg - 499kr</option>
+        <input type="radio" value="499" name="pris">2kg - 499kr</input>
     </td>
     </tr> 
             	<tr>
@@ -108,19 +114,20 @@
 		<td><img class="butikkBilder" src="mbrownie2.jpg" alt="protein"></td>
 		<td><img class="butikkBilder" src="mbrownie3.jpg" alt="protein"></td>
 		</tr>
+        <tr>
         <td>Pris</td>
             <td>
-            <input type="radio" name="pris" value="29">Enkel - 29kr</option>
-            <input type="radio" name="pris" value="399">1.2kg - 399kr</option>
+            <input type="radio" name="pris" value="29">Enkel - 29kr</input>
+            <input type="radio" name="pris" value="399">1.2kg - 399kr</input>
     </td>
             <td>
-            <input type="radio" name="pris" value="29">Enkel - 29kr</option>
-            <input type="radio" name="pris" value="299">1.2kg - 299kr</option>
+            <input type="radio" name="pris" value="29">Enkel - 29kr</input>
+            <input type="radio" name="pris" value="299">1.2kg - 299kr</input>
     </td>
     <td>
 
-            <input type="radio" name="pris" value="29">Enkel - 29kr</option>
-            <input type="radio" name="pris" value="299">1.2kg - 299kr</option>
+            <input type="radio" name="pris" value="29">Enkel - 29kr</input>
+            <input type="radio" name="pris" value="299">1.2kg - 299kr</input>
     </td>
         </tr>
             	<tr>
@@ -135,16 +142,17 @@
 		<td><img class="butikkBilder" src="burner2.png" alt="protein"></td>
 		<td><img class="butikkBilder" src="burner3.png" alt="protein"></td>
 		</tr>
+        <tr>
         <td>Pris</td>
     <td>
-            <input type="radio" name="pris" value="249">1kg - 249kr</option>
+            <input type="radio" name="pris" value="249">1kg - 249kr</input>
     </td>
     <td>
-            <input type="radio" name="pris" value="249">1kg - 249kr</option>
+            <input type="radio" name="pris" value="249">1kg - 249kr</input>
     </td>
     <td>
 
-            <input type="radio" name="pris" value="99">0.8kg - 99kr</option>
+            <input type="radio" name="pris" value="99">0.8kg - 99kr</input>
 
     </td>
         </tr>
@@ -160,15 +168,16 @@
 		<td><img class="butikkBilder" src="syre2.jpg" alt="protein"></td>
 		<td><img class="butikkBilder" src="syre3.png" alt="protein"></td>
 		</tr>
+        <tr>
         <td>Pris</td>
                     <td>
-            <input type="radio"  name="pris" value="299">1kg - 299kr</option>
+            <input type="radio"  name="pris" value="299">1kg - 299kr</input>
     </td>
                     <td>
-            <input type="radio" name="pris" value="499">1kg - 499kr</option>
+            <input type="radio" name="pris" value="499">1kg - 499kr</input>
     </td>
                     <td>
-            <input type="radio" name="pris" value="335">1kg - 335kr</option>
+            <input type="radio" name="pris" value="335">1kg - 335kr</input>
     </td>
         </tr>
             	<tr>
@@ -177,6 +186,7 @@
         <td><input name="syre2" type="submit" value="KJØP" class="kjopknapp"></td>
         <td><input name="syre3" type="submit" value="KJØP" class="kjopknapp"></td>
     </tr>
-</form>
+
 </table>
+</form>
 </section>

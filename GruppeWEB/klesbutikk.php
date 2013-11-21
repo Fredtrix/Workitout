@@ -9,8 +9,9 @@
 
 <section id="butikk"><h1 id="butikkh1">Butikk</h1>
 <hr>
+ <form action="index.php?page=8" method="post">
 <table border="1" id="butikktable">
-    <form action="index.php?page=8" method="post">
+   
 	<tr>
 		<th>T-skjorter</th>
 		<td><img class="butikkBilder" src="ktsjorte1.jpg" alt="protein"></td>
@@ -35,6 +36,7 @@
 		<td><img class="butikkBilder" src="ksinglet2.jpg" alt="klær"></td>
 		<td><img class="butikkBilder" src="ksinglet3.jpg" alt="klær"></td>
 		</tr>
+        <tr>
         <td>Pris</td>
         <td>Pris: 249kr</td>
         <td>Pris: 249kr</td>
@@ -52,6 +54,7 @@
 		<td><img class="butikkBilder" src="hettegenser2.jpg" alt="klær"></td>
 		<td><img class="butikkBilder" src="khettegenser3.jpg" alt="klær"></td>
 		</tr>
+        <tr>
         <td>Pris</td>
         <td>Pris: 849kr</td>
         <td>Pris: 849kr</td>
@@ -70,6 +73,7 @@
 		<td><img class="butikkBilder" src="kshorts2.jpg" alt="protein"></td>
 		<td><img class="butikkBilder" src="kshorts3.jpg" alt="protein"></td>
 		</tr>
+        <tr>
         <td>Pris</td>
         <td>Pris: 349kr</td>
         <td>Pris: 349kr</td>
@@ -88,6 +92,7 @@
 		<td><img class="butikkBilder" src="diverse2.png" alt="protein"></td>
 		<td><img class="butikkBilder" src="diverse3.png" alt="protein"></td>
 		</tr>
+        <tr>
         <td>Pris</td>
         <td>Pris: 165kr</td>
         <td>Pris: 199kr</td>
@@ -100,7 +105,7 @@
         <td><input name="kdiverse3" type="submit" value="KJØP" class="kjopknapp"></td>
     </tr>
 
-</form>
-</table>
 
+</table>
+</form>
 </section>
